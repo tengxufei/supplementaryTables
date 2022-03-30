@@ -1,0 +1,4146 @@
+gene	type	drug	interaction_group_score
+AANAT	WNT-fro	isoproterenol	0.67
+AANAT	WNT-fro	melatonin	1.34
+AANAT	WNT-fro	fluoxetine	0.65
+AANAT	WNT-fro	nabiximols	0.52
+AANAT	WNT-fro	cannabidiol	0.53
+ABCB1	G4b-fro	cytarabine	0.03
+ABCB1	G4b-fro	agomelatine	0.04
+ABCB1	G4b-fro	etravirine	0.11
+ABCB1	G4b-fro	simeprevir	0.02
+ABCB1	G4b-fro	miconazole	0.02
+ABCB1	G4b-fro	cyclosporine	0.09
+ABCB1	G4b-fro	amisulpride	0.04
+ABCB1	G4b-fro	ketoconazole	0.01
+ABCB1	G4b-fro	fluoxetine	0.03
+ABCB1	G4b-fro	paclitaxel	0.01
+ABCB1	G4b-fro	tetrabenazine	0.04
+ABCB1	G4b-fro	melphalan	0.01
+ABCB1	G4b-fro	verapamil	0.08
+ABCB1	G4b-fro	itraconazole	0.06
+ABCB1	G4b-fro	cisplatin	0.01
+ABCB1	G4b-fro	camptothecin	0.01
+ABCB1	G4b-fro	celiprolol	0.03
+ABCB1	G4b-fro	sufentanil	0.03
+ABCB1	G4b-fro	valinomycin	0.11
+ABCB1	G4b-fro	azt	0.03
+ABCB1	G4b-fro	trabectedin	0.15
+ABCB1	G4b-fro	colchicine	0.01
+ABCB1	G4b-fro	losartan	0.05
+ABCB1	G4b-fro	haloperidol	0
+ABCB1	G4b-fro	flupenthixol	0.03
+ABCB1	G4b-fro	miltefosine	0.13
+ABCB1	G4b-fro	temsirolimus	0.03
+ABCB1	G4b-fro	methadone	0.01
+ABCB1	G4b-fro	hycanthone	0.03
+ABCB1	G4b-fro	pervilleine c	0.45
+ABCB1	G4b-fro	reserpine	0.03
+ABCB1	G4b-fro	oxycodone	0.07
+ABCB1	G4b-fro	tesmilifene	0.11
+ABCB1	G4b-fro	pravastatin	0.02
+ABCB1	G4b-fro	voriconazole	0.07
+ABCB1	G4b-fro	nortriptyline	0.02
+ABCB1	G4b-fro	fentanyl	0.08
+ABCB1	G4b-fro	gnf-pf-1852	0.02
+ABCB1	G4b-fro	antihistamine	0.06
+ABCB1	G4b-fro	lim-0705	0.11
+ABCB1	G4b-fro	tetrandrine	0.18
+ABCB1	G4b-fro	rucaparib	0.01
+ABCB1	G4b-fro	tocofersolan	0.22
+ABCB1	G4b-fro	propafenone	0.02
+ABCB1	G4b-fro	ondansetron	0.05
+ABCB1	G4b-fro	hydrocortisone	0.02
+ABCB1	G4b-fro	gleevec	0.01
+ABCB1	G4b-fro	desmethylsertraline	0.89
+ABCB1	G4b-fro	spironolactone	0.03
+ABCB1	G4b-fro	zd1839	0.02
+ABCB1	G4b-fro	elacridar	0.34
+ABCB1	G4b-fro	vinblastine	0.02
+ABCB1	G4b-fro	pervilleine f	0.45
+ABCB1	G4b-fro	emopamil	0.89
+ABCB1	G4b-fro	biricodar	0.11
+ABCB1	G4b-fro	pantoprazole	0.06
+ABCB1	G4b-fro	atorvastatin	0.03
+ABCB1	G4b-fro	atp	0.02
+ABCB1	G4b-fro	dicloxacillin	0.17
+ABCB1	G4b-fro	propranolol	0.04
+ABCB1	G4b-fro	levofloxacin	0.06
+ABCB1	G4b-fro	loperamide	0.01
+ABCB1	G4b-fro	nicardipine	0.01
+ABCB1	G4b-fro	crizotinib	0.02
+ABCB1	G4b-fro	zosuquidar	0.89
+ABCB1	G4b-fro	3-((2-phenethylphenoxy)methyl)pyridine	0.45
+ABCB1	G4b-fro	risperidone	0.02
+ABCB1	G4b-fro	nevirapine	0.06
+ABCB1	G4b-fro	clomipramine	0.03
+ABCB1	G4b-fro	adriamycin	0.04
+ABCB1	G4b-fro	atazanavir	0.05
+ABCB1	G4b-fro	capsaicin	0.03
+ABCB1	G4b-fro	doxorubicin	0.02
+ABCB1	G4b-fro	methylprednisolone	0.03
+ABCB1	G4b-fro	zidovudine	0.03
+ABCB1	G4b-fro	etoposide	0.01
+ABCB1	G4b-fro	lenalidomide	0.03
+ABCB1	G4b-fro	desferrioxamine	0.03
+ABCB1	G4b-fro	scutellarin	0.15
+ABCB1	G4b-fro	lopinavir	0.1
+ABCB1	G4b-fro	dipyridamole	0
+ABCB1	G4b-fro	epirubicin	0.01
+ABCB1	G4b-fro	heterocodeine	0.45
+ABCB1	G4b-fro	dexrazoxane	0.19
+ABCB1	G4b-fro	methylphenidate	0.01
+ABCB1	G4b-fro	boceprevir	0.06
+ABCB1	G4b-fro	chlorpromazine	0.02
+ABCB1	G4b-fro	ont-093	0.89
+ABCB1	G4b-fro	carboplatin	0.01
+ABCB1	G4b-fro	omeprazole	0.02
+ABCB1	G4b-fro	terfenadine	0.06
+ABCB1	G4b-fro	aliskiren	0.11
+ABCB1	G4b-fro	diltiazem	0.02
+ABCB1	G4b-fro	cortisol	0.02
+ABCB1	G4b-fro	voacamine	1.12
+ABCB1	G4b-fro	lonafarnib	0.06
+ABCB1	G4b-fro	fluvoxamine	0.06
+ABCB1	G4b-fro	ivermectin	0.04
+ABCB1	G4b-fro	oxcarbazepine	0.02
+ABCB1	G4b-fro	amprenavir	0.06
+ABCB1	G4b-fro	gefitinib	0.02
+ABCB1	G4b-fro	probenecid	0.04
+ABCB1	G4b-fro	miltirone	0.09
+ABCB1	G4b-fro	irinotecan	0.01
+ABCB1	G4b-fro	erythromycin	0.01
+ABCB1	G4b-fro	sunitinib	0.03
+ABCB1	G4b-fro	efavirenz	0.18
+ABCB1	G4b-fro	sorafenib	0
+ABCB1	G4b-fro	6-desoxymorphine	0.45
+ABCB1	G4b-fro	brecanavir	0.45
+ABCB1	G4b-fro	aripiprazole	0.01
+ABCB1	G4b-fro	dihydro-12-hydroxy-2,2-dimethyl-2h,6h-pyrano[3,2-b]xanthen-6-one	0.22
+ABCB1	G4b-fro	vindesine	0.11
+ABCB1	G4b-fro	go-y034	0.45
+ABCB1	G4b-fro	bafetinib	0.11
+ABCB1	G4b-fro	phenothiazine	0.03
+ABCB1	G4b-fro	vecuronium	0.11
+ABCB1	G4b-fro	fexofenadine	0.15
+ABCB1	G4b-fro	midazolam	0.01
+ABCB1	G4b-fro	everolimus	0.01
+ABCB1	G4b-fro	cimetidine	0.02
+ABCB1	G4b-fro	clarithromycin	0.04
+ABCB1	G4b-fro	simvastatin	0.02
+ABCB1	G4b-fro	sparfloxacin	0.07
+ABCB1	G4b-fro	daunorubicin	0.02
+ABCB1	G4b-fro	indinavir	0.02
+ABCB1	G4b-fro	concanamycin a	0.67
+ABCB1	G4b-fro	desipramine	0.01
+ABCB1	G4b-fro	atenolol	0.01
+ABCB1	G4b-fro	amiodarone	0.01
+ABCB1	G4b-fro	astemizole	0.01
+ABCB1	G4b-fro	cma-676	0.22
+ABCB1	G4b-fro	maprotiline	0.01
+ABCB1	G4b-fro	valspodar	0.22
+ABCB1	G4b-fro	2',4'-dihydroxychalcone	0.11
+ABCB1	G4b-fro	cyanocobalamin	0.03
+ABCB1	G4b-fro	domperidone	0.11
+ABCB1	G4b-fro	mitoxantrone	0.01
+ABCB1	G4b-fro	bisantrene	0.45
+ABCB1	G4b-fro	ritonavir	0.19
+ABCB1	G4b-fro	5-fu	0
+ABCB1	G4b-fro	imatinib	0.01
+ABCB1	G4b-fro	taxol c	0.45
+ABCB1	G4b-fro	bromperidol	0.06
+ABCB1	G4b-fro	trimetrexate	0.05
+ABCB1	G4b-fro	epothilone d	0.04
+ABCB1	G4b-fro	lomerizine	0.17
+ABCB1	G4b-fro	quinidine	0.03
+ABCB1	G4b-fro	vincristine	0.02
+ABCB1	G4b-fro	tariquidar	0.67
+ABCB1	G4b-fro	2'-hydroxychalcone	0.07
+ABCB1	G4b-fro	tamoxifen	0
+ABCB1	G4b-fro	nifedipine	0.01
+ABCB1	G4b-fro	acenocoumarol	0.07
+ABCB1	G4b-fro	paroxetine	0.04
+ABCB1	G4b-fro	warfarin	0.03
+ABCB1	G4b-fro	lovastatin	0.02
+ABCB1	G4b-fro	citalopram	0.04
+ABCB1	G4b-fro	disulfiram	0.01
+ABCB1	G4b-fro	bromocriptine	0.02
+ABCB1	G4b-fro	sirolimus	0.02
+ABCB1	G4b-fro	morphine	0.07
+ABCB1	G4b-fro	hydroxocobalamin	0.03
+ABCB1	G4b-fro	prednisolone	0.03
+ABCB1	G4b-fro	propofol	0.02
+ABCB1	G4b-fro	rocuronium	0.07
+ABCB1	G4b-fro	fluvastatin	0.02
+ABCB1	G4b-fro	dofequidar	0.45
+ABCB1	G4b-fro	temozolomide	0.02
+ABCB1	G4b-fro	nelfinavir	0.29
+ABCB1	G4b-fro	curcumin	0.01
+ABCB1	G4b-fro	thc	0.06
+ABCB1	G4b-fro	daptomycin	0.45
+ABCB1	G4b-fro	fluphenazine	0.01
+ABCB1	G4b-fro	clopidogrel	0.4
+ABCB1	G4b-fro	xr-9544	0.22
+ABCB1	G4b-fro	amitriptyline	0.03
+ABCB1	G4b-fro	sn-38	0.01
+ABCB1	G4b-fro	purgin ii	0.45
+ABCB1	G4b-fro	ranolazine	0.04
+ABCB1	G4b-fro	roxithromycin	0.07
+ABCB1	G4b-fro	sevoflurane	0.01
+ABCB1	G4b-fro	capecitabine	0.02
+ABCB1	G4b-fro	venlafaxine	0.11
+ABCB1	G4b-fro	phenobarbital	0.02
+ABCB1	G4b-fro	tetracycline	0.01
+ABCB1	G4b-fro	aldosterone	0.04
+ABCB1	G4b-fro	garlic	0.04
+ABCB1	G4b-fro	austocystin d	0.45
+ABCB1	G4b-fro	g-csf	0.04
+ABCB1	G4b-fro	olanzapine	0.01
+ABCB1	G4b-fro	nimodipine	0.02
+ABCB1	G4b-fro	nitrendipine	0.02
+ABCB1	G4b-fro	dendroamide a	0.45
+ABCB1	G4b-fro	tangeretin	0.06
+ABCB1	G4b-fro	murucoidin v	0.45
+ABCB1	G4b-fro	remifentanil	0.06
+ABCB1	G4b-fro	flavokawain a	0.45
+ABCB1	G4b-fro	6-desoxycodeine	0.45
+ABCB1	G4b-fro	nefazodone	0.03
+ABCB1	G4b-fro	vemurafenib	0.01
+ABCB1	G4b-fro	3,4-dihydroxyxanthone	0.22
+ABCB1	G4b-fro	delavirdine	0.09
+ABCB1	G4b-fro	levetiracetam	0.03
+ABCB1	G4b-fro	teniposide	0.03
+ABCB1	G4b-fro	quinine	0.02
+ABCB1	G4b-fro	sertraline	0.05
+ABCB1	G4b-fro	dexamethasone	0.01
+ABCB1	G4b-fro	granisetron	0.05
+ABCB1	G4b-fro	rituximab	0.06
+ABCB1	G4b-fro	gabapentin	0.01
+ABCB1	G4b-fro	fenofibrate	0.01
+ABCB1	G4b-fro	tipifarnib	0.07
+ABCB1	G4b-fro	talinolol	0.22
+ABCB1	G4b-fro	modafinil	0.04
+ABCB1	G4b-fro	dabigatran	0.07
+ABCB1	G4b-fro	dexverapamil	0.45
+ABCB1	G4b-fro	lithium	0.01
+ABCB1	G4b-fro	idarubicin	0.03
+ABCB1	G4b-fro	bepridil	0.01
+ABCB1	G4b-fro	ceritinib	0.04
+ABCB1	G4b-fro	saquinavir	0.03
+ABCB1	G4b-fro	doxycycline	0.05
+ABCB1	G4b-fro	isoniazid	0.06
+ABCB1	G4b-fro	metochalcone	0.22
+ABCB1	G4b-fro	dexniguldipine	0.22
+ABCB1	G4b-fro	codeine	0.11
+ABCB1	G4b-fro	felodipine	0.01
+ABCB1	G4b-fro	anastrozole	0.02
+ABCB1	G4b-fro	ranitidine	0.04
+ABCB1	G4b-fro	10-deacetoxypaclitaxel	0.45
+ABCB1	G4b-fro	digoxin	0.02
+ABCB1	G4b-fro	lamotrigine	0.01
+ABCB1	G4b-fro	bleomycin	0.02
+ABCB1	G4b-fro	progesterone	0
+ABCB1	G4b-fro	rivaroxaban	0.15
+ABCB1	G4b-fro	silibinin	0.04
+ABCB1	G4b-fro	pentazocine	0.06
+ABCB1	G4b-fro	prednisone	0.02
+ABCB1	G4b-fro	pervilleine d	0.45
+ABCB1	G4b-fro	valganciclovir	0.22
+ABCB1	G4b-fro	dextromethorphan	0.02
+ABCB1	G4b-fro	erlotinib	0
+ABCB1	G4b-fro	carvedilol	0.01
+ABCB1	G4b-fro	lamivudine	0.02
+ABCB1	G4b-fro	clozapine	0.01
+ABCB1	G4b-fro	lansoprazole	0.02
+ABCB1	G4b-fro	nicotine	0.01
+ABCB1	G4b-fro	mitomycin	0.02
+ABCB1	G4b-fro	reversin 121	0.89
+ABCB1	G4b-fro	docetaxel	0.01
+ABCB1	G4b-fro	rifampin	0.01
+ABCB1	G4b-fro	ibuprofen	0.01
+ABCB1	G4b-fro	4-((2-phenethylphenoxy)methyl)pyridine	0.45
+ABCB1	G4b-fro	mefloquine	0.07
+ABCB1	G4b-fro	mifepristone	0.01
+ABCB1	G4b-fro	7-deoxypaclitaxel	0.45
+ABCB1	G4b-fro	topotecan	0.01
+ABCB1	G4b-fro	pervilleine b	0.45
+ABCC4	WNT-fro	cisplatin	0.05
+ABCC4	WNT-fro	lamivudine	0.07
+ABCC4	WNT-fro	valganciclovir	1.89
+ABCC4	WNT-fro	leucovorin	0.14
+ABCC4	WNT-fro	mtx	0.11
+ABCC4	WNT-fro	cefoperazone	0.47
+ABCC4	WNT-fro	methotrexate	0.11
+ABCC4	WNT-fro	ceftriaxone	0.24
+ABCC4	WNT-fro	doxorubicin	0.04
+ABCC4	WNT-fro	cephradine	0.95
+ABCC4	WNT-fro	6-thioguanine	0.15
+ABCC4	WNT-fro	mercaptopurine	0.11
+ABCC4	WNT-fro	rucaparib	0.06
+ABCC4	WNT-fro	cefamandole	1.26
+ABCC4	WNT-fro	cefoxitin	1.26
+ABCC4	WNT-fro	cefmetazole	1.26
+ABCC4	WNT-fro	atp	0.07
+ABCC4	WNT-fro	cefuroxime	0.95
+ABCC4	WNT-fro	cefaclor	0.27
+ABCC4	WNT-fro	zidovudine	0.18
+ABCC4	WNT-fro	furosemide	0.27
+ABCC4	WNT-fro	imatinib	0.06
+ABCC4	WNT-fro	irinotecan	0.07
+ABCC4	WNT-fro	latanoprost	1.26
+ABCC4	WNT-fro	ganciclovir	0.95
+ABCC4	WNT-fro	azathioprine	0.15
+ABCC4	WNT-fro	cephalexin	0.76
+ABCC4	WNT-fro	fluorouracil	0.04
+ABCC4	WNT-fro	cytarabine	0.09
+ABCC4	WNT-fro	cyclophosphamide	0.05
+ABCC4	WNT-fro	rimonabant	0.47
+ABCC8	SHH-rev	tolazamide	1.71
+ABCC8	SHH-rev	atp	0.26
+ABCC8	SHH-rev	glymidine	6.98
+ABCC8	SHH-rev	tolbutamide	1.49
+ABCC8	SHH-rev	glyburide	1.43
+ABCC8	SHH-rev	glimepiride	2.62
+ABCC8	SHH-rev	sarakalim	0.75
+ABCC8	SHH-rev	glibenclamide	1.43
+ABCC8	SHH-rev	repaglinide	2.06
+ABCC8	SHH-rev	chlorpropamide	1.09
+ABCC8	SHH-rev	nateglinide	2.45
+ABCC8	SHH-rev	gliclazide	2.99
+ABCC8	SHH-rev	tolbutamide sodium, sterile	1.49
+ABCC8	SHH-rev	naminidil	0.75
+ABCC8	SHH-rev	gliquidone	2.99
+ABCC8	SHH-rev	acetohexamide	1.99
+ABCC8	SHH-rev	glipizide	2.62
+ABCC8	SHH-rev	berberrubine	1.49
+ABCC8	SHH-rev	mitiglinide	3.74
+ABCC8	SHH-rev	berberine chloride	0.75
+ABCG1	G3-rev	atp	1.49
+ABCG1	G3-rev	leucovorin	1.01
+ABCG1	G3-rev	irinotecan	0.54
+ABCG1	G3-rev	fluorouracil	0.27
+ACKR3	WNT-fro	plerixafor	11.36
+ACOT13	G4b-fro	2-undecanone	113.61
+ACY1	WNT-fro	acetylcysteine	1.51
+ACY1	WNT-fro	aspartic acid	4.21
+ACY1	WNT-fro	copper	0.26
+ADCY2	G4b-fro	colforsin	2.37
+ADCY2	G4b-fro	capecitabine	0.79
+ADCY2	G4b-fro	aurothioglucose	4.73
+ADCY2	G4b-fro	nsc-270718	7.1
+ADORA1	WNT-fro	caffeine	0.32
+ADORA1	WNT-fro	sch-442416	0.33
+ADORA1	WNT-fro	amp-579	1
+ADORA1	WNT-fro	tramadol	0.11
+ADORA1	WNT-fro	theophylline	0.23
+ADORA1	WNT-fro	derenofylline	0.5
+ADORA1	WNT-fro	naxifylline	1.99
+ADORA1	WNT-fro	cvt-6883	0.1
+ADORA1	WNT-fro	2-chloroadenosine	0.09
+ADORA1	WNT-fro	luf-5962	1.99
+ADORA1	WNT-fro	defibrotide	0.4
+ADORA1	WNT-fro	zm-241385	0.2
+ADORA1	WNT-fro	caffeine, citrated	0.25
+ADORA1	WNT-fro	st-1535	0.25
+ADORA1	WNT-fro	rpr749	1
+ADORA1	WNT-fro	aminophylline	0.36
+ADORA1	WNT-fro	preladenant	0.25
+ADORA1	WNT-fro	tecadenoson	1.99
+ADORA1	WNT-fro	pd-117915	1.99
+ADORA1	WNT-fro	fk453	0.5
+ADORA1	WNT-fro	istradefylline	0.75
+ADORA1	WNT-fro	regadenoson	0.2
+ADORA1	WNT-fro	amp579	1
+ADORA1	WNT-fro	ino-8875	2.99
+ADORA1	WNT-fro	adenosine	0.82
+ADORA1	WNT-fro	rolofylline	1.25
+ADORA1	WNT-fro	trabodenoson	2.99
+ADORA1	WNT-fro	capadenoson	1.99
+ADORA1	WNT-fro	tonapofylline	1.74
+ADORA1	WNT-fro	pbf-680	1
+ADORA1	WNT-fro	enprofylline	0.33
+ADORA1	WNT-fro	mefloquine	0.33
+ADORA1	WNT-fro	pd-81723	0.5
+ADORA1	WNT-fro	kf-17837	0.33
+ADORA1	WNT-fro	pentoxifylline	0.09
+ADORA1	WNT-fro	cl-ib-meca	0.2
+ADORA1	WNT-fro	aspirin	0.03
+ADORA1	WNT-fro	lamotrigine	0.05
+ADORA1	WNT-fro	apadenoson	0.33
+ADORA1	WNT-fro	las38096	0.09
+ADORA1	WNT-fro	cvt-3619	1.99
+ADORA1	WNT-fro	8-cyclopentyltheophylline	0.25
+ADORA1	WNT-fro	gw493838	1
+ADORA1	WNT-fro	chromocarb	1
+ADORA1	WNT-fro	cannabidiol	0.05
+ADORA1	WNT-fro	fk-453	0.5
+ADORA1	WNT-fro	bay1067197	1
+ADORA1	WNT-fro	neca	0.12
+ADORA1	WNT-fro	ccpa	0.14
+ADORA1	WNT-fro	oxtriphylline	0.36
+ADORA1	WNT-fro	gs-9667	1.99
+ADORA1	WNT-fro	isobutylmethylxanthine	0.1
+ADORA1	WNT-fro	gabapentin	0.16
+ADORA1	WNT-fro	apaxifylline	1
+ADORA1	WNT-fro	bg-9928	1.74
+ADORA1	WNT-fro	dyphylline	0.22
+ADORA1	WNT-fro	theophylline sodium glycinate	0.1
+ADORA1	WNT-fro	piclidenoson	0.25
+ADORA1	WNT-fro	theobromine	2.99
+ADORA1	WNT-fro	selodenoson	1.99
+ADORA1	WNT-fro	vipadenant	0.25
+ADORA1	WNT-fro	binodenoson	0.25
+ADORA1	WNT-fro	cyclopentyladenosine	0.14
+ADORA2A	G4b-fro	caffeine	0.39
+ADORA2A	G4b-fro	theophylline	0.19
+ADORA2A	G4b-fro	binodenoson	1.44
+ADORA2A	G4b-fro	preladenant	0.48
+ADORA2A	G4b-fro	derenofylline	0.24
+ADORA2A	G4b-fro	bvt.115959	0.48
+ADORA2A	G4b-fro	fk-453	0.24
+ADORA2A	G4b-fro	uk-432097	1.93
+ADORA2A	G4b-fro	galangin	0.12
+ADORA2A	G4b-fro	istradefylline	1.44
+ADORA2A	G4b-fro	dyphylline	0.21
+ADORA2A	G4b-fro	methotrexate	0.03
+ADORA2A	G4b-fro	apadenoson	1.6
+ADORA2A	G4b-fro	sch-442416	0.32
+ADORA2A	G4b-fro	pentoxifylline	0.08
+ADORA2A	G4b-fro	amp579	0.96
+ADORA2A	G4b-fro	dexefaroxan	0.32
+ADORA2A	G4b-fro	lamotrigine	0.05
+ADORA2A	G4b-fro	regadenoson	1.16
+ADORA2A	G4b-fro	tozadenant	1.44
+ADORA2A	G4b-fro	sakuranetin	0.48
+ADORA2A	G4b-fro	evodenoson	1.93
+ADORA2A	G4b-fro	8-chlorotheophylline	2.89
+ADORA2A	G4b-fro	vipadenant	0.48
+ADORA2A	G4b-fro	morin	0.05
+ADORA2A	G4b-fro	flavone	0.11
+ADORA2A	G4b-fro	amp-579	0.96
+ADORA2A	G4b-fro	2-chloroadenosine	0.09
+ADORA2A	G4b-fro	oxtriphylline	0.35
+ADORA2A	G4b-fro	defibrotide	0.39
+ADORA2A	G4b-fro	caffeine, citrated	0.24
+ADORA2A	G4b-fro	visnagin	0.32
+ADORA2A	G4b-fro	ab-meca	0.48
+ADORA2A	G4b-fro	rolofylline	0.24
+ADORA2A	G4b-fro	enprofylline	0.32
+ADORA2A	G4b-fro	4-{2-[(7-amino-2-furan-2-yl[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl)amino]ethyl}phenol	0.58
+ADORA2A	G4b-fro	neca	0.12
+ADORA2A	G4b-fro	st-1535	0.48
+ADORA2A	G4b-fro	aminophylline	0.09
+ADORA2A	G4b-fro	metrifudil	0.96
+ADORA2A	G4b-fro	cgs-21680	0.64
+ADORA2A	G4b-fro	cpi-444	1.93
+ADORA2A	G4b-fro	sonedenoson	1.93
+ADORA2A	G4b-fro	gw-328267	1.93
+ADORA2A	G4b-fro	tonapofylline	0.48
+ADORA2A	G4b-fro	ccpa	0.14
+ADORA2A	G4b-fro	theophylline sodium glycinate	0.1
+ADORA2A	G4b-fro	ab928	0.48
+ADORA2A	G4b-fro	adenosine	0.96
+ADORA2A	G4b-fro	st1535	0.48
+ADORA2A	G4b-fro	cl-ib-meca	0.19
+ADORA2A	G4b-fro	ciforadenant	1.93
+ADORA2A	G4b-fro	cyclopentyladenosine	0.14
+ADORA2A	G4b-fro	uk432097	1.93
+ADORA2A	G4b-fro	pbf-509	1.93
+ADORA2A	G4b-fro	atl-313	1.93
+ADORA2A	G4b-fro	cv-1808	0.48
+ADORA2A	G4b-fro	cvt-6883	0.1
+ADORA2A	G4b-fro	mefloquine	0.96
+ADORA2A	G4b-fro	kw-6002	1.44
+ADORA2A	G4b-fro	mre-0094	1.93
+ADORA2A	G4b-fro	las38096	0.09
+ADORA2A	G4b-fro	zm-241385	0.58
+ADORA2A	G4b-fro	theobromine	2.25
+ADORA2A	G4b-fro	doxofylline	0.64
+ADORA2A	G4b-fro	kf-17837	0.32
+ADORA2A	G4b-fro	pbf-999	0.48
+ADORA2A	G4b-fro	piclidenoson	0.24
+AK1	G4b-fro	bis(adenosine)-5'-pentaphosphate	56.81
+ALDH1B1	G4b-fro	nadh	1.18
+ALDH5A1	WNT-rev	valproic acid	1.18
+ALDH5A1	WNT-rev	succinic acid	24.85
+ALDH5A1	WNT-rev	chlormerodrin	21.3
+ALDH5A1	WNT-rev	valproate sodium	7.1
+ALDH5A1	WNT-rev	nadh	0.15
+ALDH5A1	WNT-rev	divalproex sodium	7.1
+ALDH5A1	WNT-rev	methadone	0.42
+ALDH5A1	WNT-rev	4-acryloylphenol	3.55
+ALK	WS	brigatinib	1.83
+ALK	WS	chs424802	4.69
+ALK	WS	ceritinib	3.93
+ALK	WS	nivolumab	0.26
+ALK	WS	crizotinib	4
+ALK	WS	lorlatinib	2.34
+ALK	WS	repotrectinib	0.16
+ALK	WS	ldk378	3.93
+ALK	WS	ensartinib	3.53
+ALK	WS	alectinib hydrochloride	0.48
+ALK	WS	doxorubicin	0.05
+ALK	WS	ap26113	2.73
+ALK	WS	alectinib	4.69
+ALK	WS	cenisertib	0.01
+ALK	WS	asp3026	2.17
+ALK	WS	ganetespib	0.11
+ALK	WS	entrectinib	0.1
+ALK	WS	nvp-tae684	0.01
+ALK	WS	pembrolizumab	0.18
+ALK	WS	x-396	3.53
+ALK	WS	tak-715	0.04
+ALK	WS	dalantercept	0.72
+ALK	WS	jnj-7706621	0.02
+ALK	WS	pf-06463922	2.34
+ALK	WS	cep-37440	0.96
+ALK	WS	pf-562271	0.01
+ALK	WS	dndi1417467	0.02
+ALK	WS	tcmdc-125758	0.03
+ALK	WS	ramucirumab	0.16
+ALK	WS	hesperadin	0.02
+ALK	WS	rg-1530	0.01
+ALK	WS	il-10	0.39
+ALK	WS	1032900-25-6	3.93
+ALK	WS	luminespib	0.48
+ALK	WS	atezolizumab	0.3
+ALK	WS	gilteritinib	0.53
+ALK	WS	dactolisib	0.02
+ALK	WS	asp-3026	2.17
+ALK	WS	palbociclib	0.02
+ALK	WS	681640	0.02
+ALK	WS	osi-632	0.02
+ALK	WS	erlotinib	0.02
+ALK	WS	pemetrexed	0.14
+ALK	WS	fostamatinib	0.01
+ALK	WS	crenolanib	0.12
+ALK	WS	onalespib	0.32
+ALK	WS	pd-0166285	0.02
+ALK	WS	whi-p154	0.96
+ALK	WS	cyclophosphamide	0.02
+ALK	WS	linifanib	0.01
+ALK	WS	imatinib	0.03
+ALK	WS	gw441756x	0.01
+ALK	WS	dovitinib	0.01
+ALK	WS	tamatinib	0.01
+ALK	WS	ch5424802	4.69
+ALK	WS	cisplatin	0.01
+ALK	WS	vandetanib	0.02
+ALK	WS	topotecan	0.13
+ALK	WS	tozasertib	0.01
+ALK	WS	atp	0.05
+ALK	WS	durvalumab	0.32
+ALK	WS	saracatinib	0.15
+ALK	WS	ilorasertib	0.01
+ALK	WS	pazopanib	0.02
+ALK	WS	cediranib	0.02
+ALK	WS	selumetinib	0.06
+ALPL	WNT-fro	terpyridine	0.25
+ALPL	WNT-fro	dndi1417629	1.01
+ALPL	WNT-fro	2-aminophenoxazinone	0.23
+ALPL	WNT-fro	dihydrodaphnodorin b	0.51
+ALPL	WNT-fro	tyrphostin 23	0.1
+ALPL	WNT-fro	haematoxylin	0.08
+ALPL	WNT-fro	mersalyl	0.41
+ALPL	WNT-fro	(-)-epicatechin	0.18
+ALPL	WNT-fro	gnf-pf-3148	0.17
+ALPL	WNT-fro	dndi1417523	0.18
+ALPL	WNT-fro	gnf-pf-1947	0.08
+ALPL	WNT-fro	pyrogallol red	0.08
+ALPL	WNT-fro	dndi1417368	0.41
+ALPL	WNT-fro	gnf-pf-1609	2.03
+ALPL	WNT-fro	ag-538	0.07
+ALPL	WNT-fro	5,6,7,8,4'-pentahydroxyflavone	0.1
+ALPL	WNT-fro	(+)-catechin hydrate	1.01
+ALPL	WNT-fro	myricetin	0.05
+ALPL	WNT-fro	cephalochromin	0.11
+ALPL	WNT-fro	tcmdc-123713	0.23
+ALPL	WNT-fro	nsc-234945	0.18
+ALPL	WNT-fro	thunberginol b	0.2
+ALPL	WNT-fro	sulfuretin	0.13
+ALPL	WNT-fro	nsc-353720	0.2
+ALPL	WNT-fro	cid 646303	2.03
+ALPL	WNT-fro	isoquercetin	0.34
+ALPL	WNT-fro	5,7,3',5'-tetrahydroxyflavanone	0.18
+ALPL	WNT-fro	levamisole	0.51
+AMHR2	WNT-fro	atp	1.49
+AMHR2	WNT-fro	metformin	2.13
+ANGPT2	G4a-fro	ribavirin	0.86
+ANGPT2	G4a-fro	medi-3617	14.2
+ANGPT2	G4a-fro	regn910	42.6
+ANGPT2	G4a-fro	trebananib	7.1
+ANGPT2	G4a-fro	nesvacumab	42.6
+ANGPT2	G4a-fro	regn-910	42.6
+ANO2	SHH-rev	duloxetine	5.41
+ANPEP	WNT-fro	cyclosporine	0.14
+ANPEP	WNT-fro	gentamicin	0.38
+ANPEP	WNT-fro	cefadroxil	2.91
+ANPEP	WNT-fro	curcumin	0.12
+ANPEP	WNT-fro	cisplatin	0.06
+ANPEP	WNT-fro	naloxone	0.58
+ANPEP	WNT-fro	haloperidol	0.11
+ANPEP	WNT-fro	tributyrin	2.18
+ANPEP	WNT-fro	icatibant	2.91
+ANPEP	WNT-fro	ezetimibe	2.18
+ANPEP	WNT-fro	colchicine	0.18
+ANPEP	WNT-fro	tosedostat	0.22
+ANPEP	WNT-fro	diclofenac	0.36
+AQP3	WNT-fro	auphen	14.2
+AQP3	WNT-fro	sennosides	56.81
+ASPH	G3-rev	aspartic acid	7.89
+ASPH	G3-rev	warfarin	1.54
+ASS1	non-WS	citrulline	8.01
+ASS1	non-WS	arginine	4.73
+ASS1	non-WS	aspartic acid	3.16
+ASS1	non-WS	atp	0.5
+ASS1	non-WS	chloroquine	1.11
+ASS1	non-WS	pegargiminase	18.94
+ATF1	G4a-rev	pseudoephedrine	4.94
+ATF3	WNT-fro	progesterone	1.48
+ATIC	WS	tetrahydrofolic acid	3.1
+ATIC	WS	pemetrexed	4.87
+ATIC	WS	methotrexate	1.58
+ATIC	WS	guanosine-5'-monophosphate	6.49
+ATIC	WS	aica ribonucleotide	15.15
+AURKB	WNT-fro	sns-314	0.13
+AURKB	WNT-fro	pf-562271	0.01
+AURKB	WNT-fro	pf-03814735	1.33
+AURKB	WNT-fro	nerviano	0.89
+AURKB	WNT-fro	cenisertib	0.03
+AURKB	WNT-fro	abt-348	0.03
+AURKB	WNT-fro	danusertib	0.89
+AURKB	WNT-fro	gsk2334470	0.15
+AURKB	WNT-fro	bms-754807	0.14
+AURKB	WNT-fro	as703569	0.03
+AURKB	WNT-fro	withaferin a	0.15
+AURKB	WNT-fro	at9283	0.48
+AURKB	WNT-fro	ttp-607	0.3
+AURKB	WNT-fro	reversine	0.89
+AURKB	WNT-fro	tozasertib	0.1
+AURKB	WNT-fro	jnj-7706621	0.03
+AURKB	WNT-fro	mln-8054	0.1
+AURKB	WNT-fro	amg900	0.89
+AURKB	WNT-fro	tak-901	1.78
+AURKB	WNT-fro	fasudil	0.03
+AURKB	WNT-fro	681640	0.02
+AURKB	WNT-fro	kw-2449	0.36
+AURKB	WNT-fro	mk-5108	0.59
+AURKB	WNT-fro	bi-811283	2.66
+AURKB	WNT-fro	linifanib	0.01
+AURKB	WNT-fro	barasertib	0.49
+AURKB	WNT-fro	eupatorin	0.3
+AURKB	WNT-fro	gsk1070916	1.48
+AURKB	WNT-fro	dasatinib	0.01
+AURKB	WNT-fro	las38096	0.08
+AURKB	WNT-fro	vx-680	0.1
+AURKB	WNT-fro	cediranib	0.02
+AURKB	WNT-fro	lapatinib	0.03
+AURKB	WNT-fro	at-9283	0.48
+AURKB	WNT-fro	gw441756x	0.01
+AURKB	WNT-fro	zm-447439	0.05
+AURKB	WNT-fro	dubermatinib	0.3
+AURKB	WNT-fro	ilorasertib	0.03
+AURKB	WNT-fro	bms-345541	0.09
+AURKB	WNT-fro	sp-600125	0.02
+AURKB	WNT-fro	dactolisib	0.02
+AURKB	WNT-fro	alisertib	0.02
+AURKB	WNT-fro	pha-739358	0.89
+AURKB	WNT-fro	chiauranib	0.22
+AURKB	WNT-fro	fostamatinib	0.01
+AURKB	WNT-fro	azd-1152-hqpa	0.12
+AURKB	WNT-fro	sorafenib	0.01
+AURKB	WNT-fro	gnf-pf-3023	0.1
+AURKB	WNT-fro	kenpaullone	0.02
+AURKB	WNT-fro	go-6976	0.02
+AURKB	WNT-fro	bay-613606	0.02
+AURKB	WNT-fro	pazopanib	0.02
+AURKB	WNT-fro	cyc-116	0.03
+AURKB	WNT-fro	gsk-269962a	0.02
+AURKB	WNT-fro	osi-632	0.02
+AURKB	WNT-fro	erlotinib	0.02
+AURKB	WNT-fro	ar-a014418	0.15
+AURKB	WNT-fro	entrectinib	0.02
+AURKB	WNT-fro	kd-025	0.09
+AURKB	WNT-fro	hesperidin	0.3
+AURKB	WNT-fro	pd-0166285	0.02
+AURKB	WNT-fro	hesperadin	0.03
+AURKB	WNT-fro	gsk-1070916	1.48
+AURKB	WNT-fro	amg-900	0.89
+AURKB	WNT-fro	tcmdc-125758	0.03
+AURKB	WNT-fro	tae-684	0.01
+AURKB	WNT-fro	enmd-2076	0.04
+AURKB	WNT-fro	dovitinib	0.01
+AURKB	WNT-fro	enzastaurin	0.06
+AURKB	WNT-fro	mk-6592	0.3
+AURKB	WNT-fro	vandetanib	0.02
+BAK1	G4a-fro	keracyanin	16.23
+BCAT1	SHH-fro	leucine	2.58
+BCAT1	SHH-fro	n'-(5-chlorobenzofuran-2-carbonyl)-2-(trifluoromethyl)benzenesulfonohydrazide	18.94
+BCAT1	SHH-fro	valine	12.62
+BCAT1	SHH-fro	pyridoxal phosphate	0.36
+BCAT1	SHH-fro	isoleucine	11.36
+BCAT1	SHH-fro	glutamic acid	0.3
+BCL2	SHH-fro	streptozotocin	0.05
+BCL2	SHH-fro	paclitaxel	0.14
+BCL2	SHH-fro	cisplatin	0.03
+BCL2	SHH-fro	docetaxel	0.14
+BCL2	SHH-fro	protuboxepin a	1.16
+BCL2	SHH-fro	gdc-0199	1.16
+BCL2	SHH-fro	glycine betaine	2.32
+BCL2	SHH-fro	obatoclax mesylate	0.19
+BCL2	SHH-fro	obatoclax	1.39
+BCL2	SHH-fro	at-101	0.87
+BCL2	SHH-fro	carboplatin	0.04
+BCL2	SHH-fro	navitoclax	0.62
+BCL2	SHH-fro	rasagiline	2.32
+BCL2	SHH-fro	ang1005	0.58
+BCL2	SHH-fro	abt-737	0.17
+BCL2	SHH-fro	oblimersen	3.48
+BCL2	SHH-fro	venetoclax	1.16
+BCL2	SHH-fro	dexibuprofen	0.18
+BCL2	SHH-fro	ribavirin	0.18
+BCL2	SHH-fro	mci-186	0.23
+BCL2	SHH-fro	oxaliplatin	0.09
+BCL2	SHH-fro	doxorubicin	0.02
+BCL2	SHH-fro	isotretinoin	0.32
+BCL2	SHH-fro	teniposide	0.29
+BCL2	SHH-fro	tesetaxel	0.58
+BCL2	SHH-fro	rg7601	1.16
+BCL2	SHH-fro	epirubicin	0.08
+BCL2	SHH-fro	5-fluorodeoxyuridine	0.17
+BCL2	SHH-fro	milataxel	0.29
+BCL2	SHH-fro	phenylbutyrate	0.17
+BCL2	SHH-fro	pentoxifylline	0.07
+BCL2	SHH-fro	bortezomib	0.01
+BCL2	SHH-fro	gossypol	0.02
+BCL2	SHH-fro	mitoxantrone	0.06
+BCL2	SHH-fro	atra	0.05
+BCL2	SHH-fro	des	0.07
+BCL2	SHH-fro	estramustine	0.15
+BCL2	SHH-fro	taxol	0.14
+BCL2	SHH-fro	ortataxel	0.29
+BCL2	SHH-fro	ibuprofen	0.06
+BCL2	SHH-fro	hypoxanthine	0.58
+BCL2	SHH-fro	beauvericin	2.32
+BCL2	SHH-fro	isosorbide	0.87
+BCL2	SHH-fro	vincristine	0.02
+BCL2	SHH-fro	tazarotene	0.29
+BCL2	SHH-fro	zd1694	0.29
+BCL2	SHH-fro	abt-263	0.62
+BCL2	SHH-fro	erythromycin	0.12
+BCL2	SHH-fro	etoposide	0.07
+BCL2	SHH-fro	hydroquinone	0.14
+BCL2	SHH-fro	methylprednisolone	0.22
+BCL2	SHH-fro	alpha-tocopherol	0.11
+BCL2	SHH-fro	cilengitide	0.46
+BCL2	SHH-fro	eribulin	0.26
+BIRC5	WNT-fro	staurosporine	0.06
+BIRC5	WNT-fro	vioxx	0.56
+BIRC5	WNT-fro	cpt-11	0.43
+BIRC5	WNT-fro	genistein	0.05
+BIRC5	WNT-fro	ucn-01	0.15
+BIRC5	WNT-fro	berberine	0.6
+BIRC5	WNT-fro	paclitaxel	0.06
+BIRC5	WNT-fro	gm-csf	0.19
+BIRC5	WNT-fro	resveratrol	0.09
+BIRC5	WNT-fro	ly2181308	4.48
+BIRC5	WNT-fro	reserpine	0.11
+BIRC5	WNT-fro	homoharringtonine	0.75
+BIRC5	WNT-fro	flutamide	0.15
+BIRC5	WNT-fro	indomethacin	0.07
+BIRC5	WNT-fro	trastuzumab	0.25
+BIRC5	WNT-fro	valdecoxib	0.75
+BIRC5	WNT-fro	saha	0.06
+BIRC5	WNT-fro	carboplatin	0.04
+BIRC5	WNT-fro	as101	0.6
+BIRC5	WNT-fro	calcitonin	0.5
+BIRC5	WNT-fro	gw572016	0.11
+BIRC5	WNT-fro	camptothecin	0.08
+BIRC5	WNT-fro	dexamethasone	0.03
+BIRC5	WNT-fro	erlotinib	0.06
+BIRC5	WNT-fro	mithramycin	0.5
+BIRC5	WNT-fro	pd-98059	0.08
+BIRC5	WNT-fro	atra	0.1
+BIRC5	WNT-fro	doxorubicin	0.03
+BIRC5	WNT-fro	dhea	0.11
+BIRC5	WNT-fro	il-11	0.5
+BIRC5	WNT-fro	docetaxel	0.02
+BIRC5	WNT-fro	epo	0.16
+BIRC5	WNT-fro	epirubicin	0.1
+BIRC5	WNT-fro	rofecoxib	0.56
+BIRC5	WNT-fro	fr901228	0.15
+BIRC5	WNT-fro	imatinib	0.04
+BIRC5	WNT-fro	5-fu	0.03
+BIRC5	WNT-fro	sulindac	0.2
+BIRC5	WNT-fro	mtx	0.03
+BMP4	WNT-fro	calcium	5.41
+C1QA	WS	bevacizumab	1.11
+C1QA	WS	cetuximab	0.93
+C1QA	WS	etanercept	1.82
+C1QA	WS	palivizumab	5.68
+C1QA	WS	daclizumab	2.43
+C4B	G4a-fro	zinc chloride	0.39
+C4B	G4a-fro	copper	0.26
+C4B	G4a-fro	zinc	0.24
+CA14	SHH-fro	zonisamide	0.66
+CA14	SHH-fro	phenol	0.51
+CA14	SHH-fro	paraben	0.58
+CA14	SHH-fro	methazolamide	0.41
+CA14	SHH-fro	curcumin	0.05
+CA14	SHH-fro	acetazolamide	0.94
+CA14	SHH-fro	ellagic acid	0.18
+CA14	SHH-fro	brinzolamide	0.58
+CA14	SHH-fro	sulfamylon	0.81
+CA14	SHH-fro	ethoxzolamide	0.62
+CA14	SHH-fro	l-histidine	0.45
+CA14	SHH-fro	dorzolamide	0.58
+CA14	SHH-fro	chlorthalidone	0.41
+CA14	SHH-fro	trientine	4.06
+CA4	SHH-rev	dichlorphenamide	1.65
+CA4	SHH-rev	methazolamide	0.99
+CA4	SHH-rev	topiramate	0.48
+CA4	SHH-rev	chlorothiazide	1.65
+CA4	SHH-rev	acetazolamide	0.95
+CA4	SHH-rev	ethoxzolamide	0.57
+CA4	SHH-rev	sulfamylon	0.49
+CA4	SHH-rev	chlorthalidone	0.25
+CA4	SHH-rev	hydroflumethiazide	0.9
+CA4	SHH-rev	benzthiazide	0.93
+CA4	SHH-rev	curcumin	0.03
+CA4	SHH-rev	methyclothiazide	1.23
+CA4	SHH-rev	dorzolamide	0.71
+CA4	SHH-rev	zonisamide	0.4
+CA4	SHH-rev	trichlormethiazide	2.12
+CA4	SHH-rev	paraben	0.35
+CA4	SHH-rev	diclofenamide	1.65
+CA4	SHH-rev	bendroflumethiazide	2.06
+CA4	SHH-rev	phenol	0.31
+CA4	SHH-rev	brinzolamide	1.06
+CA4	SHH-rev	sulfamide	0.62
+CA4	SHH-rev	ellagic acid	0.11
+CA4	SHH-rev	sodium carbonate	0.62
+CA4	SHH-rev	acetazolamide sodium	0.62
+CACNA1C	G3-rev	dronedarone	0.07
+CACNA1C	G3-rev	nicardipine	0.14
+CACNA1C	G3-rev	drotaverine	1.47
+CACNA1C	G3-rev	verapamil	0.2
+CACNA1C	G3-rev	felodipine	0.28
+CACNA1C	G3-rev	isradipine	0.78
+CACNA1C	G3-rev	ranolazine	0.41
+CACNA1C	G3-rev	mibefradil	0.24
+CACNA1C	G3-rev	amlodipine maleate	0.24
+CACNA1C	G3-rev	phenytoin	0.05
+CACNA1C	G3-rev	diltiazem	0.24
+CACNA1C	G3-rev	propiverine	0.28
+CACNA1C	G3-rev	benidipine	0.98
+CACNA1C	G3-rev	verapamil hydrochloride	0.14
+CACNA1C	G3-rev	clevidipine	0.65
+CACNA1C	G3-rev	nifedipine	0.09
+CACNA1C	G3-rev	bioallethrin	0.39
+CACNA1C	G3-rev	trimebutine	0.37
+CACNA1C	G3-rev	imagabalin	0.04
+CACNA1C	G3-rev	manidipine	0.98
+CACNA1C	G3-rev	pregabalin	0.04
+CACNA1C	G3-rev	miconazole	0.1
+CACNA1C	G3-rev	barnidipine	3.92
+CACNA1C	G3-rev	ritodrine	0.98
+CACNA1C	G3-rev	azd1305	0.16
+CACNA1C	G3-rev	nicardipine hydrochloride	0.11
+CACNA1C	G3-rev	celecoxib	0.03
+CACNA1C	G3-rev	levamlodipine	0.73
+CACNA1C	G3-rev	nimodipine	0.51
+CACNA1C	G3-rev	gabapentin enacarbil	0.04
+CACNA1C	G3-rev	nisoldipine	0.4
+CACNA1C	G3-rev	isavuconazole	0.22
+CACNA1C	G3-rev	elpetrigine	0.12
+CACNA1C	G3-rev	topiramate	0.04
+CACNA1C	G3-rev	haloperidol	0.02
+CACNA1C	G3-rev	levomenthol	0.59
+CACNA1C	G3-rev	gabapentin	0.03
+CACNA1C	G3-rev	diltiazem hydrochloride	0.2
+CACNA1C	G3-rev	calcium	0.09
+CACNA1C	G3-rev	amlodipine	0.29
+CACNA1C	G3-rev	ibutilide	0.53
+CACNA1C	G3-rev	amlodipine besylate	0.2
+CACNA1C	G3-rev	bepridil hydrochloride	0.04
+CACNA1C	G3-rev	dronedarone hydrochloride	0.06
+CACNA1C	G3-rev	diltiazem malate	0.24
+CACNA1C	G3-rev	cinnarizine	0.17
+CACNA1C	G3-rev	nilvadipine	0.42
+CACNA1C	G3-rev	aranidipine	0.16
+CACNA1C	G3-rev	atenolol	0.06
+CACNA1C	G3-rev	atagabalin	0.04
+CACNA1C	G3-rev	citalopram	0.06
+CACNA1C	G3-rev	lacidipine	1.96
+CACNA1C	G3-rev	nitrendipine	0.23
+CACNA1C	G3-rev	fish oil	0.59
+CACNA1C	G3-rev	ethanol	0.03
+CACNA1C	G3-rev	cilnidipine	0.49
+CACNA1C	G3-rev	amiodarone	0.18
+CACNA1C	G3-rev	efonidipine	0.65
+CACNA1D	G3-rev	bepridil hydrochloride	0.07
+CACNA1D	G3-rev	amlodipine	0.29
+CACNA1D	G3-rev	levamlodipine	0.84
+CACNA1D	G3-rev	isradipine	0.84
+CACNA1D	G3-rev	nicardipine hydrochloride	0.19
+CACNA1D	G3-rev	nilvadipine	0.48
+CACNA1D	G3-rev	imagabalin	0.07
+CACNA1D	G3-rev	nifedipine	0.15
+CACNA1D	G3-rev	nisoldipine	0.29
+CACNA1D	G3-rev	nitrendipine	0.51
+CACNA1D	G3-rev	celecoxib	0.05
+CACNA1D	G3-rev	amlodipine besylate	0.33
+CACNA1D	G3-rev	diltiazem malate	0.42
+CACNA1D	G3-rev	elpetrigine	0.21
+CACNA1D	G3-rev	felodipine	0.32
+CACNA1D	G3-rev	verapamil	0.13
+CACNA1D	G3-rev	nicardipine	0.12
+CACNA1D	G3-rev	clevidipine	1.11
+CACNA1D	G3-rev	pregabalin	0.07
+CACNA1D	G3-rev	cinnarizine	0.29
+CACNA1D	G3-rev	ethanol	0.03
+CACNA1D	G3-rev	amlodipine maleate	0.42
+CACNA1D	G3-rev	verapamil hydrochloride	0.24
+CACNA1D	G3-rev	atagabalin	0.07
+CACNA1D	G3-rev	nimodipine	0.64
+CACNA1D	G3-rev	azidopine	1.67
+CACNA1D	G3-rev	gabapentin	0.05
+CACNA1D	G3-rev	azd1305	0.28
+CACNA1D	G3-rev	gabapentin enacarbil	0.07
+CACNA1D	G3-rev	diltiazem hydrochloride	0.33
+CACNA1D	G3-rev	dronedarone hydrochloride	0.1
+CACNA1D	G3-rev	aranidipine	0.28
+CACNA1D	G3-rev	mibefradil	0.28
+CACNA1D	G3-rev	dronedarone	0.12
+CACNG2	SHH-rev	pregabalin	0.28
+CACNG2	SHH-rev	gabapentin	0.23
+CACNG2	SHH-rev	atagabalin	0.28
+CACNG2	SHH-rev	imagabalin	0.28
+CACNG2	SHH-rev	ethanol	0.11
+CACNG2	SHH-rev	bepridil hydrochloride	0.28
+CACNG2	SHH-rev	lithium	0.43
+CACNG2	SHH-rev	gabapentin enacarbil	0.28
+CACNG4	G3-rev	gabapentin	0.31
+CACNG4	G3-rev	bepridil hydrochloride	0.38
+CACNG4	G3-rev	imagabalin	0.38
+CACNG4	G3-rev	pregabalin	0.38
+CACNG4	G3-rev	gabapentin enacarbil	0.38
+CACNG4	G3-rev	atagabalin	0.38
+CACNG5	WNT-fro	bepridil hydrochloride	0.38
+CACNG5	WNT-fro	atagabalin	0.38
+CACNG5	WNT-fro	pregabalin	0.38
+CACNG5	WNT-fro	gabapentin enacarbil	0.38
+CACNG5	WNT-fro	imagabalin	0.38
+CACNG5	WNT-fro	gabapentin	0.31
+CADPS2	WNT-rev	calcium citrate	0.86
+CADPS2	WNT-rev	calcium phosphate	0.86
+CASP1	SHH-fro	as101	0.44
+CASP1	SHH-fro	berkeleyacetal c	2.18
+CASP1	SHH-fro	pralnacasan	8.74
+CASP1	SHH-fro	nsc-663284	0.31
+CASP1	SHH-fro	tcmdc-124224	0.2
+CASP1	SHH-fro	pd-194035	4.37
+CASP1	SHH-fro	nivocasan	1.46
+CASP1	SHH-fro	berkeleydione	2.18
+CASP1	SHH-fro	vx-765	3.28
+CASP1	SHH-fro	berkeleytrione	2.18
+CASP1	SHH-fro	vermistatin	4.37
+CASP1	SHH-fro	isoboldine	0.36
+CASP1	SHH-fro	berkeleyamide c	2.18
+CASP1	SHH-fro	4-chloromercuribenzoic acid	0.08
+CASP1	SHH-fro	z-val-ala-asp fluoromethyl ketone	4.37
+CASP1	SHH-fro	minocycline	0.64
+CASP1	SHH-fro	emricasan	0.36
+CASP1	SHH-fro	nsc-95397	0.04
+CASP1	SHH-fro	ac-201	0.13
+CASP1	SHH-fro	berkeleyacetal b	2.18
+CASP1	SHH-fro	berkeleyamide b	2.18
+CASP1	SHH-fro	berkeleyacetal a	2.18
+CASP1	SHH-fro	mesalamine	0.1
+CASP1	SHH-fro	belnacasan	3.28
+CASP1	SHH-fro	juglone	0.11
+CASP1	SHH-fro	gnf-pf-67	0.08
+CASP1	SHH-fro	gossypol	0.05
+CCNB1	G4a-rev	seliciclib	2.52
+CCNB1	G4a-rev	kenpaullone	0.4
+CCNB1	G4a-rev	protoapigenone	1.35
+CD200	WNT-rev	samalizumab	170.42
+CD200	WNT-rev	alxn6000	170.42
+CD248	G4a-fro	morab-004	170.42
+CD248	G4a-fro	ontuxizumab	170.42
+CDH23	SHH-rev	methylphenidate	2.47
+CDK16	G4a-rev	at-7519	0.45
+CDK16	G4a-rev	hesperadin	0.24
+CDK16	G4a-rev	roniciclib	0.47
+CDK16	G4a-rev	pha-793887	0.45
+CDK16	G4a-rev	fostamatinib	0.06
+CDK16	G4a-rev	azd-5438	0.47
+CES1	WNT-fro	cyclandelate	1.58
+CES1	WNT-fro	probucol	1.58
+CES1	WNT-fro	meperidine	0.3
+CES1	WNT-fro	naloxone	0.32
+CES1	WNT-fro	tacrine	0.68
+CES1	WNT-fro	avasimibe	7.1
+CES1	WNT-fro	irinotecan	0.04
+CES1	WNT-fro	dabigatran	0.79
+CES1	WNT-fro	pactimibe	2.37
+CES1	WNT-fro	eldacimibe	2.37
+CES1	WNT-fro	methylphenidate	0.1
+CES1	WNT-fro	cocaine	0.18
+CES1	WNT-fro	n-acetyl-alpha-neuraminic acid	0.34
+CES1	WNT-fro	capecitabine	0.13
+CES1	WNT-fro	heroin	0.36
+CES1	WNT-fro	sn-38	0.09
+CES1	WNT-fro	trandolapril	1.58
+CES1	WNT-fro	thenoyltrifluoroacetone	3.55
+CES1	WNT-fro	clopidogrel	0.59
+CES1	WNT-fro	4-piperidino-piperidine	4.73
+CES1	WNT-fro	enalapril	0.24
+CES1	WNT-fro	diamorphine	1.18
+CES1	WNT-fro	levocarnitine	0.43
+CES1	WNT-fro	dextropropoxyphene	0.95
+CHEK2	WNT-fro	cyc-116	0.02
+CHEK2	WNT-fro	pf-562271	0.02
+CHEK2	WNT-fro	ilorasertib	0.02
+CHEK2	WNT-fro	cenisertib	0.02
+CHEK2	WNT-fro	sp-600125	0.02
+CHEK2	WNT-fro	mln-8054	0.07
+CHEK2	WNT-fro	withaferin a	0.33
+CHEK2	WNT-fro	tae-684	0.02
+CHEK2	WNT-fro	dovitinib	0.02
+CHEK2	WNT-fro	prexasertib	0.39
+CHEK2	WNT-fro	fasudil	0.06
+CHEK2	WNT-fro	go-6976	0.05
+CHEK2	WNT-fro	gw441756x	0.03
+CHEK2	WNT-fro	pf-477736	0.28
+CHEK2	WNT-fro	gnf-pf-2301	0.08
+CHEK2	WNT-fro	isogranulatimide	0.65
+CHEK2	WNT-fro	azd7762	0.49
+CHEK2	WNT-fro	rg-1530	0.02
+CHEK2	WNT-fro	enzastaurin	0.12
+CHEK2	WNT-fro	azd-1152-hqpa	0.09
+CHEK2	WNT-fro	cediranib	0.04
+CHEK2	WNT-fro	alsterpaullone	0.04
+CHEK2	WNT-fro	fostamatinib	0.01
+CHEK2	WNT-fro	olaparib	0.26
+CHEK2	WNT-fro	7-hydroxystaurosporine	0.15
+CHEK2	WNT-fro	kenpaullone	0.04
+CHEK2	WNT-fro	gefitinib	0.03
+CHEK2	WNT-fro	sns-314	0.05
+CHEK2	WNT-fro	dimethyladenine	0.22
+CHRM4	WNT-fro	doxepin	0.14
+CHRM4	WNT-fro	imipramine	0.04
+CHRM4	WNT-fro	tiotropium	0.2
+CHRM4	WNT-fro	fesoterodine	0.2
+CHRM4	WNT-fro	desipramine	0.05
+CHRM4	WNT-fro	terfenadine	0.07
+CHRM4	WNT-fro	solifenacin	0.55
+CHRM4	WNT-fro	revefenacin	0.14
+CHRM4	WNT-fro	methotrimeprazine	0.16
+CHRM4	WNT-fro	otenzepad	0.14
+CHRM4	WNT-fro	methantheline	0.2
+CHRM4	WNT-fro	tropicamide	1.56
+CHRM4	WNT-fro	chlorprothixene	0.11
+CHRM4	WNT-fro	hexocyclium	0.42
+CHRM4	WNT-fro	himbacine	0.14
+CHRM4	WNT-fro	furtrethonium	0.17
+CHRM4	WNT-fro	diphenidol	0.14
+CHRM4	WNT-fro	brucine	0.12
+CHRM4	WNT-fro	propiomazine	0.2
+CHRM4	WNT-fro	tolterodine	0.28
+CHRM4	WNT-fro	atropine	0.32
+CHRM4	WNT-fro	afacifenacin	0.1
+CHRM4	WNT-fro	thonzylamine	0.35
+CHRM4	WNT-fro	cevimeline	0.14
+CHRM4	WNT-fro	xanomeline	0.05
+CHRM4	WNT-fro	vinburnine	0.12
+CHRM4	WNT-fro	homatropine	0.28
+CHRM4	WNT-fro	pirenzepine	0.09
+CHRM4	WNT-fro	olanzapine	0.06
+CHRM4	WNT-fro	aceclidine	0.14
+CHRM4	WNT-fro	rociverine	0.28
+CHRM4	WNT-fro	tripitramine	0.14
+CHRM4	WNT-fro	alcuronium	0.14
+CHRM4	WNT-fro	pilocarpine	0.15
+CHRM4	WNT-fro	darotropium bromide	0.14
+CHRM4	WNT-fro	dicyclomine	0.08
+CHRM4	WNT-fro	quetiapine	0.05
+CHRM4	WNT-fro	carbachol	0.1
+CHRM4	WNT-fro	promazine	0.15
+CHRM4	WNT-fro	darifenacin	0.46
+CHRM4	WNT-fro	4-damp	0.12
+CHRM4	WNT-fro	oxotremorine	0.1
+CHRM4	WNT-fro	procyclidine	1.25
+CHRM4	WNT-fro	scopolamine	0.26
+CHRM4	WNT-fro	sabcomeline	0.17
+CHRM4	WNT-fro	milameline	0.17
+CHRM4	WNT-fro	aripiprazole	0.04
+CHRM4	WNT-fro	glycopyrrolate	0.14
+CHRM4	WNT-fro	thiethylperazine	0.13
+CHRM4	WNT-fro	benzquinamide	0.38
+CHRM4	WNT-fro	strychnine	0.07
+CHRM4	WNT-fro	promethazine	0.14
+CHRM4	WNT-fro	trihexyphenidyl	0.3
+CHRM4	WNT-fro	vincamine	0.14
+CHRM4	WNT-fro	oxyphenonium	0.35
+CHRM4	WNT-fro	aclidinium	0.28
+CHRM4	WNT-fro	hyoscyamine	0.28
+CHRM4	WNT-fro	ipratropium	0.08
+CHRM4	WNT-fro	pipertramine	0.14
+CHRM4	WNT-fro	methoctramine	0.12
+CHRM4	WNT-fro	biperiden	0.1
+CHRM4	WNT-fro	acetylcholine	0.26
+CHRM4	WNT-fro	metixene	0.55
+CHRM4	WNT-fro	dosulepin	0.17
+CHRM4	WNT-fro	arecoline	0.17
+CHRM4	WNT-fro	oxybutynin	0.1
+CHRM4	WNT-fro	staurosporine	0.01
+CHRM4	WNT-fro	loxapine	0.02
+CHRM4	WNT-fro	umeclidinium	0.35
+CHRM4	WNT-fro	propantheline	0.12
+CHRM4	WNT-fro	nicardipine	0.05
+CHRM4	WNT-fro	amitriptyline	0.03
+CHRM4	WNT-fro	propiverine	0.2
+CHRM4	WNT-fro	bethanechol	0.42
+CHRM4	WNT-fro	maprotiline	0.12
+CHRM4	WNT-fro	isopropamide	0.69
+CHRM4	WNT-fro	brompheniramine	0.23
+CHRM4	WNT-fro	clozapine	0.02
+CHRM4	WNT-fro	vu10010	1.39
+CHRM4	WNT-fro	pipertramine amide	0.14
+CHRM4	WNT-fro	trimebutine	0.17
+CHRM4	WNT-fro	ziprasidone	0.04
+CHST1	non-WS	imatinib	1.67
+CLCN2	WNT-fro	lubiprostone	142.01
+CLCN2	WNT-fro	omeprazole	0.56
+CLCN2	WNT-fro	cobiprostone	37.87
+CLIC1	G4b-rev	artenimol	0.7
+CLIC1	G4b-rev	copper	0.39
+CLK3	SHH-rev	fostamatinib	0.08
+CLK3	SHH-rev	k-00546	4.54
+CLK3	SHH-rev	leucettamine b	3.25
+CLK3	SHH-rev	harmine	1.51
+CLK3	SHH-rev	ethyl 3-[(e)-2-amino-1-cyanoethenyl]-6,7-dichloro-1-methyl-1h-indole-2-carboxylate	11.36
+COMT	G4b-fro	entacapone	13.45
+COMT	G4b-fro	bupropion	0.16
+COMT	G4b-fro	paroxetine	0.09
+COMT	G4b-fro	levodopa	0.04
+COMT	G4b-fro	risperidone	0.07
+COMT	G4b-fro	sertraline	0.06
+COMT	G4b-fro	oxycodone	2.16
+COMT	G4b-fro	fentanyl	0.17
+COMT	G4b-fro	nicotine	0.17
+COMT	G4b-fro	modafinil	1.22
+COMT	G4b-fro	opicapone	7.47
+COMT	G4b-fro	tolcapone	12.71
+COMT	G4b-fro	olanzapine	0.02
+COMT	G4b-fro	fluvoxamine	0.21
+COMT	G4b-fro	nialamide	0.5
+COMT	G4b-fro	trihexyphenidyl	0.21
+COMT	G4b-fro	benztropine	0.5
+COMT	G4b-fro	methylphenidate	0.29
+COMT	G4b-fro	buprenorphine	0.27
+COMT	G4b-fro	norepinephrine	0.06
+COMT	G4b-fro	morphine	0.79
+COMT	G4b-fro	haloperidol	0.06
+COMT	G4b-fro	clozapine	0.04
+COMT	G4b-fro	remifentanil	2.78
+COMT	G4b-fro	cisplatin	0.1
+COMT	G4b-fro	2-methoxyestradiol	0.2
+COMT	G4b-fro	quetiapine	0.06
+COMT	G4b-fro	3,5-dinitrocatechol	1
+COMT	G4b-fro	methyldopa	0.01
+COMT	G4b-fro	sufentanil	2.78
+COMT	G4b-fro	methadone	0.62
+COMT	G4b-fro	7,8-dihydroxy-4-phenyl-2h-chromen-2-one	2.99
+COMT	G4b-fro	venlafaxine	0.37
+COMT	G4b-fro	ademetionine	0.45
+COMT	G4b-fro	lithium	0.03
+COMT	G4b-fro	heroin	0.11
+COMT	G4b-fro	sumatriptan	0.17
+COMT	G4b-fro	bia	2.99
+CPT1B	G4a-fro	perhexiline	7.1
+CRABP2	WNT-fro	bestatin methyl ester	37.87
+CSMD1	SHH-fro	hydrochlorothiazide	0.77
+CSMD1	SHH-fro	oxaliplatin	1.54
+CTSC	SHH-fro	progesterone	1.48
+CUX2	WNT-rev	rifampin	2.71
+CXCL12	SHH-fro	fludarabine	0.71
+CXCL12	SHH-fro	rituximab	1.01
+CXCL12	SHH-fro	cyclophosphamide	0.18
+CXCL12	SHH-fro	prednisone	0.44
+CXCL12	SHH-fro	tinzaparin	3.55
+CXCL12	SHH-fro	chlorambucil	1.18
+CXCL12	SHH-fro	vincristine	0.24
+CXCL12	SHH-fro	alemtuzumab	1.78
+CXCR4	WS	ctce-9908	5.16
+CXCR4	WS	ulocuplumab	5.16
+CXCR4	WS	t140	10.33
+CXCR4	WS	bevacizumab	0.13
+CXCR4	WS	pol6326	5.16
+CXCR4	WS	framycetin	7.75
+CXCR4	WS	bl-8040	10.33
+CXCR4	WS	bkt140	10.33
+CXCR4	WS	plerixafor	7.75
+CXCR4	WS	spermine bis-2-napg	5.16
+CXCR4	WS	msx-122	7.75
+CXCR4	WS	tg-0054	7.75
+CXCR4	WS	spermine tris-2-napg	5.16
+CXCR4	WS	bms-936564	5.16
+CXCR4	WS	spermine bis-1-napg	5.16
+CXCR4	WS	ibalizumab	0.86
+CXCR4	WS	pol-6326	5.16
+CXCR4	WS	spermine tris-1-napg	5.16
+CXCR4	WS	gsk812397	5.16
+CXCR4	WS	motixafortide	10.33
+CXCR4	WS	mavorixafor	7.75
+CXCR4	WS	amd070	7.75
+CXCR4	WS	amd-070	7.75
+CXCR4	WS	balixafortide	2.58
+CXCR4	WS	usl311	2.58
+CXCR4	WS	cisplatin	0.03
+CXCR4	WS	pf-06747143	2.58
+CXCR4	WS	spliceostatin-a	1.72
+CXCR4	WS	amd3100	7.75
+CXCR4	WS	krh-3955	5.16
+CXCR4	WS	burixafor	7.75
+CYP27B1	G4a-fro	mk-24	3.79
+CYP27B1	G4a-fro	ribavirin	0.69
+CYP27B1	G4a-fro	20s-hydroxyvitamin d3	22.72
+CYP27B1	G4a-fro	deferasirox	2.27
+CYP27B1	G4a-fro	alfacalcidol	7.57
+CYP2R1	G4a-rev	calcidiol	28.4
+CYP2R1	G4a-rev	ribavirin	0.86
+DCBLD1	WNT-rev	irinotecan	1.07
+DCBLD1	WNT-rev	cisplatin	0.37
+DCPS	WNT-fro	5-{[1-(2-fluorobenzyl)piperidin-4-yl]methoxy}quinazoline-2,4-diamine	37.87
+DCPS	WNT-fro	5-[(1s)-1-(3-chlorophenyl)ethoxy]quinazoline-2,4-diamine	37.87
+DCPS	WNT-fro	5-{[1-(2,3-dichlorobenzyl)piperidin-4-yl]methoxy}quinazoline-2,4-diamine	37.87
+DCXR	G4a-rev	nicotinamide adenine dinucleotide phosphate	7.84
+DDC	WNT-fro	benserazide	5.68
+DDC	WNT-fro	carbidopa	14.73
+DDC	WNT-fro	methyldopa	0.12
+DDC	WNT-fro	pyridoxal phosphate	1.64
+DDC	WNT-fro	rapamycin	0.33
+DDC	WNT-fro	nicotine	0.35
+DIAPH3	G4b-rev	hydrochlorothiazide	1.54
+DKK1	WNT-fro	fluorouracil	0.18
+DKK1	WNT-fro	levoleucovorin	18.94
+DKK1	WNT-fro	bhq-880	18.94
+DKK1	WNT-fro	irinotecan	0.36
+DKK1	WNT-fro	oxaliplatin	0.51
+DKK1	WNT-fro	dht	0.82
+DLL4	G4a-fro	navicixizumab	9.47
+DLL4	G4a-fro	regn-421	18.94
+DLL4	G4a-fro	omp-21m18	14.2
+DLL4	G4a-fro	demcizumab	14.2
+DMD	WNT-rev	golodirsen	132.55
+DMD	WNT-rev	eteplirsen	37.87
+DMD	WNT-rev	ataluren	6.31
+DPP6	WNT-rev	haloperidol	0.72
+DPP6	WNT-rev	ethanol	0.43
+DPYD	G4a-fro	gimestat	7.57
+DPYD	G4a-fro	gimeracil	7.57
+DPYD	G4a-fro	leucovorin	0.81
+DPYD	G4a-fro	eniluracil	3.79
+DPYD	G4a-fro	capecitabine	0.63
+DPYD	G4a-fro	6-carboxymethyluracil	15.15
+DPYD	G4a-fro	irinotecan	0.14
+DPYD	G4a-fro	tegafur	72.9
+DPYD	G4a-fro	nadph	5.05
+DPYD	G4a-fro	5-iodouracil	15.15
+DPYD	G4a-fro	flucytosine	1.26
+DPYD	G4a-fro	5-fluorouracil	0.4
+DPYD	G4a-fro	fluorouracil	0.4
+DPYD	G4a-fro	uracil	2.52
+DPYD	G4a-fro	flavin mononucleotide	1.26
+DPYD	G4a-fro	flavin adenine dinucleotide	0.56
+DPYD	G4a-fro	oxaliplatin	0.2
+DPYD	G4a-fro	5-fu	0.4
+DSP	SHH-rev	artenimol	0.47
+DSP	SHH-rev	zinc	0.24
+DSP	SHH-rev	enalapril	1.89
+DUSP6	WNT-fro	trametinib	2.58
+E2F7	WNT-fro	tamoxifen	1.7
+EBP	G3-rev	tamoxifen	1.7
+ELOVL2	G4a-rev	alpha-linolenic acid	3.79
+EPHA8	non-WS	vandetanib	0.34
+EPHA8	non-WS	fostamatinib	0.13
+EPHA8	non-WS	genistein	0.61
+EPHB1	WNT-rev	hesperadin	0.36
+EPHB1	WNT-rev	vandetanib	0.26
+EPHB1	WNT-rev	fostamatinib	0.1
+EPHB1	WNT-rev	progesterone	0.37
+EPHB3	G4b-fro	vandetanib	1.03
+ESRRB	SHH-fro	flavone	3.16
+ESRRB	SHH-fro	diethylstilbestrol	2.15
+ESRRB	SHH-fro	genistein	0.69
+ESRRB	SHH-fro	daidzein	0.62
+ETV4	WNT-fro	trametinib	2.58
+EXO1	G4a-rev	capecitabine	0.79
+EXO1	G4a-rev	fluorouracil	0.27
+F13A1	SHH-fro	anti-inhibitor coagulant complex	4.73
+F13A1	SHH-fro	aspirin	0.52
+F13A1	SHH-fro	thrombin	0.63
+FAP	SHH-fro	sibrotuzumab	28.4
+FAP	SHH-fro	talabostat	5.68
+FBN2	SHH-rev	calcium citrate	0.86
+FBN2	SHH-rev	calcium phosphate	0.86
+FBN3	non-WS	calcium citrate	0.86
+FBN3	non-WS	calcium phosphate	0.86
+FCGRT	WNT-fro	rozanolixizumab	56.81
+FGF1	G4b-fro	formic acid	2.03
+FGF1	G4b-fro	5-aminonaphthalene-2-sulfonic acid	16.23
+FGF1	G4b-fro	muparfostat	0.81
+FGF1	G4b-fro	pazopanib	0.36
+FGF1	G4b-fro	amlexanox	0.9
+FGF1	G4b-fro	sucrosofate	16.23
+FGF1	G4b-fro	heparin	0.43
+FGFR1OP2	G4a-rev	brivanib	10.33
+FLT4	G4a-fro	dovitinib	0.03
+FLT4	G4a-fro	sunitinib	0.2
+FLT4	G4a-fro	telatinib	0.42
+FLT4	G4a-fro	nintedanib	0.23
+FLT4	G4a-fro	xl-999	0.06
+FLT4	G4a-fro	cep-7055	0.21
+FLT4	G4a-fro	4sc-203	0.16
+FLT4	G4a-fro	vandetanib	0.06
+FLT4	G4a-fro	regorafenib	0.11
+FLT4	G4a-fro	cediranib	0.08
+FLT4	G4a-fro	foretinib	0.13
+FLT4	G4a-fro	pazopanib hydrochloride	0.06
+FLT4	G4a-fro	enmd-2076	0.05
+FLT4	G4a-fro	pazopanib	0.14
+FLT4	G4a-fro	e-3810	0.07
+FLT4	G4a-fro	fruquintinib	0.83
+FLT4	G4a-fro	nintedanib esylate	0.07
+FLT4	G4a-fro	lenvatinib	0.27
+FLT4	G4a-fro	denibulin	0.21
+FLT4	G4a-fro	tivozanib	0.73
+FLT4	G4a-fro	tak-715	0.03
+FLT4	G4a-fro	xl647	0.23
+FLT4	G4a-fro	linifanib	0.06
+FLT4	G4a-fro	vatalanib	0.38
+FLT4	G4a-fro	mgcd265	0.23
+FLT4	G4a-fro	tesevatinib	0.23
+FLT4	G4a-fro	sp-600125	0.01
+FLT4	G4a-fro	motesanib	0.39
+FLT4	G4a-fro	abt-869	0.06
+FLT4	G4a-fro	krn-633	0.21
+FLT4	G4a-fro	mk-2461	0.09
+FLT4	G4a-fro	osi-632	0.01
+FLT4	G4a-fro	gw441756x	0.01
+FLT4	G4a-fro	mln-8054	0.02
+FLT4	G4a-fro	semaxanib	0.04
+FLT4	G4a-fro	mgcd-265	0.1
+FLT4	G4a-fro	axitinib	0.36
+FLT4	G4a-fro	cep-5214	0.62
+FLT4	G4a-fro	ag-13958	0.21
+FLT4	G4a-fro	sorafenib tosylate	0.04
+FLT4	G4a-fro	pf-562271	0.01
+FLT4	G4a-fro	gsk-269962a	0.01
+FLT4	G4a-fro	cep-11981	0.03
+FLT4	G4a-fro	jnj-26483327	0.14
+FLT4	G4a-fro	osi-930	0.09
+FLT4	G4a-fro	sunitinib malate	0.07
+FLT4	G4a-fro	lenvatinib mesylate	0.21
+FLT4	G4a-fro	azd-1152-hqpa	0.03
+FLT4	G4a-fro	ilorasertib	0.02
+FLT4	G4a-fro	sb-220025	0.02
+FLT4	G4a-fro	tae-684	0.01
+FLT4	G4a-fro	orantinib	0.06
+FLT4	G4a-fro	e-10030	0.1
+FLT4	G4a-fro	erlotinib	0.01
+FLT4	G4a-fro	cp-459632	0.08
+FLT4	G4a-fro	fostamatinib	0
+FLT4	G4a-fro	pi-88	0.12
+FLT4	G4a-fro	rg-1530	0.01
+FLT4	G4a-fro	x-82	0.25
+FLT4	G4a-fro	chlorpyramin hydrochloride	0.62
+FLT4	G4a-fro	bms-690514	0.09
+FLT4	G4a-fro	tg-100801	0.03
+FLT4	G4a-fro	cenisertib	0.01
+FLT4	G4a-fro	doramapimod	0.03
+FLT4	G4a-fro	sotrastaurin	0.01
+FLT4	G4a-fro	gw843682x	0.02
+FLT4	G4a-fro	kenpaullone	0.01
+FLT4	G4a-fro	imc-1c11	0.21
+FLT4	G4a-fro	sorafenib	0.1
+FLT4	G4a-fro	entrectinib	0.01
+FLT4	G4a-fro	imc-3c5	1.87
+FLT4	G4a-fro	gefitinib	0.01
+FLT4	G4a-fro	sulfatinib	0.25
+FLT4	G4a-fro	lucitanib	0.1
+FLT4	G4a-fro	azakenpaullone	0.06
+FLT4	G4a-fro	famitinib	0.18
+FLT4	G4a-fro	cc-223	0.1
+FLT4	G4a-fro	sb-203580	0.02
+FLT4	G4a-fro	alsterpaullone	0.01
+FLT4	G4a-fro	brivanib alaninate	0.09
+FLT4	G4a-fro	tozasertib	0.01
+FLT4	G4a-fro	su-14813	0.08
+FLT4	G4a-fro	anlotinib	0.12
+FLT4	G4a-fro	chiauranib	0.16
+FLT4	G4a-fro	1058137-23-7	0.1
+FLT4	G4a-fro	l-21649	0.21
+FLT4	G4a-fro	xl-820	0.1
+FLT4	G4a-fro	pexmetinib	0.04
+FLT4	G4a-fro	tandutinib	0.06
+FLT4	G4a-fro	su-014813	0.08
+FLT4	G4a-fro	go-6976	0.01
+FLT4	G4a-fro	brivanib	0.06
+FLT4	G4a-fro	tafetinib	0.12
+FLT4	G4a-fro	sitravatinib	0.05
+FLT4	G4a-fro	tak-593	0.12
+FZD2	WNT-fro	vantictumab	16.23
+GABRA1	non-WS	benzodiazepine	0.22
+GABRA1	non-WS	mexazolam	1.76
+GABRA1	non-WS	oxazepam	0.14
+GABRA1	non-WS	zaleplon	1.21
+GABRA1	non-WS	butalbital	0.29
+GABRA1	non-WS	barbital	0.26
+GABRA1	non-WS	amoxapine	0.05
+GABRA1	non-WS	pf-06372865	0.03
+GABRA1	non-WS	picrotoxin	0.19
+GABRA1	non-WS	phenobarbital	0.12
+GABRA1	non-WS	butethal	0.48
+GABRA1	non-WS	butabarbital	0.15
+GABRA1	non-WS	clonazepam	0.17
+GABRA1	non-WS	sevoflurane	0.09
+GABRA1	non-WS	methyprylon	0.25
+GABRA1	non-WS	alprazolam	0.13
+GABRA1	non-WS	isoguvacine	0.05
+GABRA1	non-WS	carisoprodol	0.25
+GABRA1	non-WS	adinazolam	0.18
+GABRA1	non-WS	methoxyflurane	0.15
+GABRA1	non-WS	quazepam	0.24
+GABRA1	non-WS	zolpidem	0.53
+GABRA1	non-WS	sandaracopimaric acid	0.44
+GABRA1	non-WS	zopiclone	0.7
+GABRA1	non-WS	triazolam	0.13
+GABRA1	non-WS	flunitrazepam	0.2
+GABRA1	non-WS	loprazolam	1.32
+GABRA1	non-WS	thiamylal sodium	0.03
+GABRA1	non-WS	camazepam	1.32
+GABRA1	non-WS	ethchlorvynol	0.11
+GABRA1	non-WS	metharbital	0.24
+GABRA1	non-WS	indiplon	1.76
+GABRA1	non-WS	primidone	0.18
+GABRA1	non-WS	thiocolchicoside	0.29
+GABRA1	non-WS	flurazepam	0.15
+GABRA1	non-WS	glutethimide	0.08
+GABRA1	non-WS	eszopiclone	0.2
+GABRA1	non-WS	halothane	0.06
+GABRA1	non-WS	carbamazepine	0.02
+GABRA1	non-WS	chlordiazepoxide	0.15
+GABRA1	non-WS	prazepam	0.2
+GABRA1	non-WS	thiamylal	1.21
+GABRA1	non-WS	clobazam	0.17
+GABRA1	non-WS	ketazolam	3.08
+GABRA1	non-WS	pentobarbital	0.32
+GABRA1	non-WS	halazepam	0.24
+GABRA1	non-WS	estazolam	0.15
+GABRA1	non-WS	stiripentol	0.22
+GABRA1	non-WS	clotiazepam	0.18
+GABRA1	non-WS	cinolazepam	0.16
+GABRA1	non-WS	fludiazepam	0.1
+GABRA1	non-WS	lamotrigine	0.05
+GABRA1	non-WS	midazolam	0.08
+GABRA1	non-WS	meprobamate	0.2
+GABRA1	non-WS	isopimaric acid	0.44
+GABRA1	non-WS	doxefazepam	1.32
+GABRA1	non-WS	flumazenil	0.19
+GABRA1	non-WS	aprobarbital	0.22
+GABRA1	non-WS	etizolam	0.66
+GABRA1	non-WS	taurine	0.15
+GABRA1	non-WS	brexanolone	0.18
+GABRA1	non-WS	secobarbital	0.56
+GABRA1	non-WS	thiopental	0.29
+GABRA1	non-WS	methylphenobarbital	0.44
+GABRA1	non-WS	bromazepam	0.13
+GABRA1	non-WS	medazepam	1.32
+GABRA1	non-WS	resequinil	0.05
+GABRA1	non-WS	talbutal	0.24
+GABRA1	non-WS	cinazepam	1.32
+GABRA1	non-WS	clorazepate dipotassium	0.03
+GABRA1	non-WS	etomidate	0.31
+GABRA1	non-WS	enflurane	0.09
+GABRA1	non-WS	midazolam hydrochloride	0.03
+GABRA1	non-WS	topiramate	0.1
+GABRA1	non-WS	propofol	0.03
+GABRA1	non-WS	isoflurane	0.11
+GABRA1	non-WS	brotizolam	0.66
+GABRA1	non-WS	bentazepam	0.66
+GABRA1	non-WS	ocinaplon	0.05
+GABRA1	non-WS	temazepam	0.16
+GABRA1	non-WS	tpa023	0.11
+GABRA1	non-WS	gaboxadol	0.08
+GABRA1	non-WS	muscimol	0.12
+GABRA1	non-WS	nordazepam	1.32
+GABRA1	non-WS	lorazepam	0.13
+GABRA1	non-WS	acamprosate	0.18
+GABRA1	non-WS	heptabarbital	0.22
+GABRA1	non-WS	desflurane	0.09
+GABRA1	non-WS	diazepam	0.15
+GABRA1	non-WS	prasterone	0.03
+GABRA1	non-WS	ethanol	0.03
+GABRA1	non-WS	clorazepate	0.09
+GABRA1	non-WS	methohexital	3.52
+GABRA1	non-WS	cloxazolam	1.32
+GABRA1	non-WS	hexobarbital	0.53
+GABRA1	non-WS	methohexital sodium	0.03
+GABRA1	non-WS	ethyl loflazepate	1.32
+GABRA1	non-WS	nitrazepam	0.23
+GABRA1	non-WS	adipiplon	0.07
+GABRA1	non-WS	thiopental sodium	0.03
+GABRA1	non-WS	lormetazepam	1.32
+GABRA1	non-WS	ganaxolone	0.1
+GABRA1	non-WS	gabazine	0.05
+GABRA1	non-WS	5,7,2′-trihydroxy-6,8-dimethoxyflavone	0.88
+GABRA1	non-WS	bicuculline	0.19
+GABRA1	non-WS	progabide	1.76
+GABRA1	non-WS	delorazepam	1.32
+GABRA1	non-WS	phenytoin	0.03
+GABRA1	non-WS	pinazepam	1.32
+GABRA1	non-WS	azietomidate	0.06
+GABRA1	non-WS	amobarbital	0.31
+GABRA1	non-WS	oxazepam acetate	1.32
+GABRA1	non-WS	zk-93423	0.11
+GABRA1	non-WS	bretazenil	0.07
+GABRA1	non-WS	clomethiazole	0.07
+GABRA1	non-WS	butobarbital	0.48
+GABRA1	non-WS	ng2-73	0.07
+GABRA1	non-WS	butabarbital sodium	0.03
+GABRA1	non-WS	lorediplon	0.05
+GABRA1	non-WS	acamprosate calcium	0.02
+GABRA1	non-WS	isonipecotic acid	0.22
+GABRA1	non-WS	zolpidem tartrate	0.15
+GABRA1	non-WS	cns-7056	0.02
+GABRA1	non-WS	apalutamide	0.44
+GABRA1	non-WS	ro-229735	0.22
+GABRA1	non-WS	chlordiazepoxide hydrochloride	0.03
+GABRA1	non-WS	triclofos sodium	0.03
+GABRA1	non-WS	memantine	0.09
+GABRA1	non-WS	pentobarbital sodium	0.03
+GABRA1	non-WS	olanzapine	0.02
+GABRA1	non-WS	allopregnanolone	0.18
+GABRA1	non-WS	secobarbital sodium	0.03
+GABRA5	G4a-fro	heptabarbital	0.2
+GABRA5	G4a-fro	clonazepam	0.08
+GABRA5	G4a-fro	fludiazepam	0.16
+GABRA5	G4a-fro	chlordiazepoxide	0.09
+GABRA5	G4a-fro	pentobarbital	0.18
+GABRA5	G4a-fro	primidone	0.12
+GABRA5	G4a-fro	bromazepam	0.09
+GABRA5	G4a-fro	butethal	0.33
+GABRA5	G4a-fro	talbutal	0.2
+GABRA5	G4a-fro	hexobarbital	0.33
+GABRA5	G4a-fro	metharbital	0.2
+GABRA5	G4a-fro	lorazepam	0.09
+GABRA5	G4a-fro	methylphenobarbital	0.3
+GABRA5	G4a-fro	flumazenil	0.24
+GABRA5	G4a-fro	topiramate	0.01
+GABRA5	G4a-fro	clorazepate dipotassium	0.04
+GABRA5	G4a-fro	oxazepam	0.13
+GABRA5	G4a-fro	gabazine	0.07
+GABRA5	G4a-fro	secobarbital	0.3
+GABRA5	G4a-fro	estazolam	0.14
+GABRA5	G4a-fro	cinolazepam	0.12
+GABRA5	G4a-fro	meprobamate	0.22
+GABRA5	G4a-fro	midazolam	0.07
+GABRA5	G4a-fro	alprazolam	0.09
+GABRA5	G4a-fro	barbital	0.2
+GABRA5	G4a-fro	nitrazepam	0.13
+GABRA5	G4a-fro	clotiazepam	0.12
+GABRA5	G4a-fro	butabarbital sodium	0.04
+GABRA5	G4a-fro	bicuculline	0.09
+GABRA5	G4a-fro	zopiclone	0.92
+GABRA5	G4a-fro	gaboxadol	0.12
+GABRA5	G4a-fro	etomidate	0.12
+GABRA5	G4a-fro	flurazepam	0.13
+GABRA5	G4a-fro	clobazam	0.09
+GABRA5	G4a-fro	triazolam	0.13
+GABRA5	G4a-fro	halazepam	0.17
+GABRA5	G4a-fro	secobarbital sodium	0.04
+GABRA5	G4a-fro	desflurane	0.02
+GABRA5	G4a-fro	picrotoxin	0.03
+GABRA5	G4a-fro	ethanol	0.02
+GABRA5	G4a-fro	butalbital	0.2
+GABRA5	G4a-fro	temazepam	0.15
+GABRA5	G4a-fro	butabarbital	0.07
+GABRA5	G4a-fro	quazepam	0.17
+GABRA5	G4a-fro	pf-06372865	0.04
+GABRA5	G4a-fro	methyprylon	0.04
+GABRA5	G4a-fro	clorazepate	0.07
+GABRA5	G4a-fro	basmisanil	1.32
+GABRA5	G4a-fro	adinazolam	0.16
+GABRA5	G4a-fro	ganaxolone	0.15
+GABRA5	G4a-fro	flunitrazepam	0.51
+GABRA5	G4a-fro	pentobarbital sodium	0.04
+GABRA5	G4a-fro	ocinaplon	0.07
+GABRA5	G4a-fro	triclofos sodium	0.04
+GABRA5	G4a-fro	amobarbital	0.2
+GABRA5	G4a-fro	methohexital sodium	0.04
+GABRA5	G4a-fro	thiopental	0.28
+GABRA5	G4a-fro	thiamylal sodium	0.04
+GABRA5	G4a-fro	midazolam hydrochloride	0.04
+GABRA5	G4a-fro	bretazenil	0.11
+GABRA5	G4a-fro	diazepam	0.13
+GABRA5	G4a-fro	azietomidate	0.08
+GABRA5	G4a-fro	enflurane	0.02
+GABRA5	G4a-fro	butobarbital	0.33
+GABRA5	G4a-fro	propofol	0.02
+GABRA5	G4a-fro	thiopental sodium	0.04
+GABRA5	G4a-fro	phenobarbital	0.03
+GABRA5	G4a-fro	eszopiclone	0.18
+GABRA5	G4a-fro	halothane	0.02
+GABRA5	G4a-fro	ethchlorvynol	0.04
+GABRA5	G4a-fro	methoxyflurane	0.03
+GABRA5	G4a-fro	chlordiazepoxide hydrochloride	0.04
+GABRA5	G4a-fro	glutethimide	0.04
+GABRA5	G4a-fro	ro-4882224	0.44
+GABRA5	G4a-fro	sevoflurane	0.02
+GABRA5	G4a-fro	lorediplon	0.07
+GABRA5	G4a-fro	adipiplon	0.07
+GABRA5	G4a-fro	prazepam	0.12
+GABRA5	G4a-fro	isoflurane	0.02
+GABRA5	G4a-fro	resequinil	0.07
+GABRA5	G4a-fro	ng2-73	0.07
+GABRA5	G4a-fro	acamprosate calcium	0.03
+GABRA5	G4a-fro	aprobarbital	0.2
+GABRA5	G4a-fro	isoguvacine	0.07
+GABRA5	G4a-fro	carisoprodol	0.19
+GABRA5	G4a-fro	cns-7056	0.04
+GABRA5	G4a-fro	tpa023	0.17
+GABRA5	G4a-fro	rg-1662	1.32
+GABRA5	G4a-fro	muscimol	0.06
+GABRE	WNT-fro	oxazepam	0.18
+GABRE	WNT-fro	cinolazepam	0.16
+GABRE	WNT-fro	secobarbital sodium	0.06
+GABRE	WNT-fro	talbutal	0.05
+GABRE	WNT-fro	sevoflurane	0.03
+GABRE	WNT-fro	lorazepam	0.12
+GABRE	WNT-fro	methoxyflurane	0.04
+GABRE	WNT-fro	chlordiazepoxide	0.13
+GABRE	WNT-fro	halazepam	0.23
+GABRE	WNT-fro	alprazolam	0.09
+GABRE	WNT-fro	flurazepam	0.17
+GABRE	WNT-fro	clobazam	0.13
+GABRE	WNT-fro	clorazepate	0.09
+GABRE	WNT-fro	adinazolam	0.22
+GABRE	WNT-fro	enflurane	0.03
+GABRE	WNT-fro	acamprosate calcium	0.04
+GABRE	WNT-fro	fludiazepam	0.22
+GABRE	WNT-fro	clotiazepam	0.16
+GABRE	WNT-fro	etazolate	0.06
+GABRE	WNT-fro	diazepam	0.15
+GABRE	WNT-fro	clonazepam	0.11
+GABRE	WNT-fro	quazepam	0.23
+GABRE	WNT-fro	prazepam	0.17
+GABRE	WNT-fro	ethanol	0.02
+GABRE	WNT-fro	gaboxadol	0.06
+GABRE	WNT-fro	bromazepam	0.13
+GABRE	WNT-fro	propofol	0.03
+GABRE	WNT-fro	midazolam hydrochloride	0.05
+GABRE	WNT-fro	thiamylal sodium	0.05
+GABRE	WNT-fro	flumazenil	0.05
+GABRE	WNT-fro	picrotoxin	0.04
+GABRE	WNT-fro	azietomidate	0.11
+GABRE	WNT-fro	temazepam	0.21
+GABRE	WNT-fro	metharbital	0.05
+GABRE	WNT-fro	ethchlorvynol	0.06
+GABRE	WNT-fro	thiopental sodium	0.05
+GABRE	WNT-fro	ocinaplon	0.05
+GABRE	WNT-fro	primidone	0.03
+GABRE	WNT-fro	chlordiazepoxide hydrochloride	0.06
+GABRE	WNT-fro	clorazepate dipotassium	0.06
+GABRE	WNT-fro	estazolam	0.2
+GABRE	WNT-fro	cns-7056	0.05
+GABRE	WNT-fro	pentobarbital	0.04
+GABRE	WNT-fro	desflurane	0.03
+GABRE	WNT-fro	ng2-73	0.05
+GABRE	WNT-fro	etomidate	0.16
+GABRE	WNT-fro	methohexital sodium	0.06
+GABRE	WNT-fro	halothane	0.02
+GABRE	WNT-fro	glutethimide	0.05
+GABRE	WNT-fro	triazolam	0.15
+GABRE	WNT-fro	butabarbital sodium	0.06
+GABRE	WNT-fro	pf-06372865	0.06
+GABRE	WNT-fro	meprobamate	0.05
+GABRE	WNT-fro	triclofos sodium	0.06
+GABRE	WNT-fro	butalbital	0.05
+GABRE	WNT-fro	nitrazepam	0.17
+GABRE	WNT-fro	eszopiclone	0.05
+GABRE	WNT-fro	pentobarbital sodium	0.06
+GABRE	WNT-fro	isoflurane	0.03
+GABRE	WNT-fro	methyprylon	0.06
+GABRE	WNT-fro	midazolam	0.1
+GABRE	WNT-fro	topiramate	0.02
+GABRG2	WNT-rev	clobazam	0.08
+GABRG2	WNT-rev	propofol	0.03
+GABRG2	WNT-rev	carisoprodol	0.46
+GABRG2	WNT-rev	estazolam	0.14
+GABRG2	WNT-rev	flumazenil	0.21
+GABRG2	WNT-rev	clonazepam	0.07
+GABRG2	WNT-rev	oxazepam	0.12
+GABRG2	WNT-rev	alprazolam	0.05
+GABRG2	WNT-rev	triazolam	0.11
+GABRG2	WNT-rev	desflurane	0.03
+GABRG2	WNT-rev	temazepam	0.15
+GABRG2	WNT-rev	triclofos sodium	0.05
+GABRG2	WNT-rev	fludiazepam	0.14
+GABRG2	WNT-rev	azietomidate	0.1
+GABRG2	WNT-rev	chlordiazepoxide	0.08
+GABRG2	WNT-rev	clorazepate dipotassium	0.05
+GABRG2	WNT-rev	methyprylon	0.05
+GABRG2	WNT-rev	sevoflurane	0.02
+GABRG2	WNT-rev	talbutal	0.04
+GABRG2	WNT-rev	flurazepam	0.12
+GABRG2	WNT-rev	clotiazepam	0.19
+GABRG2	WNT-rev	midazolam	0.07
+GABRG2	WNT-rev	nitrazepam	0.12
+GABRG2	WNT-rev	zolpidem	0.32
+GABRG2	WNT-rev	cinolazepam	0.1
+GABRG2	WNT-rev	zk-93423	0.2
+GABRG2	WNT-rev	isonipecotic acid	0.41
+GABRG2	WNT-rev	thiocolchicoside	0.14
+GABRG2	WNT-rev	thiopental sodium	0.05
+GABRG2	WNT-rev	pf-06372865	0.05
+GABRG2	WNT-rev	etomidate	0.19
+GABRG2	WNT-rev	glutethimide	0.05
+GABRG2	WNT-rev	lorazepam	0.07
+GABRG2	WNT-rev	diazepam	0.11
+GABRG2	WNT-rev	topiramate	0.02
+GABRG2	WNT-rev	halazepam	0.16
+GABRG2	WNT-rev	zolpidem tartrate	0.27
+GABRG2	WNT-rev	midazolam hydrochloride	0.05
+GABRG2	WNT-rev	eszopiclone	0.05
+GABRG2	WNT-rev	butalbital	0.04
+GABRG2	WNT-rev	secobarbital sodium	0.05
+GABRG2	WNT-rev	acamprosate calcium	0.03
+GABRG2	WNT-rev	allopregnanolone	0.16
+GABRG2	WNT-rev	picrotoxin	0.04
+GABRG2	WNT-rev	meprobamate	0.05
+GABRG2	WNT-rev	resequinil	0.09
+GABRG2	WNT-rev	isoflurane	0.02
+GABRG2	WNT-rev	zaleplon	0.2
+GABRG2	WNT-rev	ro-4882224	0.54
+GABRG2	WNT-rev	clorazepate	0.04
+GABRG2	WNT-rev	methohexital sodium	0.05
+GABRG2	WNT-rev	metharbital	0.04
+GABRG2	WNT-rev	adipiplon	0.04
+GABRG2	WNT-rev	enflurane	0.02
+GABRG2	WNT-rev	pentobarbital sodium	0.05
+GABRG2	WNT-rev	ro-229735	0.41
+GABRG2	WNT-rev	pentobarbital	0.04
+GABRG2	WNT-rev	quazepam	0.16
+GABRG2	WNT-rev	prazepam	0.11
+GABRG2	WNT-rev	muscimol	0.15
+GABRG2	WNT-rev	methoxyflurane	0.03
+GABRG2	WNT-rev	bromazepam	0.08
+GABRG2	WNT-rev	chlordiazepoxide hydrochloride	0.05
+GABRG2	WNT-rev	adinazolam	0.14
+GABRG2	WNT-rev	lorediplon	0.09
+GABRG2	WNT-rev	ethchlorvynol	0.05
+GABRG2	WNT-rev	primidone	0.03
+GABRG2	WNT-rev	butabarbital sodium	0.05
+GABRG2	WNT-rev	halothane	0.02
+GABRG2	WNT-rev	thiamylal sodium	0.05
+GABRG3	WNT-fro	clonazepam	0.1
+GABRG3	WNT-fro	bromazepam	0.11
+GABRG3	WNT-fro	primidone	0.02
+GABRG3	WNT-fro	fludiazepam	0.18
+GABRG3	WNT-fro	diazepam	0.13
+GABRG3	WNT-fro	picrotoxin	0.03
+GABRG3	WNT-fro	lorediplon	0.09
+GABRG3	WNT-fro	temazepam	0.17
+GABRG3	WNT-fro	clorazepate	0.08
+GABRG3	WNT-fro	mebutamate	0.77
+GABRG3	WNT-fro	metharbital	0.08
+GABRG3	WNT-fro	flurazepam	0.15
+GABRG3	WNT-fro	halazepam	0.19
+GABRG3	WNT-fro	triazolam	0.13
+GABRG3	WNT-fro	allopregnanolone	0.15
+GABRG3	WNT-fro	clorazepate dipotassium	0.05
+GABRG3	WNT-fro	talbutal	0.08
+GABRG3	WNT-fro	propofol	0.03
+GABRG3	WNT-fro	nitrazepam	0.15
+GABRG3	WNT-fro	oxazepam	0.15
+GABRG3	WNT-fro	sevoflurane	0.02
+GABRG3	WNT-fro	quazepam	0.19
+GABRG3	WNT-fro	prazepam	0.14
+GABRG3	WNT-fro	clotiazepam	0.14
+GABRG3	WNT-fro	clobazam	0.11
+GABRG3	WNT-fro	estazolam	0.17
+GABRG3	WNT-fro	topiramate	0.02
+GABRG3	WNT-fro	alprazolam	0.08
+GABRG3	WNT-fro	chlordiazepoxide	0.11
+GABRG3	WNT-fro	ganaxolone	0.09
+GABRG3	WNT-fro	halothane	0.02
+GABRG3	WNT-fro	cinolazepam	0.14
+GABRG3	WNT-fro	butalbital	0.04
+GABRG3	WNT-fro	adipiplon	0.08
+GABRG3	WNT-fro	lorazepam	0.1
+GABRG3	WNT-fro	adinazolam	0.18
+GABRG3	WNT-fro	clomethiazole	0.13
+GABRG3	WNT-fro	enflurane	0.02
+GABRG3	WNT-fro	azd-3043	0.77
+GABRG3	WNT-fro	pf-06372865	0.05
+GABRG3	WNT-fro	meprobamate	0.04
+GABRG3	WNT-fro	remimazolam	0.09
+GABRG3	WNT-fro	acamprosate calcium	0.03
+GABRG3	WNT-fro	methohexital sodium	0.05
+GABRG3	WNT-fro	flumazenil	0.08
+GABRG3	WNT-fro	chlordiazepoxide hydrochloride	0.05
+GABRG3	WNT-fro	midazolam	0.08
+GABRG3	WNT-fro	pentobarbital	0.03
+GABRG3	WNT-fro	isoflurane	0.02
+GABRG3	WNT-fro	etomidate	0.18
+GABRG3	WNT-fro	midazolam hydrochloride	0.05
+GABRG3	WNT-fro	stiripentol	0.19
+GABRG3	WNT-fro	pentobarbital sodium	0.05
+GABRG3	WNT-fro	resequinil	0.09
+GABRG3	WNT-fro	pagoclone	0.19
+GABRG3	WNT-fro	saripidem	0.77
+GABRG3	WNT-fro	thiamylal sodium	0.05
+GABRG3	WNT-fro	bentazepam	0.38
+GABRG3	WNT-fro	ng2-73	0.08
+GABRG3	WNT-fro	cns-7056	0.09
+GABRG3	WNT-fro	methoxyflurane	0.03
+GABRG3	WNT-fro	eszopiclone	0.04
+GABRG3	WNT-fro	azietomidate	0.1
+GABRG3	WNT-fro	thiopental sodium	0.05
+GABRG3	WNT-fro	triclofos sodium	0.05
+GABRG3	WNT-fro	methyprylon	0.05
+GABRG3	WNT-fro	glutethimide	0.05
+GABRG3	WNT-fro	ocinaplon	0.04
+GABRG3	WNT-fro	thiamylal	0.19
+GABRG3	WNT-fro	secobarbital sodium	0.05
+GABRG3	WNT-fro	zolpidem	0.08
+GABRG3	WNT-fro	desflurane	0.03
+GABRG3	WNT-fro	ethanol	0.02
+GABRG3	WNT-fro	butabarbital sodium	0.05
+GABRG3	WNT-fro	etazolate	0.05
+GABRG3	WNT-fro	ethchlorvynol	0.05
+GAD1	WNT-fro	pyridoxal phosphate	3.28
+GAD1	WNT-fro	glutamic acid	1.8
+GAD1	WNT-fro	methadone	1.11
+GALNT14	G4b-rev	mitoxantrone	1.04
+GALNT14	G4b-rev	fluorouracil	0.41
+GALNT14	G4b-rev	sorafenib	0.33
+GALNT14	G4b-rev	cisplatin	0.28
+GALNT18	G3-rev	cisplatin	0.37
+GALNT18	G3-rev	tocilizumab	14.2
+GALR1	WNT-fro	testosterone	0.44
+GALR1	WNT-fro	bupropion	0.43
+GALR1	WNT-fro	nicotine	0.45
+GALR1	WNT-fro	galanin	2.71
+GALR1	WNT-fro	galmic	8.12
+GALR1	WNT-fro	gal-b5	4.06
+GALR1	WNT-fro	galnon	8.12
+GALT	G4a-fro	algenpantucel-l	113.61
+GCAT	G4b-fro	pyridoxal phosphate	1.09
+GCAT	G4b-fro	glycine	1.72
+GCLM	WNT-fro	sulforaphane	3.25
+GCLM	WNT-fro	glutamic acid	0.36
+GCLM	WNT-fro	melatonin	0.67
+GCLM	WNT-fro	cysteine	1.51
+GCLM	WNT-fro	cisplatin	0.15
+GDNF	WNT-fro	clozapine	0.2
+GDNF	WNT-fro	gentamicin	0.71
+GDNF	WNT-fro	paroxetine	0.48
+GDNF	WNT-fro	chondroitin sulfate	4.06
+GDNF	WNT-fro	ethanol	0.12
+GDNF	WNT-fro	bromocriptine	0.51
+GDNF	WNT-fro	liatermin	8.12
+GJA3	WNT-fro	octanol	1.35
+GJA3	WNT-fro	carbenoxolone	1.14
+GLDC	WS	pyridoxal phosphate	1.09
+GLDC	WS	escitalopram	1.46
+GLDC	WS	citalopram	1.08
+GLRA2	G4b-fro	glycine	0.49
+GLRA2	G4b-fro	tropisetron	0.41
+GLRA2	G4b-fro	win-552122	0.45
+GLRA2	G4b-fro	hu-308	3.04
+GLRA2	G4b-fro	picrotoxin	0.88
+GLRA2	G4b-fro	taurine	0.68
+GLRA2	G4b-fro	picrotin	1.01
+GLRA2	G4b-fro	hu-210	1.01
+GLRA2	G4b-fro	bilobalide	1.35
+GLRA2	G4b-fro	lindane	1.22
+GLRA2	G4b-fro	colchicine	0.08
+GLRA2	G4b-fro	strychnine	0.41
+GLRA2	G4b-fro	ethanol	0.15
+GLRA2	G4b-fro	picrotoxinin	1.01
+GLRX2	G3-fro	glutathione	5.83
+GNB3	SHH-rev	nortriptyline	0.36
+GNB3	SHH-rev	clonidine	1.01
+GNB3	SHH-rev	furosemide	0.62
+GNB3	SHH-rev	methadone	0.26
+GNB3	SHH-rev	sumatriptan	0.49
+GNB3	SHH-rev	sibutramine	1.46
+GNB3	SHH-rev	torasemide	0.73
+GNB3	SHH-rev	olanzapine	0.12
+GNB3	SHH-rev	sertraline	0.36
+GNB3	SHH-rev	bumetanide	0.58
+GNB3	SHH-rev	atenolol	0.26
+GNB3	SHH-rev	telmisartan	0.55
+GNB3	SHH-rev	sildenafil	0.67
+GPC3	SHH-fro	codrituzumab	56.81
+GPC3	SHH-fro	ery974	28.4
+GPR12	non-WS	24-epi-cyclocitrinol	18.94
+GPR12	non-WS	cyclocitrinol	18.94
+GPR12	non-WS	neocyclocitrinol c	18.94
+GPR12	non-WS	nabiximols	0.43
+GPR12	non-WS	cannabidiol	0.44
+GPR12	non-WS	neocyclocitrinol b	18.94
+GRIA4	SHH-fro	tezampanel	0.77
+GRIA4	SHH-fro	selurampanel	0.65
+GRIA4	SHH-fro	cx516	0.65
+GRIA4	SHH-fro	butabarbital	0.43
+GRIA4	SHH-fro	piracetam	0.65
+GRIA4	SHH-fro	mibampator	0.65
+GRIA4	SHH-fro	perampanel	1.94
+GRIA4	SHH-fro	e-2007	1.94
+GRIA4	SHH-fro	ethanol	0.04
+GRIA4	SHH-fro	dasolampanel	0.52
+GRIA4	SHH-fro	farampator	0.65
+GRIA4	SHH-fro	pf-04958242	0.65
+GRIA4	SHH-fro	glutamic acid	0.25
+GRIA4	SHH-fro	talampanel	3.23
+GRIA4	SHH-fro	topiramate	0.06
+GRIA4	SHH-fro	zonampanel	0.65
+GRIA4	SHH-fro	nbqx	0.17
+GRIA4	SHH-fro	irampanel	0.18
+GRIA4	SHH-fro	bgg-492	0.65
+GRIA4	SHH-fro	cx1739	0.65
+GRIA4	SHH-fro	cyclothiazide	0.26
+GRIA4	SHH-fro	becampanel	0.65
+GRIA4	SHH-fro	mk-8777	0.65
+GRIA4	SHH-fro	aniracetam	0.29
+GRID2	G3-rev	risperidone	1.7
+HBB	G4a-rev	2,6-dicarboxynaphthalene	1.49
+HBB	G4a-rev	gbt440	0.9
+HBB	G4a-rev	azacitidine	0.04
+HBB	G4a-rev	thioinosine	0.25
+HBB	G4a-rev	cid 94381	0.14
+HBB	G4a-rev	hydroxycamptothecin	0.5
+HBB	G4a-rev	ellagic acid	0.03
+HBB	G4a-rev	nsc-348401	0.06
+HBB	G4a-rev	pentaerythritol tetranitrate	0.5
+HBB	G4a-rev	copper	0.02
+HBB	G4a-rev	ferric pyrophosphate citrate	0.75
+HBB	G4a-rev	phenazopyridine hydrochloride	0.09
+HBB	G4a-rev	trimesic acid	1.49
+HBB	G4a-rev	zinc	0.02
+HBB	G4a-rev	5-fluorouridine	0.25
+HBB	G4a-rev	fluorouracil	0.01
+HBB	G4a-rev	azathioprine	0.06
+HBB	G4a-rev	su-6656	0.08
+HBB	G4a-rev	camptothecin	0.04
+HBB	G4a-rev	topotecan hydrochloride	0.14
+HBB	G4a-rev	sebacic acid	1.49
+HBB	G4a-rev	phenylmercuric acetate	0.07
+HBB	G4a-rev	elliptecine	0.05
+HBB	G4a-rev	aes-103	1.49
+HBB	G4a-rev	voxelotor	0.9
+HBB	G4a-rev	8-azaguanine	0.21
+HBB	G4a-rev	hqk-1001	1.49
+HBB	G4a-rev	mercaptopurine	0.04
+HBB	G4a-rev	efaproxiral	1.49
+HBB	G4a-rev	thioguanine	0.06
+HBB	G4a-rev	mercuric chloride	0.07
+HBB	G4a-rev	nitrous acid	1
+HBB	G4a-rev	nebularine	0.5
+HBB	G4a-rev	zinc chloride	0.03
+HBB	G4a-rev	2-[4-({[(3,5-dichlorophenyl)amino]carbonyl}amino)phenoxy]-2-methylpropanoic acid	1.49
+HBB	G4a-rev	quinacrine dihydrochloride	0.12
+HBB	G4a-rev	menadione	0.05
+HBB	G4a-rev	nsc-119236	0.5
+HBB	G4a-rev	fbs-0701	1.49
+HBEGF	G4b-fro	khk-2866	18.94
+HBEGF	G4b-fro	cetuximab	0.39
+HBEGF	G4b-fro	panitumumab	0.9
+HDAC11	G4b-fro	ar-42	0.14
+HDAC11	G4b-fro	resminostat	0.17
+HDAC11	G4b-fro	cudc-101	0.26
+HDAC11	G4b-fro	cudc-907	0.2
+HDAC11	G4b-fro	scriptaid	0.31
+HDAC11	G4b-fro	hinokitiol	0.12
+HDAC11	G4b-fro	quisinostat	0.15
+HDAC11	G4b-fro	butanoic acid	0.31
+HDAC11	G4b-fro	valproic acid	0.41
+HDAC11	G4b-fro	vorinostat	0.47
+HDAC11	G4b-fro	apicidin	0.33
+HDAC11	G4b-fro	mgcd-0103	0.7
+HDAC11	G4b-fro	belinostat	0.52
+HDAC11	G4b-fro	suberohydroxamic acid	0.33
+HDAC11	G4b-fro	7-ethyl-10-hydroxy-camptothecin	0.14
+HDAC11	G4b-fro	phenylbutanoic acid	0.26
+HDAC11	G4b-fro	entinostat	0.41
+HDAC11	G4b-fro	butyrylhydroxamic acid	0.33
+HDAC11	G4b-fro	romidepsin	0.18
+HDAC11	G4b-fro	tacedinaline	0.5
+HDAC11	G4b-fro	mocetinostat	0.7
+HDAC11	G4b-fro	bml-210	0.33
+HDAC11	G4b-fro	daunorubicin	0.05
+HDAC11	G4b-fro	pracinostat	0.15
+HDAC11	G4b-fro	panobinostat lactate	0.18
+HDAC11	G4b-fro	panobinostat	0.22
+HDAC11	G4b-fro	largazole	0.25
+HDAC11	G4b-fro	2-ene-valproate	0.33
+HDAC11	G4b-fro	trichostatin	0.48
+HDAC11	G4b-fro	psammaplin a	0.28
+HDAC11	G4b-fro	fimepinostat	0.2
+HDAC11	G4b-fro	4-(4-aminophenyl)butanoic acid	0.33
+HDAC11	G4b-fro	phenylbutyrylhydroxamic acid	0.33
+HEXB	G4a-rev	cddp	0.07
+HEXB	G4a-rev	pyrimethamine	0.95
+HEXB	G4a-rev	tamoxifen	0.17
+HEXB	G4a-rev	cortisone	2.84
+HEXB	G4a-rev	n-acetyl-glucosamine thiazoline	7.1
+HEXB	G4a-rev	gentamicin	0.74
+HEXB	G4a-rev	omeprazole	0.33
+HEXB	G4a-rev	estramustine	0.76
+HEXB	G4a-rev	n-acetylglucosamine thiazoline	7.1
+HEXB	G4a-rev	thyroxine	0.95
+HEXB	G4a-rev	rabeprazole	0.95
+HMBS	WNT-fro	givosiran	37.87
+HMGCL	G3-rev	3-hydroxyglutaric acid	56.81
+HTR1A	G4b-fro	mn-305	1.5
+HTR1A	G4b-fro	repinotan	1.13
+HTR1A	G4b-fro	quetiapine	0.08
+HTR1A	G4b-fro	vilazodone	0.32
+HTR1A	G4b-fro	lurasidone	0.31
+HTR1A	G4b-fro	xaliproden	1.13
+HTR1A	G4b-fro	gilteritinib	0.04
+HTR1A	G4b-fro	brl-15572	0.04
+HTR1A	G4b-fro	ketamine	0.04
+HTR1A	G4b-fro	robalzotan	1.88
+HTR1A	G4b-fro	buspirone	0.45
+HTR1A	G4b-fro	aripiprazole lauroxil	0.13
+HTR1A	G4b-fro	clozapine	0.05
+HTR1A	G4b-fro	fluspirilene	0.02
+HTR1A	G4b-fro	pindolol	0.38
+HTR1A	G4b-fro	trazodone	0.21
+HTR1A	G4b-fro	vortioxetine	0.17
+HTR1A	G4b-fro	nabiximols	0.02
+HTR1A	G4b-fro	naluzotan	2.26
+HTR1A	G4b-fro	apomorphine	0.06
+HTR1A	G4b-fro	pardoprunox	0.16
+HTR1A	G4b-fro	alverine	0.75
+HTR1A	G4b-fro	frovatriptan	0.13
+HTR1A	G4b-fro	iloperidone	0.09
+HTR1A	G4b-fro	mesoridazine	0.05
+HTR1A	G4b-fro	cabergoline	0.09
+HTR1A	G4b-fro	yohimbine	0.08
+HTR1A	G4b-fro	vilazodone hydrochloride	0.19
+HTR1A	G4b-fro	terguride	0.03
+HTR1A	G4b-fro	cariprazine	0.11
+HTR1A	G4b-fro	bifeprunox	0.38
+HTR1A	G4b-fro	aripiprazole	0.09
+HTR1A	G4b-fro	olanzapine	0.04
+HTR1A	G4b-fro	pirlindole	0.25
+HTR1A	G4b-fro	sertraline	0.13
+HTR1A	G4b-fro	naratriptan	0.38
+HTR1A	G4b-fro	mirtazapine	0.02
+HTR1A	G4b-fro	thioproperazine	0.19
+HTR1A	G4b-fro	dihydroergocristine	0.11
+HTR1A	G4b-fro	imipramine	0.02
+HTR1A	G4b-fro	ziprasidone	0.12
+HTR1A	G4b-fro	gsk163090	0.09
+HTR1A	G4b-fro	lofexidine	0.04
+HTR1A	G4b-fro	pipotiazine	0.28
+HTR1A	G4b-fro	eltoprazine	0.13
+HTR1A	G4b-fro	5-methoxy-n,n-dimethyltryptamine	0.19
+HTR1A	G4b-fro	xanomeline	0.03
+HTR1A	G4b-fro	zalospirone	0.75
+HTR1A	G4b-fro	paroxetine	0.1
+HTR1A	G4b-fro	flesinoxan	0.38
+HTR1A	G4b-fro	fluvoxamine	0.21
+HTR1A	G4b-fro	dosulepin	0.06
+HTR1A	G4b-fro	tetrahydrocannabivarin	0.16
+HTR1A	G4b-fro	loxapine	0.01
+HTR1A	G4b-fro	ergoloid mesylates	0.03
+HTR1A	G4b-fro	pipamperone	0.03
+HTR1A	G4b-fro	flibanserin	0.26
+HTR1A	G4b-fro	nortriptyline	0.06
+HTR1A	G4b-fro	pizotifen	0.07
+HTR1A	G4b-fro	methysergide	0.18
+HTR1A	G4b-fro	piclozotan	0.38
+HTR1A	G4b-fro	rotigotine	0.21
+HTR1A	G4b-fro	bopindolol	0.44
+HTR1A	G4b-fro	donitriptan	0.04
+HTR1A	G4b-fro	sumatriptan	0.08
+HTR1A	G4b-fro	cinitapride	0.38
+HTR1A	G4b-fro	befiradol	0.38
+HTR1A	G4b-fro	amisulpride	0.07
+HTR1A	G4b-fro	bromocriptine	0.05
+HTR1A	G4b-fro	eletriptan	0.19
+HTR1A	G4b-fro	urapidil	0.08
+HTR1A	G4b-fro	pergolide	0.08
+HTR1A	G4b-fro	lecozotan hydrochloride	0.38
+HTR1A	G4b-fro	methiothepin	0.02
+HTR1A	G4b-fro	lisuride	0.22
+HTR1A	G4b-fro	methamphetamine	0.03
+HTR1A	G4b-fro	rizatriptan	0.08
+HTR1A	G4b-fro	bmy-14802	0.38
+HTR1A	G4b-fro	5-meo-dmt	0.19
+HTR1A	G4b-fro	methylphenidate	0.02
+HTR1A	G4b-fro	chlorpromazine	0.04
+HTR1A	G4b-fro	buspirone hydrochloride	0.13
+HTR1A	G4b-fro	roxindole	0.03
+HTR1A	G4b-fro	zolmitriptan	0.25
+HTR1A	G4b-fro	sarizotan hydrochloride	0.09
+HTR1A	G4b-fro	thioridazine	0.02
+HTR1A	G4b-fro	risperidone	0.03
+HTR1A	G4b-fro	quinpirole	0.04
+HTR1A	G4b-fro	trimipramine	0.04
+HTR1A	G4b-fro	setiptiline	0.38
+HTR1A	G4b-fro	cannabidiol	0.03
+HTR1A	G4b-fro	zotepine	0.02
+HTR1A	G4b-fro	acepromazine	0.14
+HTR1A	G4b-fro	asenapine	0.09
+HTR1A	G4b-fro	escitalopram	0.03
+HTR1A	G4b-fro	nefazodone	0.05
+HTR1A	G4b-fro	desipramine	0.03
+HTR1A	G4b-fro	opc-34712	0.27
+HTR1A	G4b-fro	8-oh-dpat	0.03
+HTR1A	G4b-fro	neu-p11	0.13
+HTR1A	G4b-fro	umespirone	0.19
+HTR1A	G4b-fro	spiperone	0.02
+HTR1A	G4b-fro	ocaperidone	0.03
+HTR1A	G4b-fro	way-100135	0.09
+HTR1A	G4b-fro	osemozotan	1.5
+HTR1A	G4b-fro	ergotamine	0.04
+HTR1A	G4b-fro	penbutolol	0.28
+HTR1A	G4b-fro	lysergide	0.23
+HTR1A	G4b-fro	bmy-7378	0.08
+HTR1A	G4b-fro	cyamemazine	0.09
+HTR1A	G4b-fro	dopamine	0.04
+HTR1A	G4b-fro	brexpiprazole	0.27
+HTR1A	G4b-fro	capeserod	0.04
+HTR1A	G4b-fro	pimozide	0.01
+HTR1A	G4b-fro	sarizotan	0.5
+HTR1A	G4b-fro	dihydroergocornine	0.25
+HTR1A	G4b-fro	ipsapirone	0.19
+HTR1A	G4b-fro	amoxapine	0.03
+HTR1A	G4b-fro	ritanserin	0.02
+HTR1A	G4b-fro	tiapride	0.13
+HTR1A	G4b-fro	doxepin	0.05
+HTR1A	G4b-fro	milnacipran	0.13
+HTR1A	G4b-fro	ondansetron	0.06
+HTR1A	G4b-fro	molindone	0.11
+HTR1A	G4b-fro	mianserin	0.01
+HTR1A	G4b-fro	tianeptine	0.28
+HTR1A	G4b-fro	gepirone	0.75
+HTR1A	G4b-fro	vortioxetine hydrobromide	0.13
+HTR1A	G4b-fro	haloperidol	0.01
+HTR1A	G4b-fro	chlorprothixene	0.06
+HTR1A	G4b-fro	paliperidone	0.04
+HTR1A	G4b-fro	ketanserin	0.02
+HTR1A	G4b-fro	way-100635	0.13
+HTR1A	G4b-fro	nafadotride	0.13
+HTR1A	G4b-fro	perospirone	0.16
+HTR1A	G4b-fro	xylometazoline hydrochloride	0.38
+HTR1A	G4b-fro	lysergic acid diethylamide	0.23
+HTR1A	G4b-fro	pramipexole	0.45
+HTR1A	G4b-fro	dapoxetine	0.08
+HTR1A	G4b-fro	fluoxetine	0.03
+HTR1A	G4b-fro	tiospirone	0.13
+HTR1A	G4b-fro	fluparoxan	0.38
+HTR1A	G4b-fro	dotarizine	0.19
+HTR1A	G4b-fro	5-hydroxytryptamine	0.02
+HTR1A	G4b-fro	alprenolol	0.47
+HTR1A	G4b-fro	propranolol	0.04
+HTR1A	G4b-fro	sertindole	0.02
+HTR1A	G4b-fro	oxymetazoline hydrochloride	0.05
+HTR1A	G4b-fro	tandospirone	0.38
+HTR1A	G4b-fro	piribedil	0.03
+HTR1A	G4b-fro	spiroxatrine	0.04
+HTR1A	G4b-fro	org-13011	0.75
+HTR1A	G4b-fro	prx-00023	2.26
+HTR1A	G4b-fro	tertatolol	0.09
+HTR1A	G4b-fro	lesopitron	1.13
+HTR1A	G4b-fro	raclopride	0.08
+HTR1A	G4b-fro	amitriptyline	0.05
+HTR2C	G4b-fro	bifeprunox	0.07
+HTR2C	G4b-fro	nefazodone hydrochloride	0.07
+HTR2C	G4b-fro	nefazodone	0.12
+HTR2C	G4b-fro	quinpirole	0.04
+HTR2C	G4b-fro	cabergoline	0.13
+HTR2C	G4b-fro	propiomazine	0.25
+HTR2C	G4b-fro	clozapine	0.09
+HTR2C	G4b-fro	fluoxetine	0.05
+HTR2C	G4b-fro	ergotamine	0.08
+HTR2C	G4b-fro	pizotifen	0.03
+HTR2C	G4b-fro	dapoxetine	0.18
+HTR2C	G4b-fro	tramadol	0.1
+HTR2C	G4b-fro	lisuride	0.1
+HTR2C	G4b-fro	olanzapine	0.18
+HTR2C	G4b-fro	chlorprothixene	0.17
+HTR2C	G4b-fro	trazodone	0.25
+HTR2C	G4b-fro	minaprine	0.35
+HTR2C	G4b-fro	tegaserod	0.18
+HTR2C	G4b-fro	ocaperidone	0.03
+HTR2C	G4b-fro	dexfenfluramine	1.33
+HTR2C	G4b-fro	lorpiprazole	0.15
+HTR2C	G4b-fro	maprotiline	0.04
+HTR2C	G4b-fro	chlorpromazine	0.03
+HTR2C	G4b-fro	bromocriptine	0.07
+HTR2C	G4b-fro	deramciclane	0.44
+HTR2C	G4b-fro	cyproheptadine	0.07
+HTR2C	G4b-fro	brolamfetamine	0.15
+HTR2C	G4b-fro	mk-212	0.06
+HTR2C	G4b-fro	methysergide	0.18
+HTR2C	G4b-fro	cyclobenzaprine	0.07
+HTR2C	G4b-fro	8-oh-dpat	0.04
+HTR2C	G4b-fro	mianserin	0.08
+HTR2C	G4b-fro	pergolide	0.12
+HTR2C	G4b-fro	escitalopram	0.07
+HTR2C	G4b-fro	methotrimeprazine	0.04
+HTR2C	G4b-fro	trifluoperazine	0.01
+HTR2C	G4b-fro	rs-127445	0.15
+HTR2C	G4b-fro	trifluoperazine hydrochloride	0.04
+HTR2C	G4b-fro	olanzapine pamoate	0.09
+HTR2C	G4b-fro	tedatioxetine	0.1
+HTR2C	G4b-fro	roxindole	0.03
+HTR2C	G4b-fro	thioridazine	0.04
+HTR2C	G4b-fro	esmirtazapine maleate	0.07
+HTR2C	G4b-fro	risperidone	0.12
+HTR2C	G4b-fro	tiospirone	0.15
+HTR2C	G4b-fro	haloperidol	0.02
+HTR2C	G4b-fro	fenfluramine	0.44
+HTR2C	G4b-fro	trazodone hydrochloride	0.09
+HTR2C	G4b-fro	xanomeline	0.03
+HTR2C	G4b-fro	zotepine	0.03
+HTR2C	G4b-fro	4-bromo-2,5-dimethoxyphenethylamine	0.67
+HTR2C	G4b-fro	cyclobenzaprine hydrochloride	0.09
+HTR2C	G4b-fro	nortriptyline	0.06
+HTR2C	G4b-fro	mirtazapine	0.22
+HTR2C	G4b-fro	spiperone	0.02
+HTR2C	G4b-fro	ziprasidone mesylate	0.15
+HTR2C	G4b-fro	lorcaserin	0.89
+HTR2C	G4b-fro	desipramine	0.03
+HTR2C	G4b-fro	5-meo-dmt	0.07
+HTR2C	G4b-fro	promazine	0.15
+HTR2C	G4b-fro	spiramide	0.07
+HTR2C	G4b-fro	cyamemazine	0.11
+HTR2C	G4b-fro	idalopirdine	0.22
+HTR2C	G4b-fro	paliperidone	0.04
+HTR2C	G4b-fro	etoperidone	0.15
+HTR2C	G4b-fro	sertindole	0.14
+HTR2C	G4b-fro	ziprasidone	0.11
+HTR2C	G4b-fro	ritanserin	0.02
+HTR2C	G4b-fro	way-163909	0.44
+HTR2C	G4b-fro	asenapine	0.1
+HTR2C	G4b-fro	doxepin	0.07
+HTR2C	G4b-fro	amitriptyline	0.03
+HTR2C	G4b-fro	amoxapine	0.03
+HTR2C	G4b-fro	methylergonovine	0.04
+HTR2C	G4b-fro	duloxetine	0.02
+HTR2C	G4b-fro	sarpogrelate	0.33
+HTR2C	G4b-fro	clomipramine	0.1
+HTR2C	G4b-fro	lysergide	0.09
+HTR2C	G4b-fro	capeserod	0.05
+HTR2C	G4b-fro	ziprasidone hydrochloride	0.15
+HTR2C	G4b-fro	fluphenazine	0.05
+HTR2C	G4b-fro	agomelatine	0.3
+HTR2C	G4b-fro	lofexidine	0.05
+HTR2C	G4b-fro	trimipramine maleate	0.06
+HTR2C	G4b-fro	epicept np-1	0.04
+HTR2C	G4b-fro	aripiprazole	0.04
+HTR2C	G4b-fro	metergoline	0.02
+HTR2C	G4b-fro	renzapride	0.09
+HTR2C	G4b-fro	quetiapine	0.07
+HTR2C	G4b-fro	imipramine	0.04
+HTR2C	G4b-fro	amisulpride	0.08
+HTR2C	G4b-fro	glemanserin	0.15
+HTR2C	G4b-fro	ketanserin	0.02
+HTR2C	G4b-fro	oxymetazoline	0.04
+HTR2C	G4b-fro	m-chlorophenylpiperazine	0.22
+HTR2C	G4b-fro	apomorphine	0.07
+HTR2C	G4b-fro	mesulergine	0.09
+HTR2C	G4b-fro	captodiame	0.3
+HTR2C	G4b-fro	thioridazine hydrochloride	0.03
+HTR2C	G4b-fro	quipazine	0.11
+HTR2C	G4b-fro	loxapine succinate	0.07
+HTR2C	G4b-fro	mesoridazine	0.06
+HTR2C	G4b-fro	loxapine	0.05
+HTR2C	G4b-fro	methixene hydrochloride	0.11
+HTR2C	G4b-fro	vabicaserin	0.22
+HTR2C	G4b-fro	dotarizine	0.22
+HTR2C	G4b-fro	methiothepin	0.02
+HTR2C	G4b-fro	eltoprazine	0.15
+HTR2C	G4b-fro	thiethylperazine	0.08
+HTR2C	G4b-fro	carphenazine maleate	0.15
+HTR2C	G4b-fro	yohimbine	0.07
+HTR2C	G4b-fro	terguride	0.03
+HTR2C	G4b-fro	tryptamine	0.04
+HTR2C	G4b-fro	loxapine hydrochloride	0.09
+HTR2C	G4b-fro	midomafetamine	0.25
+HTR2C	G4b-fro	2,5-dimethoxy-4-ethylthioamphetamine	0.44
+HTR2C	G4b-fro	trimipramine	0.06
+HTR2C	G4b-fro	quetiapine fumarate	0.15
+HTR2C	G4b-fro	brl-15572	0.05
+HTR2C	G4b-fro	vabicaserin hydrochloride	0.15
+HTR2C	G4b-fro	puerarin	0.22
+HTR2C	G4b-fro	lorcaserin hydrochloride	0.44
+HTR2C	G4b-fro	volinanserin	0.15
+HTR2C	G4b-fro	perphenazine	0.02
+HTR2C	G4b-fro	rs-102221	0.15
+HTR2C	G4b-fro	methylenedioxymethamphetamine	0.25
+HTR2C	G4b-fro	ver-3323	0.07
+HTR2C	G4b-fro	5-hydroxytryptamine	0.02
+HTR2C	G4b-fro	eplivanserin	0.22
+IFNGR2	G4a-rev	interferon gamma-1b	170.42
+IFNGR2	G4a-rev	ifn-gamma	170.42
+IFNGR2	G4a-rev	interferon gama-1b	170.42
+IFNLR1	WNT-fro	peginterferon lambda-1a	28.4
+IMPG2	SHH-rev	hyaluronic acid	7.57
+INHBA	WNT-fro	sotatercept	18.94
+IRAK3	SHH-fro	fostamatinib	0.38
+KAT2B	WNT-rev	diethyl-2-dodecylidenemalonate	2.52
+KAT2B	WNT-rev	amphetamine	0.19
+KAT2B	WNT-rev	triazolam	0.25
+KAT2B	WNT-rev	garcinol	1.26
+KAT2B	WNT-rev	n-(3-aminopropyl)-2-nitrobenzenamine	7.57
+KAT2B	WNT-rev	plumbagin	0.25
+KAT2B	WNT-rev	diethyl-2-undecylidenemalonate	2.52
+KAT2B	WNT-rev	diethyl-2-pentadecylidenemalonate	5.68
+KAT2B	WNT-rev	diethyl-2-tridecylidenemalonate	7.57
+KAT2B	WNT-rev	cannabinoids	0.09
+KAT2B	WNT-rev	cocaine	0.15
+KAT2B	WNT-rev	coenzyme a	0.47
+KAT2B	WNT-rev	diethyl-2-tridecylmalonate	3.79
+KAT2B	WNT-rev	6-decylsalicylic acid	2.52
+KAT2B	WNT-rev	diethyl-2-tetradecylidenemalonate	2.52
+KCNA1	G4b-fro	dalfampridine	0.44
+KCNA1	G4b-fro	sevoflurane	0.45
+KCNA1	G4b-fro	desflurane	0.76
+KCNA1	G4b-fro	guanidine hydrochloride	0.1
+KCNA1	G4b-fro	nerispirdine	0.08
+KCNA1	G4b-fro	isoflurane	0.69
+KCNA1	G4b-fro	enflurane	0.33
+KCNA1	G4b-fro	tetraethylammonium	2.52
+KCNA1	G4b-fro	amitriptyline	0.28
+KCNA1	G4b-fro	cortisone	1.89
+KCNA1	G4b-fro	methoxyflurane	0.58
+KCNA1	G4b-fro	mtx	0.07
+KCNA1	G4b-fro	tedisamil	0.1
+KCNA1	G4b-fro	amifampridine	3.79
+KCNA1	G4b-fro	bupivacaine	0.58
+KCNA2	G3-rev	dalfampridine	0.66
+KCNA2	G3-rev	stz	0.4
+KCNA2	G3-rev	tedisamil	0.24
+KCNA2	G3-rev	anandamide	0.59
+KCNA2	G3-rev	guanidine hydrochloride	0.24
+KCNA2	G3-rev	nerispirdine	0.19
+KCNA5	SHH-rev	quinidine	0.11
+KCNA5	SHH-rev	clofilium	0.68
+KCNA5	SHH-rev	dronedarone	0.19
+KCNA5	SHH-rev	vernakalant	1.08
+KCNA5	SHH-rev	isavuconazole	0.6
+KCNA5	SHH-rev	nifedipine	0.05
+KCNA5	SHH-rev	tedisamil	0.07
+KCNA5	SHH-rev	bms-394136	2.71
+KCNA5	SHH-rev	resiniferatoxin	0.9
+KCNA5	SHH-rev	dalfampridine	0.25
+KCNA5	SHH-rev	guanidine hydrochloride	0.07
+KCNA5	SHH-rev	bms-919373	2.71
+KCNA5	SHH-rev	t-226296	1.35
+KCNA5	SHH-rev	propafenone	0.25
+KCNA5	SHH-rev	bupivacaine	0.21
+KCNA5	SHH-rev	fampridine	0.25
+KCNA5	SHH-rev	terfenadine	0.27
+KCNA5	SHH-rev	flecainide	0.27
+KCNA5	SHH-rev	loratadine	0.32
+KCNA5	SHH-rev	diltiazem	0.23
+KCNA5	SHH-rev	dihydrotestosterone	0.24
+KCNA5	SHH-rev	nerispirdine	0.05
+KCNB2	WNT-rev	fampridine	1.06
+KCNB2	WNT-rev	dalfampridine	1.06
+KCNB2	WNT-rev	nerispirdine	0.23
+KCNB2	WNT-rev	quinine	0.95
+KCNB2	WNT-rev	guanidine hydrochloride	0.29
+KCNB2	WNT-rev	tedisamil	0.29
+KCND3	WNT-rev	imipramine	0.36
+KCND3	WNT-rev	nifedipine	0.2
+KCND3	WNT-rev	tedisamil	0.15
+KCND3	WNT-rev	disopyramide	1.26
+KCND3	WNT-rev	nerispirdine	0.11
+KCND3	WNT-rev	guanidine hydrochloride	0.15
+KCND3	WNT-rev	dalfampridine	0.4
+KCND3	WNT-rev	isavuconazole	1.26
+KCND3	WNT-rev	vernakalant	1.14
+KCND3	WNT-rev	dronedarone	0.39
+KCNF1	G4a-fro	dalfampridine	0.33
+KCNF1	G4a-fro	tedisamil	0.36
+KCNF1	G4a-fro	nerispirdine	0.28
+KCNF1	G4a-fro	guanidine hydrochloride	0.36
+KCNH5	WNT-fro	tedisamil	0.29
+KCNH5	WNT-fro	quinidine	0.47
+KCNH5	WNT-fro	dalfampridine	0.26
+KCNH5	WNT-fro	guanidine hydrochloride	0.29
+KCNH5	WNT-fro	nerispirdine	0.23
+KCNH7	WNT-rev	tedisamil	0.24
+KCNH7	WNT-rev	guanidine hydrochloride	0.24
+KCNH7	WNT-rev	terazosin	1.35
+KCNH7	WNT-rev	nerispirdine	0.19
+KCNH7	WNT-rev	ibutilide	2.58
+KCNH7	WNT-rev	dalfampridine	0.22
+KCNIP1	WNT-fro	verapamil	4.54
+KCNJ2	SHH-rev	carvedilol	1.78
+KCNJ2	SHH-rev	dronedarone hydrochloride	1.78
+KCNJ5	WNT-fro	flupirtine	0.84
+KCNJ5	WNT-fro	verapamil	0.28
+KCNJ5	WNT-fro	ethanol	0.32
+KCNJ5	WNT-fro	amiloride	0.79
+KCNK12	SHH-fro	halothane	1.32
+KCNN1	non-WS	riluzole	0.49
+KCNN1	non-WS	apamin	3.79
+KCNN1	non-WS	dequalinium	1.62
+KCNN1	non-WS	bicuculline	1.62
+KCNN1	non-WS	tubocurarine	1.42
+KCNQ5	G4a-fro	flindokalner	2.27
+KCNQ5	G4a-fro	nerispirdine	0.11
+KCNQ5	G4a-fro	tedisamil	0.15
+KCNQ5	G4a-fro	retigabine	7.95
+KCNQ5	G4a-fro	celecoxib	0.17
+KCNQ5	G4a-fro	irinotecan	0.21
+KCNQ5	G4a-fro	dalfampridine	0.13
+KCNQ5	G4a-fro	gabapentin	0.55
+KCNQ5	G4a-fro	ezogabine	7.95
+KCNQ5	G4a-fro	linopirdine	0.81
+KCNQ5	G4a-fro	guanidine hydrochloride	0.15
+KCNT2	SHH-fro	clofilium	14.2
+L3MBTL1	G4a-fro	deoxyvasicinone	0.09
+L3MBTL1	G4a-fro	mitoxantrone dihydrochloride	0.03
+L3MBTL1	G4a-fro	5-chloro-[1,10]phenanthroline	0.25
+L3MBTL1	G4a-fro	nodakenin	0.51
+L3MBTL1	G4a-fro	nsc-353263	0.25
+L3MBTL1	G4a-fro	dndi1417076	0.13
+L3MBTL1	G4a-fro	gnf-pf-5114	0.11
+L3MBTL1	G4a-fro	lipoic acid, alpha	0.06
+L3MBTL1	G4a-fro	nsc-92207	0.09
+L3MBTL1	G4a-fro	gnf-pf-3148	0.08
+L3MBTL1	G4a-fro	fusaric acid	0.14
+L3MBTL1	G4a-fro	pyrogallol red	0.04
+L3MBTL1	G4a-fro	dndi1416955	0.11
+L3MBTL1	G4a-fro	cephapirin sodium	0.08
+L3MBTL1	G4a-fro	cefotiam hydrochloride	0.17
+L3MBTL1	G4a-fro	nsc-11437	0.14
+L3MBTL1	G4a-fro	erbstatin	0.07
+L3MBTL1	G4a-fro	dndi1416934	0.17
+L3MBTL1	G4a-fro	daphnorin	0.14
+L3MBTL1	G4a-fro	tannic acid	0.11
+L3MBTL1	G4a-fro	nsc-66209	0.07
+L3MBTL1	G4a-fro	nsc-111847	0.2
+L3MBTL1	G4a-fro	baicalein	0.04
+L3MBTL1	G4a-fro	cephalochromin	0.05
+L3MBTL1	G4a-fro	acid blue 129	0.05
+L3MBTL1	G4a-fro	gnf-pf-107	0.14
+L3MBTL1	G4a-fro	myricetin	0.02
+L3MBTL1	G4a-fro	methacycline hydrochloride	0.08
+L3MBTL1	G4a-fro	nsc-234945	0.09
+L3MBTL1	G4a-fro	nsc-175743	0.25
+L3MBTL1	G4a-fro	emodic acid	0.08
+L3MBTL1	G4a-fro	5,6,7,8,4'-pentahydroxyflavone	0.05
+L3MBTL1	G4a-fro	nsc-180246	0.09
+L3MBTL1	G4a-fro	gnf-pf-2272	0.04
+L3MBTL1	G4a-fro	2-picolinic acid	0.25
+L3MBTL1	G4a-fro	nsc-3323	0.17
+L3MBTL1	G4a-fro	cefotetan	0.11
+L3MBTL1	G4a-fro	slazinic acid	0.05
+L3MBTL1	G4a-fro	dndi1417055	0.11
+L3MBTL1	G4a-fro	nsc-107022	0.04
+L3MBTL1	G4a-fro	nsc-9037	0.06
+L3MBTL1	G4a-fro	galuteolin	0.2
+L3MBTL1	G4a-fro	erythrosine	0.11
+L3MBTL1	G4a-fro	tyrphostin 23	0.05
+L3MBTL1	G4a-fro	sennoside b	0.06
+L3MBTL1	G4a-fro	streptonigrin	0.05
+L3MBTL1	G4a-fro	carminic acid	0.13
+L3MBTL1	G4a-fro	dndi1318477	0.1
+L3MBTL1	G4a-fro	catechol	0.05
+L3MBTL1	G4a-fro	2-(n-morpholino)ethanesulfonic acid	0.08
+L3MBTL1	G4a-fro	nsc-377852	0.13
+L3MBTL1	G4a-fro	purpurogallin	0.03
+L3MBTL1	G4a-fro	dndi1417941	0.06
+L3MBTL1	G4a-fro	tcmdc-123916	0.06
+L3MBTL1	G4a-fro	4-methyl-[1,10]phenanthroline	0.25
+L3MBTL1	G4a-fro	ag-538	0.04
+LAMA1	SHH-fro	ocriplasmin	0.73
+LAMA1	SHH-fro	lanoteplase	1.67
+LCMT2	G4b-fro	leucine	15.49
+LEPR	non-WS	metreleptin	75.74
+LEPR	non-WS	simvastatin	1.01
+LEPR	non-WS	atorvastatin	0.59
+LGR5	WNT-fro	fluorouracil	1.08
+LHCGR	WNT-fro	avicine	4.06
+LHCGR	WNT-fro	goserelin	3.48
+LHCGR	WNT-fro	menotropins	16.23
+LHCGR	WNT-fro	gonadotropin, chorionic	4.06
+LHCGR	WNT-fro	lutropin alfa	4.06
+LHCGR	WNT-fro	buserelin	2.71
+LHCGR	WNT-fro	nsc-228155	0.12
+LHCGR	WNT-fro	cyclopentylcarbamic acid biphenyl-3-yl ester	8.12
+LHCGR	WNT-fro	cetrorelix	4.06
+LHCGR	WNT-fro	tak-385	2.03
+LHCGR	WNT-fro	hcg	8.12
+LHCGR	WNT-fro	human lh	4.06
+LHCGR	WNT-fro	nsc-95397	0.08
+LHCGR	WNT-fro	choriogonadotropin alfa	8.12
+LHCGR	WNT-fro	gtx-758	2.03
+LIAS	G4b-fro	lipoic acid	18.94
+LIMK2	G3-rev	fostamatinib	0.38
+LINGO1	G3-rev	opicinumab	170.42
+LINGO1	G3-rev	biib-033	170.42
+LIPE	G4b-fro	isoproterenol	3.34
+LSM6	G4b-fro	uridine monophosphate	18.94
+LSM6	G4b-fro	uridine	12.62
+MALT1	WNT-rev	pecazine	56.81
+MAP1A	G3-rev	estramustine	7.57
+MAP2K2	G4a-fro	cobimetinib	0.57
+MAP2K2	G4a-fro	selumetinib	0.38
+MAP2K2	G4a-fro	tae-684	0.01
+MAP2K2	G4a-fro	zm-447439	0.08
+MAP2K2	G4a-fro	dovitinib	0.01
+MAP2K2	G4a-fro	vandetanib	0.02
+MAP2K2	G4a-fro	binimetinib	0.48
+MAP2K2	G4a-fro	refametinib	0.57
+MAP2K2	G4a-fro	gdc-0973	0.57
+MAP2K2	G4a-fro	trametinib	0.27
+MAP2K2	G4a-fro	681640	0.03
+MAP2K2	G4a-fro	tozasertib	0.02
+MAP2K2	G4a-fro	cenisertib	0.01
+MAP2K2	G4a-fro	pimasertib	0.59
+MAP2K2	G4a-fro	dabrafenib	0.17
+MAP2K2	G4a-fro	azd6244	0.38
+MAP2K2	G4a-fro	ro-5068760	1.32
+MAP2K2	G4a-fro	azd-8330	0.44
+MAP2K2	G4a-fro	mek162	0.48
+MAP2K2	G4a-fro	pd0325901	0.48
+MAP2K2	G4a-fro	trametinib dimethyl sulfoxide	0.66
+MAP2K2	G4a-fro	voruciclib	0.09
+MAP2K2	G4a-fro	vemurafenib	0.09
+MAP2K2	G4a-fro	cobimetinib fumarate	0.66
+MAP2K2	G4a-fro	jnj-7706621	0.03
+MAP2K2	G4a-fro	pf-562271	0.01
+MAP2K2	G4a-fro	as-703988	0.66
+MAP2K2	G4a-fro	rg-1530	0.02
+MAP2K2	G4a-fro	tak-733	0.5
+MAP2K2	G4a-fro	pd-0325901	0.48
+MAP2K2	G4a-fro	wx-554	0.38
+MAP2K2	G4a-fro	pd-0166285	0.03
+MAP2K2	G4a-fro	xl518	0.57
+MAP2K2	G4a-fro	rg-7167	0.66
+MAP2K2	G4a-fro	ci-1040	0.11
+MAP2K2	G4a-fro	fostamatinib	0.01
+MAP2K2	G4a-fro	balamapimod	0.33
+MAP2K2	G4a-fro	arry-300	0.44
+MAP2K2	G4a-fro	tcmdc-125758	0.04
+MAP2K2	G4a-fro	ilorasertib	0.01
+MAP2K2	G4a-fro	bosutinib	0.11
+MAP2K2	G4a-fro	cediranib	0.03
+MAP2K2	G4a-fro	rg-7304	0.66
+MAP2K2	G4a-fro	dasatinib	0.02
+MAP2K2	G4a-fro	ag-1879	0.05
+MAP2K2	G4a-fro	linifanib	0.02
+MAP2K2	G4a-fro	ro-4987655	0.19
+MAP2K2	G4a-fro	arry-162	0.48
+MAP2K2	G4a-fro	gdc-0623	0.33
+MAP2K6	G4a-rev	gdc-0973	0.51
+MAP2K6	G4a-rev	wx-554	1.01
+MAP2K6	G4a-rev	fostamatinib	0.05
+MAP2K6	G4a-rev	mek162	0.32
+MAP2K6	G4a-rev	vx-745	1.42
+MAP2K6	G4a-rev	staurosporine	0.13
+MAP2K6	G4a-rev	selumetinib	0.2
+MAP2K6	G4a-rev	trametinib	0.16
+MAP2K6	G4a-rev	azd6244	0.2
+MAPK13	non-WS	sns-314	0.05
+MAPK13	non-WS	doramapimod	0.21
+MAPK13	non-WS	n-(3-oxododecanoyl)homoserinelactone	0.76
+MAPK13	non-WS	ph-797804	0.45
+MAPK13	non-WS	sb-203580	0.17
+MAPK13	non-WS	pf-03715455	0.28
+MAPK13	non-WS	keracyanin	0.65
+MAPK13	non-WS	rhamnetin	0.45
+MAPK13	non-WS	ilorasertib	0.02
+MAPK13	non-WS	miltirone	0.91
+MAPK13	non-WS	pha-767491	0.03
+MAPK13	non-WS	sorafenib	0.05
+MAPK13	non-WS	arry-797	0.57
+MAPK13	non-WS	arry-614	0.15
+MAPK13	non-WS	pirfenidone	0.28
+MAPK13	non-WS	ophiobolin o	0.76
+MAPK13	non-WS	semapimod	0.38
+MAPK13	non-WS	fostamatinib	0.02
+MAPK13	non-WS	dihydrotanshinone i	0.91
+MAPK13	non-WS	linifanib	0.03
+MAPK13	non-WS	xanthohumol	0.76
+MAPK13	non-WS	tamatinib	0.03
+MAPK13	non-WS	bms-582949	0.57
+MAPK13	non-WS	cryptolepine hydrochloride	1.14
+MAPK13	non-WS	vx-702	0.23
+MBP	non-WS	nbi-5788	11.36
+MBP	non-WS	csa	0.36
+MBP	non-WS	insulin	0.45
+MBP	non-WS	prednisone	0.71
+MBP	non-WS	quercetin	0.22
+MDGA2	G4a-fro	milnacipran	6.31
+MDGA2	G4a-fro	fluvoxamine	2.71
+MDGA2	G4a-fro	paroxetine	1.11
+MEGF11	WNT-fro	fluorouracil	1.08
+MET	SHH-fro	golvatinib	0.8
+MET	SHH-fro	palbociclib	0.01
+MET	SHH-fro	amg-337	0.48
+MET	SHH-fro	1-[(2-nitrophenyl)sulfonyl]-1h-pyrrolo[3,2-b]pyridine-6-carboxamide	0.96
+MET	SHH-fro	bms-817378	0.24
+MET	SHH-fro	savolitinib	2.65
+MET	SHH-fro	pf-4217903	0.96
+MET	SHH-fro	eucalyptin a	0.96
+MET	SHH-fro	amg-208	1.44
+MET	SHH-fro	onartuzumab	2.89
+MET	SHH-fro	cabozantinib	0.6
+MET	SHH-fro	carboplatin	0.01
+MET	SHH-fro	bms-777607	0.64
+MET	SHH-fro	crizotinib	1.42
+MET	SHH-fro	cetuximab	0.03
+MET	SHH-fro	tivantinib	3.85
+MET	SHH-fro	amuvatinib	0.48
+MET	SHH-fro	sgx-523	1.44
+MET	SHH-fro	lapatinib	0.07
+MET	SHH-fro	capmatinib	2.17
+MET	SHH-fro	emibetuzumab	2.41
+MET	SHH-fro	pd-0166285	0.01
+MET	SHH-fro	bms-698769	0.48
+MET	SHH-fro	abt-700	1.44
+MET	SHH-fro	azd9291	0.77
+MET	SHH-fro	tepotinib	3.85
+MET	SHH-fro	gefitinib	0.06
+MET	SHH-fro	selumetinib	0.06
+MET	SHH-fro	volitinib	2.65
+MET	SHH-fro	ensartinib	0.16
+MET	SHH-fro	inc280	2.17
+MET	SHH-fro	bpi-9016	0.24
+MET	SHH-fro	cct018159	0.07
+MET	SHH-fro	xl147	0.05
+MET	SHH-fro	sorafenib	0.01
+MET	SHH-fro	su-11274	0.72
+MET	SHH-fro	erlotinib	0.05
+MET	SHH-fro	mk-2461	0.14
+MET	SHH-fro	cabozantinib s-malate	0.24
+MET	SHH-fro	alvespimycin	0.24
+MET	SHH-fro	tas-115	0.72
+MET	SHH-fro	gallocatechin gallate	0.96
+MET	SHH-fro	emd-1204831	0.96
+MET	SHH-fro	brigatinib	0.05
+MET	SHH-fro	vemurafenib	0.06
+MET	SHH-fro	sp-600125	0.01
+MET	SHH-fro	glesatinib	0.54
+MET	SHH-fro	sar-125844	0.96
+MET	SHH-fro	tanespimycin	0.04
+MET	SHH-fro	pf-04217903	0.96
+MET	SHH-fro	3-[3-(4-methylpiperazin-1-yl)-7-(trifluoromethyl)quinoxalin-5-yl]phenol	0.96
+MET	SHH-fro	zm-447439	0.03
+MET	SHH-fro	olaparib	0.03
+MET	SHH-fro	abbv-399	1.44
+MET	SHH-fro	naquotinib	0.48
+MET	SHH-fro	trastuzumab	0.08
+MET	SHH-fro	jnj-61186372	0.72
+MET	SHH-fro	tyrosol sinapate	0.96
+MET	SHH-fro	1-(4-fluorophenyl)-n-[3-fluoro-4-(1h-pyrrolo[2,3-b]pyridin-4-yloxy)phenyl]-2-oxo-1,2-dihydropyridine-3-carboxamide	0.96
+MET	SHH-fro	panitumumab	0.07
+MET	SHH-fro	pha-665752	0.67
+MET	SHH-fro	trametinib	0.04
+MET	SHH-fro	osimertinib	0.77
+MET	SHH-fro	arq 197	3.85
+MET	SHH-fro	mgcd265	0.54
+MET	SHH-fro	dactolisib	0.03
+MET	SHH-fro	cometriq	0.48
+MET	SHH-fro	veliparib	0.1
+MET	SHH-fro	tcmdc-125758	0.02
+MET	SHH-fro	epicatechin gallate	0.24
+MET	SHH-fro	dasatinib	0.01
+MET	SHH-fro	ficlatuzumab	0.48
+MET	SHH-fro	mgcd516	0.07
+MET	SHH-fro	yuanhuadine	0.19
+MET	SHH-fro	oxaliplatin	0.03
+MET	SHH-fro	ponatinib	0.03
+MET	SHH-fro	merestinib	0.12
+MET	SHH-fro	jnj-38877605	0.96
+MET	SHH-fro	apratoxin f	0.48
+MET	SHH-fro	jnj-7706621	0.01
+MET	SHH-fro	mk-8033	0.48
+MET	SHH-fro	altiratinib	0.42
+MET	SHH-fro	metmab	2.89
+MET	SHH-fro	emd-1214063	3.85
+MET	SHH-fro	bay-613606	0.01
+MET	SHH-fro	leucovorin	0.03
+MET	SHH-fro	macrocarpal a	0.96
+MET	SHH-fro	foretinib	0.38
+MET	SHH-fro	pazopanib	0.01
+MET	SHH-fro	macrocarpal b	0.96
+MET	SHH-fro	epigalocatechin gallate	0.03
+MET	SHH-fro	tamatinib	0.01
+MET	SHH-fro	cmx-2043	0.24
+MET	SHH-fro	dndi1417467	0.01
+MET	SHH-fro	imatinib	0.01
+MET	SHH-fro	linifanib	0.01
+MET	SHH-fro	sar125844	0.96
+MET	SHH-fro	tae-684	0
+MET	SHH-fro	ge-137	0.48
+MET	SHH-fro	bms-754807	0.07
+MET	SHH-fro	arq-197	3.85
+MET	SHH-fro	e-7050	0.8
+MET	SHH-fro	(-)-oleocanthal	0.96
+MET	SHH-fro	arry-300	0.16
+MET	SHH-fro	cyc-116	0
+MET	SHH-fro	sns-314	0.01
+MET	SHH-fro	ganetespib	0.11
+MET	SHH-fro	bez235	0.03
+MET	SHH-fro	afatinib	0.1
+MET	SHH-fro	incb28060	2.17
+MET	SHH-fro	mgcd-265	0.08
+MET	SHH-fro	n-({4-[(2-aminopyridin-4-yl)oxy]-3-fluorophenyl}carbamoyl)-2-(4-fluorophenyl)acetamide	0.96
+MET	SHH-fro	incb028060	2.17
+MET	SHH-fro	fluorouracil	0.01
+MET	SHH-fro	bms-794833	0.24
+MET	SHH-fro	2-(4-fluorophenyl)-n-{[3-fluoro-4-(1h-pyrrolo[2,3-b]pyridin-4-yloxy)phenyl]carbamoyl}acetamide	0.96
+MET	SHH-fro	sitravatinib	0.07
+MET	SHH-fro	rociletinib	0.16
+MET	SHH-fro	paclitaxel	0.01
+MET	SHH-fro	entrectinib	0.01
+MET	SHH-fro	ilorasertib	0
+MET	SHH-fro	k-252a	0.39
+MET	SHH-fro	bevacizumab	0.05
+MET	SHH-fro	crenolanib	0.06
+MET	SHH-fro	ly3164530	0.24
+MET	SHH-fro	rucaparib	0.03
+MET	SHH-fro	osi-632	0.01
+MET	SHH-fro	alectinib	0.06
+MET	SHH-fro	cenisertib	0
+MET	SHH-fro	fostamatinib	0
+MET	SHH-fro	gsk1363089	0.38
+MET	SHH-fro	xl880	0.38
+MET	SHH-fro	pf-562271	0
+MET	SHH-fro	capecitabine	0.03
+MET	SHH-fro	cep-11981	0.05
+MET	SHH-fro	ly-2875358	2.41
+MPI	G4b-fro	ebselen	0.14
+MPI	G4b-fro	apomorphine hydrochloride hemihydrate	0.29
+MPI	G4b-fro	tcmdc-125319	1.29
+MPI	G4b-fro	nsc-19803	0.47
+MPI	G4b-fro	dndi1417614	0.34
+MPI	G4b-fro	nsc-66209	0.37
+MPI	G4b-fro	gnf-pf-2272	0.22
+MPI	G4b-fro	4-hydroxyestradiol	0.74
+MPI	G4b-fro	sj000029642	0.47
+MPI	G4b-fro	gnf-pf-5134	0.43
+MPI	G4b-fro	haematoxylin	0.2
+MTHFD1	G4a-rev	nadh	0.39
+MTHFD1	G4a-rev	nicotinamide adenine dinucleotide phosphate	1.96
+MTHFD1	G4a-rev	tetrahydrofolic acid	10.33
+MTR	G3-rev	mecobalamin	12.62
+MTR	G3-rev	cisplatin	0.17
+MTR	G3-rev	methionine	3.79
+MTR	G3-rev	tetrahydrofolic acid	3.44
+MTR	G3-rev	thimerosal	0.24
+MTR	G3-rev	carboplatin	0.32
+MTR	G3-rev	hydroxocobalamin	4.73
+MTR	G3-rev	cyanocobalamin	3.16
+MTR	G3-rev	benazepril	1.8
+NAGLU	G3-rev	n-acetylglucosamine	66.27
+NAPEPLD	G4b-fro	ethanol	0.29
+NAPEPLD	G4b-fro	hexachlorophene	0.44
+NAPEPLD	G4b-fro	bithionol	0.79
+NDUFAF3	SHH-rev	metformin hydrochloride	0.35
+NDUFAF3	SHH-rev	me-344	0.37
+NDUFAF3	SHH-rev	nv-128	0.38
+NDUFB1	SHH-rev	nadh	0.3
+NDUFB1	SHH-rev	nv-128	0.28
+NDUFB1	SHH-rev	metformin hydrochloride	0.26
+NDUFB1	SHH-rev	me-344	0.28
+NDUFC1	G4b-fro	metformin hydrochloride	0.26
+NDUFC1	G4b-fro	nv-128	0.28
+NDUFC1	G4b-fro	me-344	0.28
+NDUFC1	G4b-fro	nadh	0.3
+NDUFC2	SHH-rev	nv-128	0.23
+NDUFC2	SHH-rev	me-344	0.22
+NDUFC2	SHH-rev	carvedilol	0.71
+NDUFC2	SHH-rev	nadh	0.47
+NDUFC2	SHH-rev	metformin hydrochloride	0.21
+NEDD4L	WNT-rev	citalopram	1.62
+NEDD4L	WNT-rev	hydrochlorothiazide	3.07
+NEUROD1	G4a-rev	pd-98059	1.02
+NEUROD1	G4a-rev	repaglinide	1.18
+NEUROD1	G4a-rev	deferoxamine	2.52
+NFKB2	WNT-fro	2-(3,4-methylenedioxyphenyl)benzothiazole	0.12
+NFKB2	WNT-fro	parthenolide	0.87
+NFKB2	WNT-fro	dndi1417548	0.11
+NFKB2	WNT-fro	6,4'-dimethoxyflavone	0.13
+NFKB2	WNT-fro	10-methoxylrutaecarpine	0.13
+NFKB2	WNT-fro	2-(3',4'-methylenedioxyphenyl)quinoline	0.14
+NFKB2	WNT-fro	sj000128325	0.11
+NFKB2	WNT-fro	quercetagetin	0.77
+NFKB2	WNT-fro	sj000113257	0.08
+NFKB2	WNT-fro	cid 867101	0.14
+NFKB2	WNT-fro	gossypetin	0.23
+NFKB2	WNT-fro	glycyrrhizic acid	0.29
+NFKB2	WNT-fro	sc-236	3.48
+NFKB2	WNT-fro	2-phenylamino-[1,4]naphthoquinone	0.08
+NFKB2	WNT-fro	pectolinarigenin	0.19
+NFKB2	WNT-fro	triptolide	1.16
+NFKB2	WNT-fro	laquinimod	1.16
+NFKB2	WNT-fro	resveratrol	0.02
+NFKB2	WNT-fro	chrysoeriol	0.77
+NFKB2	WNT-fro	2-phenylacetylaminobenzothiazole	0.29
+NFKB2	WNT-fro	luteolin	0.07
+NFKB2	WNT-fro	bortezomib	0.03
+NFKB2	WNT-fro	quercetin	0.02
+NFKB2	WNT-fro	tamarixetin	0.77
+NFKB2	WNT-fro	diosmetin	0.77
+NFKB2	WNT-fro	cid 739615	0.14
+NFKB2	WNT-fro	edasalonexent	1.16
+NFKB2	WNT-fro	glucosamine	0.46
+NFKB2	WNT-fro	kaempferide	0.77
+NFKB2	WNT-fro	acacetin	0.15
+NFKB2	WNT-fro	apigenin	0.09
+NFKB2	WNT-fro	custirsen	0.29
+NFKB2	WNT-fro	kaempferol	0.13
+NFKB2	WNT-fro	sorbinil	0.58
+NFKB2	WNT-fro	4',7-dimethoxy-5-hydroxygenistein	0.13
+NFKB2	WNT-fro	artesunate	0.33
+NFKB2	WNT-fro	andrographolide	0.17
+NFKB2	WNT-fro	donepezil	0.27
+NFKB2	WNT-fro	rutin	0.19
+NFKB2	WNT-fro	isorhamnetin	0.77
+NFKB2	WNT-fro	fish oil	0.23
+NFKB2	WNT-fro	cid 4101591	0.08
+NFKB2	WNT-fro	cid 1245272	0.11
+NFKB2	WNT-fro	sgn-30	0.39
+NFKB2	WNT-fro	he3286	0.39
+NFKB2	WNT-fro	ps-341	0.03
+NFKB2	WNT-fro	indoprofen	0.12
+NFKB2	WNT-fro	sulfasalazine	0.04
+NFKB2	WNT-fro	vadimezan	0.23
+NFKB2	WNT-fro	frentizole	0.17
+NMNAT3	G4b-fro	alpha,beta-methyleneadenosine 5'-triphosphate	85.21
+NOS2	G4b-fro	levamlodipine	0.54
+NOS2	G4b-fro	n(5)-[(hydroxyamino)(imino)methyl]-l-ornithine	1.07
+NOS2	G4b-fro	5-nitroindazole	2.14
+NOS2	G4b-fro	isoniazid	0.15
+NOS2	G4b-fro	gw274150	0.71
+NOS2	G4b-fro	ibuprofen	0.05
+NOS2	G4b-fro	4-(1,3-benzodioxol-5-yloxy)-2-[4-(1h-imidazol-1-yl)phenoxy]-6-methylpyrimidine	2.14
+NOS2	G4b-fro	arginine	0.64
+NOS2	G4b-fro	7-nitroindazole	0.48
+NOS2	G4b-fro	1-(6-cyano-3-pyridylcarbonyl)-5',8'-difluorospiro[piperidine-4,2'(1'h)-quinazoline]-4'-amine	2.14
+NOS2	G4b-fro	1400w	1.07
+NOS2	G4b-fro	4-({4-[(4-methoxypyridin-2-yl)amino]piperidin-1-yl}carbonyl)benzonitrile	2.14
+NOS2	G4b-fro	fenoxaprop-ethyl	1.07
+NOS2	G4b-fro	1-[4-(aminomethyl)benzoyl]-5'-fluoro-1'h-spiro[piperidine-4,2'-quinazolin]-4'-amine	2.14
+NOS2	G4b-fro	4-(1h-imidazol-1-yl)phenol	2.14
+NOS2	G4b-fro	6-nitroindazole	2.14
+NOS2	G4b-fro	citrulline	0.49
+NOS2	G4b-fro	doxycycline	0.08
+NOS2	G4b-fro	n-(4-{2-[(3-chlorobenzyl)amino]ethyl}phenyl)thiophene-2-carboximidamide	1.07
+NOS2	G4b-fro	dexamethasone	0.06
+NOS2	G4b-fro	tilarginine	1.07
+NOS2	G4b-fro	nimodipine	0.1
+NOS2	G4b-fro	oestradiol	0.06
+NOS2	G4b-fro	diazoxide	0.13
+NOS2	G4b-fro	rifampin	0.1
+NOS2	G4b-fro	ethyl 4-[(4-chloropyridin-2-yl)amino]piperidine-1-carboxylate	2.14
+NOS2	G4b-fro	benzodiazepine	0.36
+NOS2	G4b-fro	3-bromo-7-nitroindazole	1.43
+NOS2	G4b-fro	thiocitrulline	4.29
+NOS2	G4b-fro	n-[3-(aminomethyl)benzyl]acetamidine	1.07
+NOS2	G4b-fro	ethyl 4-[(4-methylpyridin-2-yl)amino]piperidine-1-carboxylate	1.07
+NOS2	G4b-fro	dmso	0.36
+NOS2	G4b-fro	theophylline	0.07
+NOS2	G4b-fro	doxorubicin	0.02
+NOS2	G4b-fro	4-(1,3-benzodioxol-5-yloxy)-2-[4-(1h-imidazol-1-yl)phenoxy]pyrimidine	2.14
+NOS2	G4b-fro	aminoguanidine	1.88
+NOS2	G4b-fro	imidazole	0.48
+NOS2	G4b-fro	captopril	0.13
+NOS2	G4b-fro	dexamethasone acetate	0.06
+NOS2	G4b-fro	kd7040	2.14
+NOS2	G4b-fro	bxt-51072	1.07
+NOS2	G4b-fro	s-ethylisothiourea	1.43
+NOS2	G4b-fro	(3s)-1-(1,3-benzodioxol-5-ylmethyl)-3-[4-(1h-imidazol-1-yl)phenoxy]piperidine	2.14
+NOS2	G4b-fro	fluoxetine	0.06
+NOS2	G4b-fro	curcumin	0.01
+NOS2	G4b-fro	dipyrithione	0.13
+NOS2	G4b-fro	n,n-dimethylarginine	1.07
+NOS2	G4b-fro	n-[2-(6-amino-4-methylpyridin-2-yl)ethyl]-4-cyanobenzamide	2.14
+NOS2	G4b-fro	banoxantrone	1.07
+NOS2	G4b-fro	triflusal	1.07
+NOS2	G4b-fro	pimagedine	1.88
+NOS2	G4b-fro	miconazole	0.28
+NOS2	G4b-fro	(2s)-2-methyl-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine	2.14
+NOS2	G4b-fro	n-[2-(1,3-benzodioxol-5-yl)ethyl]-1-[2-(1h-imidazol-1-yl)-6-methylpyrimidin-4-yl]-d-prolinamide	2.14
+NOS2	G4b-fro	minocycline	0.13
+NOS2	G4b-fro	propofol	0.07
+NPR3	G4a-fro	pl-3994	14.2
+NPR3	G4a-fro	nesiritide	28.4
+NSDHL	G4a-rev	nadh	1.58
+NT5C3A	G4a-rev	gemcitabine	0.46
+NT5C3A	G4a-rev	idarubicin	1.05
+NT5C3A	G4a-rev	cytarabine	0.88
+NTRK1	WNT-fro	entrectinib	0.19
+NTRK1	WNT-fro	sp-600125	0.01
+NTRK1	WNT-fro	azd-6918	0.32
+NTRK1	WNT-fro	sitravatinib	0.07
+NTRK1	WNT-fro	lestaurtinib	0.38
+NTRK1	WNT-fro	imatinib	0.11
+NTRK1	WNT-fro	gw843682x	0.02
+NTRK1	WNT-fro	nac	0.08
+NTRK1	WNT-fro	altiratinib	0.24
+NTRK1	WNT-fro	gw632580x	0.24
+NTRK1	WNT-fro	tamoxifen	0.03
+NTRK1	WNT-fro	suramin	0.05
+NTRK1	WNT-fro	larotrectinib	2.84
+NTRK1	WNT-fro	dht	0.08
+NTRK1	WNT-fro	loxo-101	2.84
+NTRK1	WNT-fro	pf-562271	0.01
+NTRK1	WNT-fro	pyridoxine	0.47
+NTRK1	WNT-fro	gambogic acid	0.21
+NTRK1	WNT-fro	cenegermin	0.47
+NTRK1	WNT-fro	alisertib	0.02
+NTRK1	WNT-fro	ast-487	0.03
+NTRK1	WNT-fro	hesperadin	0.02
+NTRK1	WNT-fro	fostamatinib	0.01
+NTRK1	WNT-fro	pd-0166285	0.02
+NTRK1	WNT-fro	sorafenib	0.01
+NTRK1	WNT-fro	thyroxine	0.16
+NTRK1	WNT-fro	streptozotocin	0.04
+NTRK1	WNT-fro	amitriptyline	0.09
+NTRK1	WNT-fro	gilteritinib	0.11
+NTRK1	WNT-fro	sna-120	1.89
+NTRK1	WNT-fro	regorafenib	0.07
+NTRK1	WNT-fro	milciclib	0.27
+NTRK1	WNT-fro	tcmdc-125758	0.03
+NTRK1	WNT-fro	bms-754807	0.15
+NTRK1	WNT-fro	gw441756x	0.01
+NTRK1	WNT-fro	enmd-2076	0.04
+NTRK1	WNT-fro	ilorasertib	0.01
+NTRK1	WNT-fro	loxo-195	0.63
+NTRK1	WNT-fro	dovitinib	0.02
+NTRK1	WNT-fro	aspirin	0.04
+NTRK1	WNT-fro	crizotinib	0.14
+NTRK1	WNT-fro	methotrexate	0.02
+NTRK1	WNT-fro	selitrectinib	0.63
+NTRK1	WNT-fro	plx-7486	0.24
+NTRK1	WNT-fro	gambogic amide	0.32
+NTRK1	WNT-fro	eo9	0.95
+NTRK1	WNT-fro	cep-11981	0.05
+NTRK1	WNT-fro	ct-327	1.89
+NTRK1	WNT-fro	azd-7451	0.32
+NTRK1	WNT-fro	mim-d3	2.84
+NTRK1	WNT-fro	tozasertib	0.01
+NTRK1	WNT-fro	mk-2461	0.07
+NTRK1	WNT-fro	cyclophosphamide	0.02
+NTRK1	WNT-fro	radicicol	0.32
+NTRK1	WNT-fro	repotrectinib	0.16
+NTRK1	WNT-fro	wortmannin	0.08
+NTRK1	WNT-fro	cep-2563	0.06
+NTRK1	WNT-fro	dexamethasone	0.02
+NTRK1	WNT-fro	pilocarpine	0.14
+NTRK1	WNT-fro	phenylephrine	0.14
+NTRK1	WNT-fro	rg-1530	0.01
+NTRK1	WNT-fro	jnj-28312141	0.19
+NTRK1	WNT-fro	prasugrel	0.36
+NTRK3	WNT-rev	rg-1530	0.02
+NTRK3	WNT-rev	pd-0166285	0.03
+NTRK3	WNT-rev	repotrectinib	0.79
+NTRK3	WNT-rev	larotrectinib	5.13
+NTRK3	WNT-rev	tamatinib	0.02
+NTRK3	WNT-rev	selitrectinib	0.53
+NTRK3	WNT-rev	ilorasertib	0.02
+NTRK3	WNT-rev	cyc-116	0.02
+NTRK3	WNT-rev	lestaurtinib	0.32
+NTRK3	WNT-rev	altiratinib	0.39
+NTRK3	WNT-rev	entrectinib	0.32
+NTRK3	WNT-rev	loxo-101	5.13
+NTRK3	WNT-rev	dovitinib	0.02
+NTRK3	WNT-rev	alisertib	0.04
+NTRK3	WNT-rev	mk-2461	0.11
+NTRK3	WNT-rev	azd-7451	0.53
+NTRK3	WNT-rev	tozasertib	0.02
+NTRK3	WNT-rev	sp-600125	0.02
+NTRK3	WNT-rev	sb-202190	0.05
+NTRK3	WNT-rev	gw441756x	0.02
+NTRK3	WNT-rev	gambogic amide	0.53
+NTRK3	WNT-rev	plx-7486	0.39
+NTRK3	WNT-rev	pexidartinib	0.12
+NTRK3	WNT-rev	cep-2563	0.09
+NTRK3	WNT-rev	thyroxine	0.26
+NTRK3	WNT-rev	midostaurin	0.18
+NTRK3	WNT-rev	hesperadin	0.04
+NTRK3	WNT-rev	linifanib	0.02
+NTRK3	WNT-rev	ast-487	0.05
+NTRK3	WNT-rev	sorafenib	0.02
+NTRK3	WNT-rev	gw632580x	0.39
+NTRK3	WNT-rev	tandutinib	0.14
+NTRK3	WNT-rev	fostamatinib	0.01
+NTRK3	WNT-rev	mln-8054	0.06
+NTRK3	WNT-rev	azd-6918	0.53
+NTRK3	WNT-rev	doramapimod	0.07
+NTRK3	WNT-rev	sns-314	0.04
+NUDT15	WNT-fro	mercaptopurine	13.15
+NUDT15	WNT-fro	azathioprine	16.75
+NUDT15	WNT-fro	thioguanine	3.64
+OAT	G4a-rev	canaline	56.81
+OAT	G4a-rev	ornithine	5.16
+OAT	G4a-rev	gabaculine	71.01
+OAT	G4a-rev	pyridoxal phosphate	0.55
+OPCML	G3-rev	methylphenidate	2.47
+OPRD1	WNT-fro	3-methylthiofentanyl	1.6
+OPRD1	WNT-fro	dpdpe	0.34
+OPRD1	WNT-fro	naltrexone	1.11
+OPRD1	WNT-fro	diphenoxylate	0.68
+OPRD1	WNT-fro	samidorphan	0.23
+OPRD1	WNT-fro	diamorphine	0.68
+OPRD1	WNT-fro	pholcodine	0.23
+OPRD1	WNT-fro	dextropropoxyphene	0.55
+OPRD1	WNT-fro	alvimopan	0.91
+OPRD1	WNT-fro	hydrocodone bitartrate	0.23
+OPRD1	WNT-fro	morphine	0.24
+OPRD1	WNT-fro	nalmefene	1.14
+OPRD1	WNT-fro	aripiprazole	0.03
+OPRD1	WNT-fro	ketobemidone	0.34
+OPRD1	WNT-fro	nalbuphine hydrochloride	0.23
+OPRD1	WNT-fro	tapentadol	0.15
+OPRD1	WNT-fro	diprenorphine	1.37
+OPRD1	WNT-fro	hydrocodone	0.8
+OPRD1	WNT-fro	ly2456302	0.23
+OPRD1	WNT-fro	codeine	0.94
+OPRD1	WNT-fro	tramadol	0.15
+OPRD1	WNT-fro	hydromorphone	1.51
+OPRD1	WNT-fro	methadone	0.1
+OPRD1	WNT-fro	naltrexone hydrochloride	0.23
+OPRD1	WNT-fro	cocaine	0.03
+OPRD1	WNT-fro	sufentanil	0.39
+OPRD1	WNT-fro	ethylketocyclazocine	0.23
+OPRD1	WNT-fro	zyklophin	0.23
+OPRD1	WNT-fro	naloxone	0.59
+OPRD1	WNT-fro	adl-5747	0.68
+OPRD1	WNT-fro	axomadol	0.23
+OPRD1	WNT-fro	dextromethorphan	0.07
+OPRD1	WNT-fro	naltrindole	0.23
+OPRD1	WNT-fro	methylnaltrexone	0.23
+OPRD1	WNT-fro	odelepran	0.23
+OPRD1	WNT-fro	oxymorphone	0.68
+OPRD1	WNT-fro	ly-25582	0.34
+OPRD1	WNT-fro	eluxadoline	1.14
+OPRD1	WNT-fro	cannabidiol	0.03
+OPRD1	WNT-fro	naldemedine	0.46
+OPRD1	WNT-fro	cebranopadol	0.34
+OPRD1	WNT-fro	nalmefene hydrochloride	0.23
+OPRD1	WNT-fro	pethidine	0.04
+OPRD1	WNT-fro	carfentanil	0.91
+OPRD1	WNT-fro	fentanyl	0.32
+OPRD1	WNT-fro	opium	0.23
+OPRD1	WNT-fro	hydrocodone polistirex	0.23
+OPRD1	WNT-fro	naltriben	0.17
+OPRD1	WNT-fro	naloxone hydrochloride	0.17
+OPRD1	WNT-fro	etorphine	1.03
+OPRD1	WNT-fro	loperamide	0.23
+OPRD1	WNT-fro	butorphanol	1.17
+OPRD1	WNT-fro	amitriptyline	0.05
+OPRD1	WNT-fro	metenkefalin	0.68
+OPRD1	WNT-fro	propoxyphene	0.55
+OPRD1	WNT-fro	dihydromorphine	0.68
+OPRD1	WNT-fro	normorphine	0.23
+OPRD1	WNT-fro	buprenorphine	0.62
+OPRD1	WNT-fro	nalbuphine	0.8
+OPRD1	WNT-fro	bntx	0.23
+OPRD1	WNT-fro	morphine glucuronide	0.23
+OPRD1	WNT-fro	adl5747	0.46
+OPRD1	WNT-fro	oxycodone	0.53
+OPRD1	WNT-fro	nalorphine	0.23
+OPRD1	WNT-fro	levorphanol	0.34
+OPRD1	WNT-fro	oxymorphone hydrochloride	0.23
+OPRD1	WNT-fro	nor-binaltorphimine	0.17
+OPRD1	WNT-fro	met-enkephalin	0.34
+OPRD1	WNT-fro	oxycodegol	0.34
+OPRD1	WNT-fro	codeine phosphate hydrate	0.23
+OPRD1	WNT-fro	ketamine	0.1
+OPRD1	WNT-fro	dimethylthiambutene	1.03
+OPRD1	WNT-fro	quadazocine	0.23
+OPRD1	WNT-fro	codeine polistirex	0.23
+OPRD1	WNT-fro	endomorphin-1	0.34
+OPRD1	WNT-fro	codeine sulfate	0.23
+OPRD1	WNT-fro	nabiximols	0.03
+OPRD1	WNT-fro	remifentanil	0.68
+OPRD1	WNT-fro	snc-80	0.46
+OPRD1	WNT-fro	etonitazene	0.17
+OPRD1	WNT-fro	dadle	0.34
+OPRD1	WNT-fro	ufp-512	0.23
+OPRD1	WNT-fro	kp201	0.23
+OPRD1	WNT-fro	sb-0304	0.68
+PAK4	SHH-rev	tozasertib	0.04
+PAK4	SHH-rev	go-6976	0.07
+PAK4	SHH-rev	gsk690693	0.13
+PAK4	SHH-rev	azd-1775	0.1
+PAK4	SHH-rev	kpt-9274	2.84
+PAK4	SHH-rev	tae-684	0.03
+PAK4	SHH-rev	681640	0.06
+PAK4	SHH-rev	dovitinib	0.03
+PAK4	SHH-rev	pf-562271	0.03
+PAK4	SHH-rev	pd-0166285	0.05
+PAK4	SHH-rev	cyc-116	0.03
+PAK4	SHH-rev	jnj-7706621	0.05
+PAK4	SHH-rev	alsterpaullone	0.06
+PAK4	SHH-rev	tamatinib	0.04
+PAK4	SHH-rev	fostamatinib	0.02
+PAK4	SHH-rev	dndi1417467	0.07
+PAK4	SHH-rev	rg-1530	0.03
+PAK4	SHH-rev	pf-3758309	1.42
+PAK4	SHH-rev	pf-03758309	1.42
+PAK4	SHH-rev	palbociclib	0.06
+PAK4	SHH-rev	cenisertib	0.02
+PANX2	G4b-fro	carbenoxolone	2.27
+PBK	WNT-fro	pha-767491	0.17
+PBK	WNT-fro	bay-613606	0.31
+PBK	WNT-fro	gefitinib	0.33
+PBK	WNT-fro	sp-600125	0.13
+PBK	WNT-fro	linifanib	0.16
+PC	G4b-fro	biotin	14.73
+PC	G4b-fro	cortisol	1
+PC	G4b-fro	pyruvic acid	8.12
+PCSK9	WNT-fro	ly3015014	9.47
+PCSK9	WNT-fro	rg-7652	9.47
+PCSK9	WNT-fro	regn-727	28.4
+PCSK9	WNT-fro	bococizumab	28.4
+PCSK9	WNT-fro	alirocumab	28.4
+PCSK9	WNT-fro	pf-04950615	28.4
+PCSK9	WNT-fro	evolocumab	9.47
+PCSK9	WNT-fro	regn727	28.4
+PCSK9	WNT-fro	lomitapide	2.37
+PCYT1B	WS	sphingosine	2.84
+PCYT1B	WS	choline salicylate	8.12
+PCYT1B	WS	choline	7.1
+PCYT1B	WS	ct-2584	14.2
+PDE11A	WNT-fro	tadalafil	56.81
+PDE1A	SHH-fro	bepridil	0.79
+PDE1A	SHH-fro	crisaborole	1.05
+PDE1A	SHH-fro	trapidil	3.16
+PDE1A	SHH-fro	pentoxifylline	0.18
+PDE1A	SHH-fro	felodipine	0.9
+PDE1A	SHH-fro	dipyridamole	0.12
+PDE1A	SHH-fro	caffeine	0.51
+PDE1A	SHH-fro	nicardipine	0.44
+PDE1A	SHH-fro	vinpocetine	1.26
+PDE2A	non-WS	ehna	1.14
+PDE2A	non-WS	cyclic gmp	7.57
+PDE2A	non-WS	exisulind	0.63
+PDE2A	non-WS	doxofylline	3.79
+PDE2A	non-WS	cp-461	5.68
+PDE2A	non-WS	dipyridamole	0.11
+PDE2A	non-WS	tofisopam	2.27
+PDE2A	non-WS	milrinone	1.14
+PDE2A	non-WS	pentoxifylline	0.16
+PDE2A	non-WS	3-isobutyl-1-methyl-7h-xanthine	1.14
+PDE7B	WNT-rev	dyphylline	6.31
+PDE7B	WNT-rev	flavoxate hydrochloride	1.78
+PDE7B	WNT-rev	dipyridamole	0.53
+PDE7B	WNT-rev	pentoxifylline	0.41
+PDGFA	G3-rev	squalamine	7.1
+PDGFA	G3-rev	sunitinib	0.66
+PDGFB	G4a-fro	e-10030	4.73
+PDGFB	G4a-fro	imatinib	0.21
+PDGFB	G4a-fro	axitinib	1.01
+PDGFB	G4a-fro	sunitinib	0.99
+PDGFB	G4a-fro	pegpleranib sodium	4.73
+PDGFC	G4a-rev	sunitinib	1.32
+PDIA2	G4a-fro	methylphenidate	2.47
+PERP	WNT-fro	epirubicin	0.63
+PERP	WNT-fro	cyclophosphamide	0.24
+PERP	WNT-fro	fluorouracil	0.18
+PGK1	G4a-rev	lamivudine	0.44
+PGK1	G4a-rev	adenosine-5'-[beta, gamma-methylene]triphosphate	9.09
+PGK1	G4a-rev	copper	0.16
+PGK1	G4a-rev	3-phospho-d-glyceric acid	15.15
+PGK1	G4a-rev	artenimol	0.28
+PIK3C2B	G3-rev	bkm120	0.15
+PIK3C2B	G3-rev	gsk2636771	0.22
+PIK3C2B	G3-rev	pi-103	0.36
+PIK3C2B	G3-rev	gdc-0980	0.15
+PIK3C2B	G3-rev	bez235	0.08
+PIK3C2B	G3-rev	gdc-0941	0.12
+PIK3C2B	G3-rev	byl719	0.11
+PIK3C2B	G3-rev	bay80-6946	0.2
+PIK3C2B	G3-rev	pki-587	0.12
+PIK3C2B	G3-rev	px-866	0.24
+PIK3C2B	G3-rev	pf-4691502	0.21
+PIK3C2B	G3-rev	bgj398	0.15
+PIK3C2B	G3-rev	xl-765	0.2
+PIK3C2B	G3-rev	sophoretin	0.03
+PIK3C2B	G3-rev	fostamatinib	0.02
+PIK3C2B	G3-rev	xl147	0.18
+PIK3C3	G4a-fro	pki-587	0.12
+PIK3C3	G4a-fro	xl-765	0.19
+PIK3C3	G4a-fro	gdc-0980	0.14
+PIK3C3	G4a-fro	bgj398	0.15
+PIK3C3	G4a-fro	gsk2636771	0.21
+PIK3C3	G4a-fro	px-866	0.22
+PIK3C3	G4a-fro	byl719	0.1
+PIK3C3	G4a-fro	gdc-0941	0.11
+PIK3C3	G4a-fro	bkm120	0.14
+PIK3C3	G4a-fro	sar260301	0.48
+PIK3C3	G4a-fro	sophoretin	0.03
+PIK3C3	G4a-fro	bay80-6946	0.19
+PIK3C3	G4a-fro	xl147	0.17
+PIK3C3	G4a-fro	n-(5-{4-chloro-3-[(2-hydroxyethyl)sulfamoyl]phenyl}-4-methyl-1,3-thiazol-2-yl)acetamide	3.34
+PIK3C3	G4a-fro	pi-103	0.17
+PIK3C3	G4a-fro	bez235	0.07
+PIK3C3	G4a-fro	pf-4691502	0.2
+PKD2L1	WNT-fro	benzamil	2.37
+PKD2L1	WNT-fro	phenamil	4.73
+PKD2L1	WNT-fro	amiloride	1.05
+PKN3	WNT-fro	atu-027	56.81
+PKN3	WNT-fro	sophoretin	0.27
+PKN3	WNT-fro	atu027	56.81
+PLA2G6	G4b-fro	quinacrine	14.2
+PLA2G6	G4b-fro	etoposide	1.09
+PLEKHA6	G3-rev	haloperidol	1.44
+PMP22	WNT-fro	progesterone	0.74
+PMP22	WNT-fro	ketoprofen	4.73
+POLA2	G4a-rev	dacarbazine	24.35
+PPA1	G4a-rev	ethanol	0.86
+PPARGC1B	G4a-fro	amiodarone	4.21
+PRDX4	G4a-rev	docetaxel	1.39
+PRKAG2	G3-rev	hydrochlorothiazide	1.02
+PRKAG2	G3-rev	metformin	1.89
+PRKAG2	G3-rev	saponarin	5.41
+PRKCA	G3-rev	perifosine	0.56
+PRKCA	G3-rev	ci-1040	0.09
+PRKCA	G3-rev	(7s)-hydroxyl-staurosporine	0.1
+PRKCA	G3-rev	bryostatin	0.49
+PRKCA	G3-rev	midostaurin	0.3
+PRKCA	G3-rev	balanol	0.14
+PRKCA	G3-rev	gsk-690693	0.09
+PRKCA	G3-rev	phosphatidyl serine	0.98
+PRKCA	G3-rev	ellagic acid	0.09
+PRKCA	G3-rev	enzastaurin	0.24
+PRKCA	G3-rev	resveratrol	0.06
+PRKCA	G3-rev	vitamin e	0.56
+PRKCA	G3-rev	ruboxistaurin	0.28
+PRKCA	G3-rev	alpha-tocopherol succinate	1.47
+PRKCA	G3-rev	aprinocarsen	7.84
+PRKCA	G3-rev	enoxolone	0.39
+PRKCA	G3-rev	d-alpha-tocopherol acetate	1.68
+PRKCA	G3-rev	cep-2563	0.12
+PRKCA	G3-rev	[3h]-phorbol 12,13-dibutyrate	0.78
+PRKCA	G3-rev	trismethoxyresveratrol	3.92
+PRKCA	G3-rev	rediocide a	1.96
+PRKCA	G3-rev	sophoretin	0.02
+PRKCA	G3-rev	sotrastaurin	0.07
+PRKCA	G3-rev	affinitac	7.84
+PRKCA	G3-rev	hydrochlorothiazide	0.05
+PRKCA	G3-rev	dimethylspingosine	1.31
+PRKCA	G3-rev	phorbol myristate acetate	0.78
+PRKCA	G3-rev	tamoxifen	0.09
+PRKCA	G3-rev	7-hydroxystaurosporine	0.15
+PRKCA	G3-rev	bevacizumab	0.1
+PRKCZ	G3-rev	cenisertib	0.04
+PRKCZ	G3-rev	gsk-690693	0.22
+PRKCZ	G3-rev	gsk-269962a	0.11
+PRKCZ	G3-rev	sotrastaurin	0.17
+PRKCZ	G3-rev	cep-2563	0.28
+PRKCZ	G3-rev	lauroguadine	0.17
+PRKCZ	G3-rev	sophoretin	0.05
+PRKCZ	G3-rev	midostaurin	0.18
+PRKCZ	G3-rev	(7s)-hydroxyl-staurosporine	0.24
+PRKCZ	G3-rev	balanol	0.34
+PRKCZ	G3-rev	pha-767491	0.07
+PRKCZ	G3-rev	tozasertib	0.07
+PRKD1	SHH-fro	bryostatin	0.47
+PRKD1	SHH-fro	resveratrol	0.17
+PRKD1	SHH-fro	vasopressin	0.67
+PRKD1	SHH-fro	sophoretin	0.05
+PRKD1	SHH-fro	sotrastaurin	0.1
+PRKD1	SHH-fro	cep-2563	0.33
+PRKD1	SHH-fro	fostamatinib	0.04
+PRKD1	SHH-fro	midostaurin	0.22
+PRKD1	SHH-fro	(7s)-hydroxyl-staurosporine	0.28
+PRKD1	SHH-fro	gsk-690693	0.26
+PRKG2	WNT-rev	gsk-269962a	0.43
+PRKG2	WNT-rev	pha-767491	0.29
+PRKG2	WNT-rev	fostamatinib	0.13
+PRODH	G4b-fro	proline	10.82
+PTGR1	G4b-fro	p-coumaric acid	56.81
+PTGR1	G4b-fro	nicotinamide adenine dinucleotide phosphate	1.96
+PTGS1	WNT-fro	nabumetone	0.52
+PTGS1	WNT-fro	paracetamol	0.12
+PTGS1	WNT-fro	oxaprozin	1.38
+PTGS1	WNT-fro	phenylbutazone	0.26
+PTGS1	WNT-fro	salsalate	2.07
+PTGS1	WNT-fro	nitroaspirin	1.55
+PTGS1	WNT-fro	niflumic acid	0.11
+PTGS1	WNT-fro	meloxicam	0.62
+PTGS1	WNT-fro	acemetacin	0.26
+PTGS1	WNT-fro	fenoprofen calcium	0.26
+PTGS1	WNT-fro	ibuprofen	0.2
+PTGS1	WNT-fro	nepafenac	1.29
+PTGS1	WNT-fro	diclofenac potassium	0.26
+PTGS1	WNT-fro	mesalazine	0.17
+PTGS1	WNT-fro	ibuprofen lysine	0.26
+PTGS1	WNT-fro	fenoprofen	0.52
+PTGS1	WNT-fro	flurbiprofen	0.95
+PTGS1	WNT-fro	phenyl salicylate	0.17
+PTGS1	WNT-fro	latanoprost	0.34
+PTGS1	WNT-fro	ketoprofen	0.86
+PTGS1	WNT-fro	aceclofenac	0.34
+PTGS1	WNT-fro	sulindac	0.23
+PTGS1	WNT-fro	suprofen	2.84
+PTGS1	WNT-fro	acetaminophen	0.12
+PTGS1	WNT-fro	tolmetin sodium	0.17
+PTGS1	WNT-fro	curcumin	0.02
+PTGS1	WNT-fro	olsalazine sodium	0.13
+PTGS1	WNT-fro	naproxen	0.34
+PTGS1	WNT-fro	gw406381	0.26
+PTGS1	WNT-fro	metamizole	0.34
+PTGS1	WNT-fro	resveratrol	0.02
+PTGS1	WNT-fro	indomethacin	0.17
+PTGS1	WNT-fro	talniflumate	0.13
+PTGS1	WNT-fro	flufenamic acid	0.1
+PTGS1	WNT-fro	celecoxib	0.01
+PTGS1	WNT-fro	antrafenine	1.03
+PTGS1	WNT-fro	phenacetin	0.52
+PTGS1	WNT-fro	2-bromoacetyl group	2.07
+PTGS1	WNT-fro	diclofenac	0.24
+PTGS1	WNT-fro	bromfenac	1.81
+PTGS1	WNT-fro	mesalamine	0.17
+PTGS1	WNT-fro	balsalazide disodium	0.13
+PTGS1	WNT-fro	meclofenamic acid	0.62
+PTGS1	WNT-fro	minoxidil	0.16
+PTGS1	WNT-fro	dersalazine	0.13
+PTGS1	WNT-fro	carprofen	0.52
+PTGS1	WNT-fro	sc-560	0.13
+PTGS1	WNT-fro	diethylcarbamazine	0.52
+PTGS1	WNT-fro	droxicam	0.52
+PTGS1	WNT-fro	glycol salicylate	0.52
+PTGS1	WNT-fro	aspirin	0.06
+PTGS1	WNT-fro	arachidonic acid	0.13
+PTGS1	WNT-fro	bendazac	0.26
+PTGS1	WNT-fro	hyperforin	0.21
+PTGS1	WNT-fro	2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1h-indol-3-yl]-n-[(1r)-1-(hydroxymethyl)propyl]acetamide	1.03
+PTGS1	WNT-fro	diclofenac sodium	0.09
+PTGS1	WNT-fro	sulfasalazine	0.07
+PTGS1	WNT-fro	piroxicam	0.47
+PTGS1	WNT-fro	1-(4-iodobenzoyl)-5-methoxy-2-methyl indole-3-acetic acid	1.03
+PTGS1	WNT-fro	tenoxicam	0.83
+PTGS1	WNT-fro	2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1h-indol-3-yl]-n-[(1s)-1-(hydroxymethyl)propyl]acetamide	1.03
+PTGS1	WNT-fro	cannabidiol	0.02
+PTGS1	WNT-fro	dexketoprofen	0.13
+PTGS1	WNT-fro	ketorolac tromethamine	0.17
+PTGS1	WNT-fro	tolmetin	1.2
+PTGS1	WNT-fro	flurbiprofen sodium	0.26
+PTGS1	WNT-fro	curcumin pyrazole	0.26
+PTGS1	WNT-fro	propacetamol	0.13
+PTGS1	WNT-fro	tiaprofenic acid	0.86
+PTGS1	WNT-fro	icosapent	0.34
+PTGS1	WNT-fro	bromfenac sodium	0.26
+PTGS1	WNT-fro	magnesium salicylate	1.55
+PTGS1	WNT-fro	balsalazide	1.03
+PTGS1	WNT-fro	oxyphenbutazone	0.04
+PTGS1	WNT-fro	dexibuprofen	0.08
+PTGS1	WNT-fro	nabiximols	0.02
+PTGS1	WNT-fro	bufexamac	0.17
+PTGS1	WNT-fro	ketorolac	1.55
+PTGS1	WNT-fro	diflunisal	0.72
+PTGS1	WNT-fro	lornoxicam	0.52
+PTGS1	WNT-fro	e163	0.52
+PTGS1	WNT-fro	naproxen sodium	0.17
+PTGS1	WNT-fro	ursolic acid	0.09
+PTGS1	WNT-fro	oxaprozin potassium	0.26
+PTGS1	WNT-fro	choline magnesium trisalicylate	1.03
+PTGS1	WNT-fro	etodolac	1.03
+PTGS1	WNT-fro	fenbufen	0.26
+PTGS1	WNT-fro	mefenamic acid	0.36
+PTGS1	WNT-fro	epicatechin	0.52
+PTGS1	WNT-fro	aminosalicylate potassium	0.26
+PTGS1	WNT-fro	dihomo-gamma-linolenic acid	1.81
+PTGS1	WNT-fro	diclofenac epolamine	0.26
+PTGS1	WNT-fro	ginger	0.52
+PTGS1	WNT-fro	bismuth subsalicylate	0.13
+PTGS1	WNT-fro	o-acetyl-l-serine	2.07
+PTGS1	WNT-fro	vb-201	0.26
+PTGS1	WNT-fro	tolfenamic acid	0.19
+PTGS1	WNT-fro	trolamine salicylate	0.26
+PTGS1	WNT-fro	lumiracoxib	0.62
+PTGS1	WNT-fro	clopidogrel	0.05
+PTGS1	WNT-fro	triflusal	0.31
+PTGS1	WNT-fro	naproxcinod	0.52
+PTGS1	WNT-fro	aminosalicylate sodium	0.26
+PTGS1	WNT-fro	antipyrine	0.52
+PTGS1	WNT-fro	imrecoxib	0.26
+PTGS1	WNT-fro	hydrochlorothiazide	0.03
+PTGS1	WNT-fro	meclofenamate sodium	0.07
+PTGS1	WNT-fro	nimesulide	0.03
+PTGS1	WNT-fro	loxoprofen	0.52
+PTGS1	WNT-fro	naproxen etemesil	0.26
+PTGS1	WNT-fro	beta-d-glucose	0.09
+PTGS1	WNT-fro	ibuprofen sodium	0.26
+PTPRB	SHH-rev	akb-9778	9.47
+PTPRB	SHH-rev	{4-[2-benzyl-3-methoxy-2-(methoxycarbonyl)-3-oxopropyl]phenyl}sulfamic acid	37.87
+PTPRB	SHH-rev	sunitinib	0.88
+PYCR1	WNT-fro	nadh	0.59
+PYCR1	WNT-fro	proline	5.41
+QPRT	WNT-fro	niacin	31.56
+RBP1	WNT-fro	acitretin	6.68
+RCAN1	SHH-rev	dipyridamole	2.1
+RIPOR2	WNT-rev	rifampin	5.41
+RNF112	G3-rev	ethanol	0.86
+RNPEP	G3-rev	tosedostat	2.84
+RNPEPL1	G4a-fro	tosedostat	2.84
+RPS13	G4b-rev	artenimol	1.4
+RPS6KA4	G4a-fro	hesperadin	0.47
+RPS6KA4	G4a-fro	linifanib	0.27
+RPS6KA4	G4a-fro	flavin mononucleotide	3.16
+RPS6KB2	WNT-fro	xl-418	3.16
+RPS6KB2	WNT-fro	msc-2363318a	3.16
+RPS6KB2	WNT-fro	ly-2780301	3.79
+RPS9	G4a-rev	artenimol	1.4
+RRM2	SHH-rev	gemcitabine	0.14
+RRM2	SHH-rev	triapine	3.79
+RRM2	SHH-rev	ly-2334737	3.79
+RRM2	SHH-rev	hydroxyurea	0.81
+RRM2	SHH-rev	cladribine	1.44
+RRM2	SHH-rev	clofarabine	0.84
+RRM2	SHH-rev	cytarabine	0.18
+RRM2	SHH-rev	fludarabine	0.19
+RRM2	SHH-rev	fludarabine phosphate	0.63
+RRM2	SHH-rev	motexafin gadolinium	1.26
+RRM2	SHH-rev	tezacitabine	1.26
+RRM2	SHH-rev	gallium nitrate	2.71
+RRM2	SHH-rev	gemcitabine hydrochloride	0.54
+RRM2	SHH-rev	co-101	3.79
+RRM2	SHH-rev	imexon	1.89
+RTKN2	G4a-rev	haloperidol	1.44
+RUNX1	WNT-fro	nsc-234945	0.15
+RUNX1	WNT-fro	fumarprotocetraric acid	0.14
+RUNX1	WNT-fro	ergocryptine	0.16
+RUNX1	WNT-fro	gleevec	0.05
+RUNX1	WNT-fro	juglone	0.08
+RUNX1	WNT-fro	shikonin	0.16
+RUNX1	WNT-fro	ellagic acid	0.04
+RUNX1	WNT-fro	cy-208243	0.16
+RUNX1	WNT-fro	dndi1417309	0.16
+RUNX1	WNT-fro	homidium bromide	0.06
+RUNX1	WNT-fro	dipyridyl	0.41
+RUNX1	WNT-fro	ergocornine	0.27
+RUNX1	WNT-fro	tamoxifen citrate	0.09
+RUNX1	WNT-fro	fusaric acid	0.23
+RUNX1	WNT-fro	pyrogallol	0.11
+RUNX1	WNT-fro	cytarabine	0.08
+RUNX1	WNT-fro	apomorphine hydrochloride hemihydrate	0.09
+RUNX1	WNT-fro	dephostatin	0.06
+RUNX1	WNT-fro	cetirizine dihydrochloride	0.81
+RUNX1	WNT-fro	nsc-107022	0.07
+RUNX1	WNT-fro	quinolinic acid	0.27
+RUNX1	WNT-fro	irigenol	0.12
+RUNX1	WNT-fro	tcmdc-123764	0.12
+RUNX1	WNT-fro	d-dopa	0.12
+RUNX1	WNT-fro	daunorubicin	0.02
+RUNX1	WNT-fro	tolonium chloride	0.09
+RUNX1	WNT-fro	aurintricarboxylic acid	0.05
+RUNX1	WNT-fro	disulfiram	0.04
+RUNX1	WNT-fro	wedelolactone	0.15
+RUNX1	WNT-fro	cytarabine hydrochloride	0.54
+RUNX1	WNT-fro	purpurogallin	0.05
+RUNX1	WNT-fro	iriginol hexaaceatate	0.15
+RUNX1	WNT-fro	phenanthroline	0.08
+RUNX1	WNT-fro	l-norepinephrine	0.2
+RUNX1	WNT-fro	doxorubicin	0.03
+RXRA	WNT-fro	gw7647	0.02
+RXRA	WNT-fro	phytanic acid	1.31
+RXRA	WNT-fro	demeton s	0.65
+RXRA	WNT-fro	alpha-linolenic acid	0.04
+RXRA	WNT-fro	acitretin	0.15
+RXRA	WNT-fro	mofarotene	0.11
+RXRA	WNT-fro	adapalene	0.52
+RXRA	WNT-fro	etretinate	0.47
+RXRA	WNT-fro	t091317	0.04
+RXRA	WNT-fro	alitretinoin	0.87
+RXRA	WNT-fro	sdx-101	0.33
+RXRA	WNT-fro	bexarotene	1.24
+RXRA	WNT-fro	tributyltin	0.65
+RXRA	WNT-fro	thiram	0.03
+RXRA	WNT-fro	pyraclostrobin	0.13
+RXRA	WNT-fro	pimozide	0.02
+RXRA	WNT-fro	abamectin	0.22
+RXRA	WNT-fro	9z-retinoic acid	1.96
+RXRA	WNT-fro	2-[(2,4-dichlorobenzoyl)amino]-5-(pyrimidin-2-yloxy)benzoic acid	0.44
+RXRA	WNT-fro	honokiol	0.26
+RXRA	WNT-fro	propargite	0.16
+RXRA	WNT-fro	daunorubicin hydrochloride	0.02
+RXRA	WNT-fro	docetaxel	0.02
+RXRA	WNT-fro	chlorothalonil	0.05
+RXRA	WNT-fro	2-phenoxyethanol	0.65
+RXRA	WNT-fro	saquinavir mesylate	0.09
+RXRA	WNT-fro	chlorfenapyr	0.16
+RXRA	WNT-fro	evt-101	0.22
+RXRA	WNT-fro	clorophene	0.13
+RXRA	WNT-fro	tributylchlorostannane	0.16
+RXRA	WNT-fro	ro-137410	0.05
+RXRA	WNT-fro	irx-4204	0.22
+RXRA	WNT-fro	7,12-dimethyl-benzo[a]anthracene	0.06
+RXRA	WNT-fro	bromoxynil	0.16
+RXRA	WNT-fro	quinoxyfen	0.33
+RXRA	WNT-fro	dichlorophen	0.04
+RXRA	WNT-fro	butylated hydroxytoluene	0.11
+RXRA	WNT-fro	alfacalcidol	0.44
+RXRA	WNT-fro	oleic acid	0.26
+RXRA	WNT-fro	sulindac	0.09
+RXRA	WNT-fro	doxorubicin hydrochloride	0.02
+RXRA	WNT-fro	arachidonic acid	0.08
+RXRA	WNT-fro	2-phenylphenol	0.13
+RXRA	WNT-fro	diflubenzuron	0.33
+RXRA	WNT-fro	3,20-pregnanedione	0.33
+RXRA	WNT-fro	homidium bromide	0.02
+RXRA	WNT-fro	azinphos-ethyl	0.22
+RXRA	WNT-fro	2-bromo-hexadecanoic acid	0.16
+RXRA	WNT-fro	tretinoin	0.04
+RXRA	WNT-fro	dimethylformamide	0.22
+RXRA	WNT-fro	1-benzyl-3-(4-methoxyphenylamino)-4-phenylpyrrole-2,5-dione	0.65
+RXRA	WNT-fro	fludioxonil	0.22
+RXRA	WNT-fro	etodolac	0.33
+RXRA	WNT-fro	raloxifene hydrochloride	0.03
+RXRA	WNT-fro	genistein	0.01
+RXRA	WNT-fro	thiomersal	0.03
+RXRA	WNT-fro	afimoxifene	0.04
+RXRA	WNT-fro	rotenone	0.05
+RXRA	WNT-fro	biphenyl	0.33
+RXRA	WNT-fro	triclocarban	0.09
+RXRA	WNT-fro	dibutyldichlorostannane	0.13
+RXRA	WNT-fro	benzethonium chloride	0.04
+RXRA	WNT-fro	anthraquinone	0.33
+RXRA	WNT-fro	tributyltin-oxide	0.13
+RXRA	WNT-fro	rosiglitazone	0.04
+RXRA	WNT-fro	benzo[d]isothiazol-3-one	0.04
+RXRA	WNT-fro	imipramine hydrochloride	0.11
+RXRA	WNT-fro	metribuzin	0.65
+RXRA	WNT-fro	triphenylstannanol	0.13
+RXRA	WNT-fro	phthalic acid	0.13
+RXRA	WNT-fro	progesterone	0.01
+RXRA	WNT-fro	bithionol	0.03
+RXRA	WNT-fro	benzo(k)fluoranthene	0.07
+RXRA	WNT-fro	stanolone	0.08
+RXRA	WNT-fro	testosterone	0.02
+RXRA	WNT-fro	bromethalin	0.33
+RXRA	WNT-fro	niclosamide	0.02
+RXRA	WNT-fro	triclosan	0.07
+RXRA	WNT-fro	chlorhexidine diacetate	0.65
+RXRA	WNT-fro	dactinomycin	0.04
+RXRA	WNT-fro	doconexent	0.3
+RXRA	WNT-fro	mesotrione	0.33
+RXRA	WNT-fro	difenoconazole	0.13
+RXRA	WNT-fro	ferbam	0.33
+RXRA	WNT-fro	octadecylamine	0.65
+RXRA	WNT-fro	bezafibrate	0.19
+RXRA	WNT-fro	2-chloro-5-nitro-n-phenylbenzamide	0.13
+RYR2	G3-rev	simvastatin	0.25
+RYR2	G3-rev	carvedilol	0.15
+RYR2	G3-rev	caffeine	0.13
+RYR2	G3-rev	atorvastatin	0.22
+RYR2	G3-rev	atp	0.08
+RYR2	G3-rev	cerivastatin	2.37
+RYR2	G3-rev	flecainide	0.95
+RYR2	G3-rev	suramin	0.12
+RYR2	G3-rev	dantrolene	0.53
+RYR2	G3-rev	tetracaine	1.09
+RYR2	G3-rev	ryanodine	1.58
+RYR2	G3-rev	procaine	0.36
+S100A16	WNT-fro	calcium citrate	0.86
+S100A16	WNT-fro	calcium phosphate	0.86
+SACM1L	G3-rev	bupropion	5.98
+SCARB1	G3-rev	fenofibrate	0.46
+SCARB1	G3-rev	ribavirin	0.43
+SCARB1	G3-rev	atorvastatin	0.44
+SCARB1	G3-rev	phosphatidyl serine	8.52
+SCG5	SHH-fro	capsaicin	6.68
+SCN3B	WNT-rev	zonisamide	13.82
+SDHC	G3-rev	ubiquinone q1	28.4
+SDSL	WNT-fro	pyridoxal phosphate	2.18
+SELENOP	G4a-rev	zinc chloride	0.88
+SELENOP	G4a-rev	zinc	0.36
+SGSH	SHH-rev	hgt-1410	56.81
+SGSM3	SHH-rev	demecolcine	9.47
+SIRT5	G4b-fro	nicotinamide	4.73
+SIRT5	G4b-fro	gw7647	0.24
+SIRT5	G4b-fro	nsc-74859	1.01
+SIRT5	G4b-fro	oleoyl dopamine	0.39
+SIRT5	G4b-fro	cefixime	0.65
+SIRT5	G4b-fro	cambinol	1.78
+SIRT5	G4b-fro	suramin	0.89
+SIRT5	G4b-fro	gnf-pf-1720	7.1
+SLC16A3	WNT-fro	pyruvic acid	4.06
+SLC16A3	WNT-fro	stz	1.21
+SLC16A7	WNT-rev	methotrexate	0.26
+SLC16A7	WNT-rev	pyruvic acid	12.17
+SLC22A5	SHH-rev	imatinib	0.84
+SLC22A5	SHH-rev	levocarnitine	10.33
+SLC22A5	SHH-rev	carnitine	37.87
+SLC25A15	WNT-fro	ornithine	15.49
+SLC39A14	G3-rev	nortriptyline	4.73
+SLC39A8	WNT-fro	ethanol	0.86
+SLC44A1	G4a-rev	hemicholinium-3	14.2
+SLC6A4	G4b-fro	trazodone	0.23
+SLC6A4	G4b-fro	amoxapine	0.13
+SLC6A4	G4b-fro	phentermine	0.73
+SLC6A4	G4b-fro	mianserin	0.05
+SLC6A4	G4b-fro	milnacipran	0.64
+SLC6A4	G4b-fro	sibutramine	1.6
+SLC6A4	G4b-fro	ribavirin	0.02
+SLC6A4	G4b-fro	chlorpheniramine	0.21
+SLC6A4	G4b-fro	fluoxetine	0.24
+SLC6A4	G4b-fro	phenelzine	0.04
+SLC6A4	G4b-fro	cocaine	0.2
+SLC6A4	G4b-fro	cyclobenzaprine	0.1
+SLC6A4	G4b-fro	haloperidol	0.02
+SLC6A4	G4b-fro	nomifensine	0.16
+SLC6A4	G4b-fro	vilazodone	0.46
+SLC6A4	G4b-fro	doxepin	0.16
+SLC6A4	G4b-fro	levomilnacipran	0.64
+SLC6A4	G4b-fro	tedatioxetine	0.05
+SLC6A4	G4b-fro	bupropion	0.07
+SLC6A4	G4b-fro	imipramine	0.22
+SLC6A4	G4b-fro	nefazodone	0.38
+SLC6A4	G4b-fro	nortriptyline	0.27
+SLC6A4	G4b-fro	loxapine	0.02
+SLC6A4	G4b-fro	ziprasidone	0.02
+SLC6A4	G4b-fro	escitalopram	0.32
+SLC6A4	G4b-fro	protriptyline	0.91
+SLC6A4	G4b-fro	benzatropine	0.21
+SLC6A4	G4b-fro	evodiamine	0.64
+SLC6A4	G4b-fro	duloxetine	0.55
+SLC6A4	G4b-fro	dosulepin	0.21
+SLC6A4	G4b-fro	desipramine	0.22
+SLC6A4	G4b-fro	metamfetamine	0.12
+SLC6A4	G4b-fro	fluvoxamine	0.64
+SLC6A4	G4b-fro	paroxetine	0.23
+SLC6A4	G4b-fro	ondansetron	0.1
+SLC6A4	G4b-fro	quetiapine	0.04
+SLC6A4	G4b-fro	dapoxetine	0.26
+SLC6A4	G4b-fro	butriptyline	0.85
+SLC6A4	G4b-fro	atomoxetine	0.4
+SLC6A4	G4b-fro	lofepramine	0.16
+SLC6A4	G4b-fro	mmda	0.4
+SLC6A4	G4b-fro	tapentadol	0.14
+SLC6A4	G4b-fro	lorpiprazole	0.21
+SLC6A4	G4b-fro	clomipramine	0.49
+SLC6A4	G4b-fro	dextromethorphan	0.16
+SLC6A4	G4b-fro	venlafaxine	0.56
+SLC6A4	G4b-fro	minaprine	0.43
+SLC6A4	G4b-fro	methylphenidate	0.07
+SLC6A4	G4b-fro	sertraline	0.37
+SLC6A4	G4b-fro	4-methoxyamphetamine	0.73
+SLC6A4	G4b-fro	dexfenfluramine	2.55
+SLC6A4	G4b-fro	amitriptyline	0.19
+SLC6A4	G4b-fro	methamphetamine	0.12
+SLC6A4	G4b-fro	tramadol	0.17
+SLC6A4	G4b-fro	zotepine	0.08
+SLC6A4	G4b-fro	desvenlafaxine	1.06
+SLC6A4	G4b-fro	trimipramine	0.18
+SLC6A4	G4b-fro	iti-007	0.36
+SLC6A4	G4b-fro	ephedra sinica root	0.15
+SLC6A4	G4b-fro	ethanol	0.01
+SLC6A4	G4b-fro	zimelidine	0.8
+SLC6A4	G4b-fro	lumateperone	0.36
+SLC6A4	G4b-fro	citalopram	0.31
+SLC6A4	G4b-fro	vortioxetine	0.23
+SLC6A4	G4b-fro	olanzapine	0.03
+SLC6A4	G4b-fro	mazindol	0.21
+SLC6A4	G4b-fro	nisoxetine	0.64
+SLC6A4	G4b-fro	tesofensine	0.48
+SLC6A4	G4b-fro	pseudoephedrine	0.08
+SLC6A4	G4b-fro	meperidine	0.12
+SLC6A4	G4b-fro	serotonin	0.06
+SLC6A4	G4b-fro	amphetamine	0.06
+SLC6A4	G4b-fro	berberine	0.26
+SLC6A4	G4b-fro	bicifadine	0.43
+SLC6A4	G4b-fro	ykp-10a	0.21
+SLC6A4	G4b-fro	4-methylthioamphetamine	1.28
+SLC6A4	G4b-fro	buprenorphine	0.12
+SLC6A4	G4b-fro	aripiprazole	0.03
+SLC6A4	G4b-fro	verapamil	0.04
+SLC6A4	G4b-fro	methadone	0.04
+SLC6A4	G4b-fro	clozapine	0.02
+SLC6A4	G4b-fro	morphine	0.04
+SLC6A4	G4b-fro	dopamine	0.04
+SLC6A4	G4b-fro	opc-14523	0.64
+SLC6A4	G4b-fro	midomafetamine	0.64
+SLC6A4	G4b-fro	dasotraline	0.13
+SLC6A4	G4b-fro	dexmethylphenidate	0.85
+SLC6A4	G4b-fro	amitifadine	0.16
+SLC6A4	G4b-fro	amineptine	0.64
+SLC6A4	G4b-fro	risperidone	0.03
+SLC6A4	G4b-fro	fenfluramine	0.64
+SLC6A5	G4b-fro	bitopertin	14.2
+SLC6A5	G4b-fro	haloperidol	1.08
+SLC9A3	G4b-fro	albumin	3.79
+SLC9A3	G4b-fro	rdx-5791	37.87
+SLC9A3	G4b-fro	tenapanor	18.94
+SLC9A3	G4b-fro	tenapanor hydrochloride	37.87
+SLFN11	WNT-fro	talazoparib	3.44
+SLFN11	WNT-fro	niraparib	4.21
+SLFN11	WNT-fro	temozolomide	2.84
+SMAD3	WNT-fro	gnf-pf-3792	0.06
+SMAD3	WNT-fro	dndi1318477	0.03
+SMAD3	WNT-fro	tcmdc-125544	0.02
+SMAD3	WNT-fro	nsc-228155	0.01
+SMAD3	WNT-fro	cardamomin	0.08
+SMAD3	WNT-fro	tcmdc-125086	0.13
+SMAD3	WNT-fro	enpiroline	0.05
+SMAD3	WNT-fro	nsc-50688	0.06
+SMAD3	WNT-fro	gnf-pf-3286	0.04
+SMAD3	WNT-fro	nsc-402538	0.08
+SMAD3	WNT-fro	sj000200944	0.08
+SMAD3	WNT-fro	dndi1416955	0.03
+SMAD3	WNT-fro	tcmdc-124317	0.04
+SMAD3	WNT-fro	fenticlor	0.01
+SMAD3	WNT-fro	dasatinib	0
+SMAD3	WNT-fro	hexachlorophene	0.01
+SMAD3	WNT-fro	dndi1417941	0.01
+SMAD3	WNT-fro	gnf-pf-4325	0.06
+SMAD3	WNT-fro	cgp-60474	0.04
+SMAD3	WNT-fro	aminoquinol	0.13
+SMAD3	WNT-fro	sj000147784	0.04
+SMAD3	WNT-fro	sj000260249	0.25
+SMAD3	WNT-fro	sennoside b	0.02
+SMAD3	WNT-fro	doxorubicin hydrochloride	0.01
+SMAD3	WNT-fro	mitonafide	0.03
+SMAD3	WNT-fro	brefeldin a	0.03
+SMAD3	WNT-fro	tcmdc-123650	0.03
+SMAD3	WNT-fro	gnf-pf-3515	0.08
+SMAD3	WNT-fro	alpha,beta-dehydrocurvularin	0.02
+SMAD3	WNT-fro	tcmdc-125103	0.25
+SMAD3	WNT-fro	sj000029642	0.02
+SMAD3	WNT-fro	gnf-pf-3418	0.06
+SMAD3	WNT-fro	nsc-105827	0.03
+SMAD3	WNT-fro	gossypol	0.01
+SMAD3	WNT-fro	dndi1417400	0.02
+SMAD3	WNT-fro	gnf-pf-2947	0.04
+SMAD3	WNT-fro	dndi1417147	0.06
+SMAD3	WNT-fro	quinoxaline	0.25
+SMAD3	WNT-fro	dndi1417420	0.04
+SMAD3	WNT-fro	anisomycin	0.01
+SMAD3	WNT-fro	vincristine	0
+SMAD3	WNT-fro	sj000100732	0.25
+SMAD3	WNT-fro	gnf-pf-67	0.01
+SMAD3	WNT-fro	dndi1417165	0.05
+SMAD3	WNT-fro	nsc-69187	0.01
+SMAD3	WNT-fro	emetine hydrochloride	0.04
+SMAD3	WNT-fro	gerontoxanthone h	0.04
+SMAD3	WNT-fro	9,10-phenanthrenequinone	0.01
+SMAD3	WNT-fro	beta-lapachone	0.01
+SMAD3	WNT-fro	osajin	0.05
+SMAD3	WNT-fro	fangchinoline	0.08
+SMAD3	WNT-fro	2-phenylamino-[1,4]naphthoquinone	0.02
+SMAD3	WNT-fro	gnf-pf-2272	0.01
+SMAD3	WNT-fro	gitoxigenin	0.06
+SMAD3	WNT-fro	9-aminocamptothecin	0.02
+SMAD3	WNT-fro	thiomersal	0.01
+SMAD3	WNT-fro	nsc-145669	0.08
+SMAD3	WNT-fro	n,n'-diphenyl-guanidine	0.06
+SMAD3	WNT-fro	genistein	0.01
+SMAD3	WNT-fro	nsc-172614	0.08
+SMAD3	WNT-fro	a-443654	0.02
+SMAD3	WNT-fro	streptonigrin	0.01
+SMAD3	WNT-fro	sj000294102	0.03
+SMAD3	WNT-fro	4-aminophenol	0.03
+SMAD3	WNT-fro	peruvoside	0.08
+SMAD3	WNT-fro	glabrol	0.13
+SMAD3	WNT-fro	gnf-pf-3201	0.04
+SMAD3	WNT-fro	bufogenin	0.06
+SMAD3	WNT-fro	sj000154295	0.03
+SMAD3	WNT-fro	sanguinarium	0.01
+SMAD3	WNT-fro	kamebanin	0.03
+SMAD3	WNT-fro	methylthioninium chloride	0.01
+SMAD3	WNT-fro	fluorescein	0.03
+SMAD3	WNT-fro	dithiazanine	0.04
+SMAD3	WNT-fro	lasalocid a sodium	0.03
+SMAD3	WNT-fro	piroctone	0.13
+SMAD3	WNT-fro	bix-01294	0.03
+SMAD3	WNT-fro	gnf-pf-254	0.02
+SMAD3	WNT-fro	nsc-130813	0.03
+SMAD3	WNT-fro	acacetin	0.02
+SMAD3	WNT-fro	sj000157363	0.13
+SMAD3	WNT-fro	cid 663143	0.03
+SMAD3	WNT-fro	aromaticin	0.06
+SMAD3	WNT-fro	kenpaullone	0.01
+SMAD3	WNT-fro	gnf-pf-130	0.08
+SMAD3	WNT-fro	lanatoside c	0.04
+SMAD3	WNT-fro	gr-127935	0.01
+SMAD3	WNT-fro	oxyquinoline	0.05
+SMAD3	WNT-fro	zm-39923 hcl	0.03
+SMAD3	WNT-fro	dndi1417722	0.06
+SMAD3	WNT-fro	gnf-pf-2356	0.06
+SMAD3	WNT-fro	bisindolylmaleimide ix	0.03
+SMAD3	WNT-fro	sanguinarine sulfate	0.02
+SMAD3	WNT-fro	cryptotanshinone	0.02
+SMAD3	WNT-fro	cp-55940	0.03
+SMAD3	WNT-fro	oxyphenbutazone	0.02
+SMAD3	WNT-fro	nsc-102742	0.02
+SMAD3	WNT-fro	demethoxycurcumin	0.08
+SMAD3	WNT-fro	dndi1417099	0.04
+SMAD3	WNT-fro	gnf-pf-5134	0.02
+SMAD3	WNT-fro	tcmdc-123808	0.05
+SMAD3	WNT-fro	fluspirilene	0.01
+SMAD3	WNT-fro	fiduxosin hydrochloride	0.04
+SMAD3	WNT-fro	garcinone e	0.03
+SMAD3	WNT-fro	tcmdc-125814	0.04
+SMAD3	WNT-fro	gnf-pf-5052	0.08
+SMAD3	WNT-fro	fludarabine	0.01
+SMAD3	WNT-fro	mk-2206	0.01
+SMAD3	WNT-fro	nsc-724440	0.05
+SMAD3	WNT-fro	dndi1417601	0.03
+SMAD3	WNT-fro	ouabain	0.02
+SMAD3	WNT-fro	dndi1417086	0.02
+SMAD3	WNT-fro	resactin a	0.06
+SMAD3	WNT-fro	4-phenylamino-[1,2]naphthoquinone	0.01
+SMAD3	WNT-fro	gnf-pf-4579	0.08
+SMAD3	WNT-fro	geopyxin a	0.13
+SMAD3	WNT-fro	sj000128325	0.02
+SMAD3	WNT-fro	tcmdc-125784	0.04
+SMAD3	WNT-fro	gnf-pf-2954	0.04
+SMAD3	WNT-fro	tcmdc-124354	0.06
+SMAD3	WNT-fro	gnf-pf-2413	0.13
+SMAD3	WNT-fro	imatinib	0
+SMAD3	WNT-fro	thioinosine	0.04
+SMAD3	WNT-fro	triclocarban	0.04
+SMAD3	WNT-fro	gnf-pf-2776	0.04
+SMAD3	WNT-fro	dndi1416975	0.05
+SMAD3	WNT-fro	gerontoxanthone i	0.06
+SMAD3	WNT-fro	tcmdc-125653	0.06
+SMAD3	WNT-fro	azacitidine	0.01
+SMAD3	WNT-fro	sj000001516	0.04
+SMAD3	WNT-fro	tcmdc-123951	0.03
+SMAD3	WNT-fro	tetraphenyl-urea	0.25
+SMAD3	WNT-fro	dndi1417457	0.05
+SMAD3	WNT-fro	halofuginone	0.06
+SMAD3	WNT-fro	strophanthidin acetate	0.13
+SMAD3	WNT-fro	anguidin	0.06
+SMAD3	WNT-fro	gnf-pf-2713	0.06
+SMAD3	WNT-fro	mmv666022	0.05
+SMAD3	WNT-fro	nitroxoline	0.02
+SMAD3	WNT-fro	gnf-pf-78	0.03
+SMAD3	WNT-fro	dndi1417149	0.08
+SMAD3	WNT-fro	epirubicin hydrochloride	0.04
+SMAD3	WNT-fro	dndi1417447	0.04
+SMAD3	WNT-fro	dolastatin 12	0.13
+SMAD3	WNT-fro	tcmdc-124557	0.08
+SMAD3	WNT-fro	mmv009085	0.03
+SMAD3	WNT-fro	ellagic acid	0.01
+SMAD3	WNT-fro	enniatin b	0.06
+SMAD3	WNT-fro	nsc-367089	0.04
+SMAD3	WNT-fro	gnf-pf-1644	0.02
+SMAD3	WNT-fro	tcmdc-124176	0.03
+SMAD3	WNT-fro	lopinavir	0.03
+SMAD3	WNT-fro	digitoxin	0.01
+SMAD3	WNT-fro	angustibalin	0.02
+SMAD3	WNT-fro	nsc-377852	0.03
+SMAD3	WNT-fro	tcmdc-124573	0.05
+SMAD3	WNT-fro	gnf-pf-2335	0.04
+SMAD3	WNT-fro	cycloheximide	0.02
+SMAD3	WNT-fro	sj000117447	0.06
+SMAD3	WNT-fro	jtc-801	0.13
+SMAD3	WNT-fro	digoxigenin	0.06
+SMAD3	WNT-fro	(s,r)-mefloquine	0.25
+SMAD3	WNT-fro	1-o-acetylgeopyxin a	0.04
+SMAD3	WNT-fro	tcmdc-124640	0.25
+SMAD3	WNT-fro	tcmdc-139459	0.02
+SMAD3	WNT-fro	n-acetylcolchinol	0.08
+SMAD3	WNT-fro	cetylpyridinium	0.25
+SMAD3	WNT-fro	calmidazolium chloride	0.01
+SMAD3	WNT-fro	gnf-pf-1134	0.04
+SMAD3	WNT-fro	clioxanide	0.04
+SMAD3	WNT-fro	dndi1417181	0.03
+SMAD3	WNT-fro	calcimycin	0.01
+SMAD3	WNT-fro	gnf-pf-159	0.02
+SMAD3	WNT-fro	cloxyquin	0.03
+SMAD3	WNT-fro	1,7-o-diacetylgeopyxin a	0.13
+SMAD3	WNT-fro	gnf-pf-2657	0.02
+SMAD3	WNT-fro	gnf-pf-4798	0.04
+SMAD3	WNT-fro	tcmdc-123713	0.03
+SMAD3	WNT-fro	gnf-pf-3641	0.03
+SMAD3	WNT-fro	lobaric acid	0.02
+SMAD3	WNT-fro	pyridine-2-carbothioic acid phenylamide	0.03
+SMAD3	WNT-fro	tcmdc-138263	0.05
+SMAD3	WNT-fro	protoapigenone	0.02
+SMAD3	WNT-fro	tubercidin	0.06
+SMAD3	WNT-fro	ibrutinib	0.01
+SMAD3	WNT-fro	cinobufotalin	0.08
+SMAD3	WNT-fro	gnf-pf-3257	0.08
+SMAD3	WNT-fro	bisdemethoxycurcumin	0.17
+SMAD3	WNT-fro	sj000201788	0.06
+SMAD3	WNT-fro	gnf-pf-4459	0.02
+SMAD3	WNT-fro	sj000173328	0.05
+SMAD3	WNT-fro	alsterpaullone	0.01
+SMAD3	WNT-fro	guanidinyl-naltrindole di-trifluoroacetate	0.03
+SMAD3	WNT-fro	dexamethasone	0.01
+SMAD3	WNT-fro	cucurbitacin b	0.04
+SMAD3	WNT-fro	2-methoxy-1,4-naphthoquinone	0.03
+SMAD3	WNT-fro	gnf-pf-3407	0.03
+SMAD3	WNT-fro	sj000260214	0.13
+SMAD3	WNT-fro	nsc-695801	0.04
+SMAD3	WNT-fro	sj000044511	0.01
+SMAD3	WNT-fro	nsc-95397	0.01
+SMAD3	WNT-fro	sj000089001	0.05
+SMAD3	WNT-fro	gnf-pf-1295	0.04
+SMAD3	WNT-fro	pomiferin	0.03
+SMAD3	WNT-fro	clioquinol	0.01
+SMAD3	WNT-fro	tetrazolium red	0.13
+SMAD3	WNT-fro	triclosan	0.03
+SMAD3	WNT-fro	mitoxantrone	0.01
+SMAD3	WNT-fro	gnf-pf-4516	0.08
+SMAD3	WNT-fro	helenalin	0.02
+SMAD3	WNT-fro	fluazinam	0.05
+SMAD3	WNT-fro	sj000150791	0.08
+SMAD3	WNT-fro	chlorothalonil	0.02
+SMAD3	WNT-fro	strophanthidin	0.04
+SMAD3	WNT-fro	tcmdc-123927	0.04
+SMAD3	WNT-fro	gnf-pf-5151	0.02
+SMAD3	WNT-fro	dndi1417006	0.06
+SMAD3	WNT-fro	gnf-pf-2094	0.06
+SMAD3	WNT-fro	pyrithione	0.02
+SMAD3	WNT-fro	tcmdc-125142	0.05
+SMAD3	WNT-fro	gnf-pf-1919	0.01
+SMAD3	WNT-fro	pinafide	0.02
+SMAD3	WNT-fro	curcumin	0.01
+SMAD3	WNT-fro	gnf-pf-1319	0.04
+SMAD3	WNT-fro	4-({[2-(benzyloxy)phenyl]methyl}amino)phenol	0.02
+SMAD3	WNT-fro	chlorquinaldol	0.06
+SMOX	G3-rev	spermine	8.12
+SMOX	G3-rev	azaserine	7.57
+SMOX	G3-rev	mdl72527	56.81
+SORCS2	G3-rev	atazanavir	12.62
+SPTLC3	WNT-fro	myriocin	14.2
+SPTLC3	WNT-fro	pyridoxal phosphate	2.73
+SST	WNT-fro	captopril	0.95
+SST	WNT-fro	ganciclovir	4.06
+SST	WNT-fro	cysteamine	14.2
+SST	WNT-fro	streptozotocin	0.35
+SST	WNT-fro	amphetamine	0.81
+SST	WNT-fro	valinomycin	8.12
+SST	WNT-fro	lithium	0.33
+STK32A	G3-rev	fostamatinib	0.38
+STMN4	G3-rev	lomustine	34.08
+SV2C	non-WS	olanzapine	0.81
+SYK	WNT-fro	fostamatinib	0.04
+SYK	WNT-fro	tamatinib	0.1
+SYK	WNT-fro	rg-1530	0.02
+SYK	WNT-fro	cerdulatinib	0.54
+SYK	WNT-fro	staurosporine	0.09
+SYK	WNT-fro	dasatinib	0.02
+SYK	WNT-fro	tak-659	1.62
+SYK	WNT-fro	ellagic acid	0.07
+SYK	WNT-fro	tae-684	0.02
+SYK	WNT-fro	gw441756x	0.02
+SYK	WNT-fro	gs-9973	4.87
+SYK	WNT-fro	2-{[(1r,2s)-2-aminocyclohexyl]amino}-4-[(3-methylphenyl)amino]pyrimidine-5-carboxamide	3.25
+SYK	WNT-fro	sp-600125	0.02
+SYK	WNT-fro	lanraplenib	1.62
+SYK	WNT-fro	ilorasertib	0.02
+SYK	WNT-fro	r-343	1.62
+SYK	WNT-fro	cenisertib	0.01
+SYK	WNT-fro	entrectinib	0.03
+SYK	WNT-fro	hmpl-523	0.81
+SYK	WNT-fro	prt-2607	2.16
+SYK	WNT-fro	azd-1775	0.06
+SYK	WNT-fro	paclitaxel	0.03
+SYK	WNT-fro	cyc-116	0.02
+SYK	WNT-fro	erlotinib	0.03
+SYK	WNT-fro	681640	0.04
+SYK	WNT-fro	p505-15	2.16
+SYK	WNT-fro	pd-0166285	0.03
+SYK	WNT-fro	r-112	1.62
+SYK	WNT-fro	n-(2-hydroxy-1,1-dimethylethyl)-1-methyl-3-(1h-pyrrolo[2,3-b]pyridin-2-yl)-1h-indole-5-carboxamide	3.25
+SYK	WNT-fro	prt-062607	2.16
+SYK	WNT-fro	apitolisib	0.07
+SYK	WNT-fro	r-348	0.81
+SYK	WNT-fro	r-333	0.81
+SYK	WNT-fro	2-{2-[(3,5-dimethylphenyl)amino]pyrimidin-4-yl}-n-[(1s)-2-hydroxy-1-methylethyl]-4-methyl-1,3-thiazole-5-carboxamide	3.25
+SYK	WNT-fro	sti571	0.16
+SYK	WNT-fro	gnf-pf-3023	0.18
+SYK	WNT-fro	entospletinib	4.87
+SYK	WNT-fro	cediranib	0.03
+TAC1	G4a-fro	loratadine	0.46
+TAC1	G4a-fro	furosemide	0.37
+TAC1	G4a-fro	naltrexone	0.65
+TAC1	G4a-fro	ether	0.86
+TAC1	G4a-fro	8-mop	0.65
+TAC1	G4a-fro	gossypol	0.11
+TAC1	G4a-fro	wortmannin	0.14
+TAC1	G4a-fro	nizatidine	2.58
+TAC1	G4a-fro	antihistamine	0.26
+TAC1	G4a-fro	mexiletine	1.03
+TAC1	G4a-fro	chlorhexidine	0.27
+TAC1	G4a-fro	protoporphyrin	0.2
+TAC1	G4a-fro	omeprazole	0.23
+TAC1	G4a-fro	reserpine	0.3
+TAC1	G4a-fro	ginger	2.58
+TAC1	G4a-fro	baclofen	0.52
+TAC1	G4a-fro	etidronate	0.34
+TAC1	G4a-fro	sulindac	0.23
+TAC1	G4a-fro	puromycin	0.26
+TAC1	G4a-fro	digoxin	0.15
+TAC1	G4a-fro	famotidine	1.29
+TAC1	G4a-fro	haloperidol	0.07
+TFAP2A	WNT-fro	nelfinavir	5.41
+TFAP2A	WNT-fro	indinavir	3.79
+TFAP2A	WNT-fro	amprenavir	9.47
+TGFA	WS	cetuximab	0.58
+TGFA	WS	panitumumab	1.35
+THBS4	SHH-rev	vasopressin	6.68
+TMX2	SHH-rev	ethanol	0.86
+TNFRSF11B	WNT-fro	epinephrine	0.73
+TNFRSF11B	WNT-fro	anastrozole	0.81
+TNFRSF11B	WNT-fro	letrozole	0.76
+TNFRSF11B	WNT-fro	testosterone	0.61
+TNFRSF11B	WNT-fro	risedronate	5.68
+TNNC1	WNT-fro	aluminium monostearate	2.84
+TNNC1	WNT-fro	levosimendan	14.2
+TNNC1	WNT-fro	bepridil	2.49
+TNNC1	WNT-fro	n-(6-aminohexyl)-5-chloro-1-naphthalenesulfonamide	3.79
+TNNC1	WNT-fro	calcium	1.35
+TNNC1	WNT-fro	pyrogallol red	0.23
+TNNC1	WNT-fro	felodipine	0.54
+TNNC1	WNT-fro	purpurogallin	0.16
+TNNC1	WNT-fro	nsc-107022	0.25
+TNNC1	WNT-fro	trifluoperazine	0.55
+TOP1MT	WNT-fro	irinotecan	4.29
+TOP1MT	WNT-fro	topotecan	3.79
+TOP1MT	WNT-fro	topotecan hydrochloride	1.72
+TP73	non-WS	zinc	0.1
+TP73	non-WS	cddp	0.11
+TP73	non-WS	tazarotene	2.03
+TP73	non-WS	gm-csf	1.01
+TP73	non-WS	zinc chloride	0.17
+TP73	non-WS	egcg	0.56
+TP73	non-WS	carboplatin	0.21
+TRAC	G4a-fro	3-indolebutyric acid	22.72
+TRAF3IP2	non-WS	nevirapine	2.47
+TRIB3	WS	methylphenidate	2.47
+TSC22D3	G4a-rev	dexamethasone	0.99
+TSC22D3	G4a-rev	hydrocortisone	1.49
+TTR	G4a-fro	tafamidis meglumine	4.73
+TTR	G4a-fro	dihydroguaiaretic acid	9.47
+TTR	G4a-fro	zinc chloride	0.15
+TTR	G4a-fro	patisiran	9.47
+TTR	G4a-fro	tafamidis	28.4
+TTR	G4a-fro	copper	0.07
+TTR	G4a-fro	inotersen	14.2
+TTR	G4a-fro	benzyl caffeate	9.47
+TTR	G4a-fro	ethyl caffeate	9.47
+TTR	G4a-fro	caffeic acid phenethyl ester	0.68
+TTR	G4a-fro	nordihydroguaiaretic acid	0.27
+TTR	G4a-fro	zinc	0.06
+TUBD1	G4b-fro	vinblastine	9.74
+UCHL1	WNT-rev	phenethyl isothiocyanate	2.14
+UCP2	G4a-rev	saline	2.03
+UCP2	G4a-rev	triiodothyronine	1.42
+UCP2	G4a-rev	heparin	0.75
+UCP2	G4a-rev	intralipid	5.68
+UPP1	G4b-fro	5-benzylacyclouridine	113.61
+USP2	non-WS	alexidine hydrochloride	0.13
+USP2	non-WS	calmidazolium chloride	0.11
+USP2	non-WS	alloxan	0.55
+USP2	non-WS	suramin	0.05
+USP2	non-WS	gnf-pf-254	0.2
+USP2	non-WS	cadmium acetate	0.27
+USP2	non-WS	dephostatin	0.09
+USP2	non-WS	ag-538	0.08
+USP2	non-WS	zaprinast	0.22
+USP2	non-WS	curcumin	0.03
+USP2	non-WS	tannic acid	0.24
+USP2	non-WS	mangostin	0.22
+USP2	non-WS	quinalizarin	0.14
+USP2	non-WS	gossypol	0.05
+USP2	non-WS	gentian violet	0.13
+USP2	non-WS	robustic acid	0.73
+USP2	non-WS	clofoctol	0.36
+USP2	non-WS	ellagic acid	0.05
+USP2	non-WS	thonzonium bromide	0.24
+USP2	non-WS	juglone	0.11
+USP2	non-WS	aurintricarboxylic acid	0.07
+USP2	non-WS	chaulmosulfone	2.18
+USP2	non-WS	gnf-pf-5510	0.1
+USP2	non-WS	sennoside b	0.14
+USP2	non-WS	iodoacetamide	0.16
+USP2	non-WS	hexachlorophene	0.05
+VCAM1	SHH-fro	carvedilol	0.89
+VCAM1	SHH-fro	troglitazone	0.42
+VCAM1	SHH-fro	cyclosporine	0.23
+VCAM1	SHH-fro	clove oil	3.55
+VCAM1	SHH-fro	succinobucol	7.1
+VCAM1	SHH-fro	dexamethasone	0.17
+VCAM1	SHH-fro	6-mercaptopurine	2.03
+VCAM1	SHH-fro	ethanol	0.11
+VEGFA	SHH-rev	aflibercept	1.89
+VEGFA	SHH-rev	fenofibrate	0.08
+VEGFA	SHH-rev	carboplatin	0.03
+VEGFA	SHH-rev	ranibizumab	6.51
+VEGFA	SHH-rev	squalamine	0.3
+VEGFA	SHH-rev	capecitabine	0.1
+VEGFA	SHH-rev	sildenafil	0.18
+VEGFA	SHH-rev	pegaptanib	2.37
+VEGFA	SHH-rev	mp-0112	0.39
+VEGFA	SHH-rev	ziv-aflibercept	1.89
+VEGFA	SHH-rev	irinotecan	0.07
+VEGFA	SHH-rev	bevacizumab	0.61
+VEGFA	SHH-rev	dalteparin	0.79
+VEGFA	SHH-rev	denibulin	0.39
+VEGFA	SHH-rev	muparfostat	0.12
+VEGFA	SHH-rev	pan-90806	0.03
+VEGFA	SHH-rev	cc-1088	0.59
+VEGFA	SHH-rev	celecoxib	0.04
+VEGFA	SHH-rev	docetaxel	0.06
+VEGFA	SHH-rev	4sc-202	0.2
+VEGFA	SHH-rev	pidolic acid	0.47
+VEGFA	SHH-rev	leucovorin	0.13
+VEGFA	SHH-rev	chondroitin sulfate	0.59
+VEGFA	SHH-rev	enalapril	0.12
+VEGFA	SHH-rev	gentamicin	0.1
+VEGFA	SHH-rev	alg-1001	1.18
+VEGFA	SHH-rev	brolucizumab	2.37
+VEGFA	SHH-rev	sorafenib	0.06
+VEGFA	SHH-rev	sns-032	0.07
+VEGFA	SHH-rev	pegaptanib sodium	2.37
+VEGFA	SHH-rev	carvedilol	0.18
+VEGFA	SHH-rev	cisplatin	0.02
+VEGFA	SHH-rev	zaltrap	0.59
+VEGFA	SHH-rev	phenytoin	0.06
+VEGFA	SHH-rev	sunitinib	0.06
+VEGFA	SHH-rev	conbercept	0.3
+VEGFA	SHH-rev	bevasiranib	3.55
+VEGFA	SHH-rev	regorafenib	0.04
+VEGFA	SHH-rev	elmiron	2.37
+VEGFA	SHH-rev	oxaliplatin	0.13
+VEGFA	SHH-rev	minocycline	0.28
+VEGFA	SHH-rev	vandetanib	0.02
+VEGFA	SHH-rev	bevacizumab 111in	1.18
+VEGFA	SHH-rev	gliclazide	0.85
+VEGFA	SHH-rev	fluorouracil	0.05
+VEGFA	SHH-rev	navicixizumab	0.59
+VEGFA	SHH-rev	abt-510	0.17
+VEGFA	SHH-rev	mp0250	0.59
+VEGFA	SHH-rev	lenalidomide	0.07
+VEGFA	SHH-rev	cilostazol	0.18
+VEGFB	SHH-rev	bevacizumab	1.04
+VEGFB	SHH-rev	lenalidomide	0.89
+VEGFB	SHH-rev	aflibercept	17.04
+VEGFB	SHH-rev	ziv-aflibercept	17.04
+VEGFB	SHH-rev	conbercept	3.55
+VIPR2	G4b-fro	phv	7.1
+VIPR2	G4b-fro	vip	7.1
+VIPR2	G4b-fro	secretin	9.47
+VIPR2	G4b-fro	phi	7.1
+XRCC3	G4b-fro	irinotecan	0.71
+XRCC3	G4b-fro	leucovorin	1.35
+XRCC3	G4b-fro	fluorouracil	0.36
